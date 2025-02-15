@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "692a151e-06b6-357b-8a7c-fbccd926f7cd",
+    "name": "Matermo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

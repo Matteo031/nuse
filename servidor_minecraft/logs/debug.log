@@ -14583,3 +14583,358 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [15Feb2025 22:47:59.149] [Worker-Main-6/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_3 is being run through DFU (hash cdd42b7ad3a91a84b244dd890a53eac3368c7fbee27c45ac18fced742117f86a), this will cause launch time delays
 [15Feb2025 22:47:59.162] [Worker-Main-6/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_1 is being run through DFU (hash 53bf0dd65c9acac44c1d91ea6ada46a9ce25659447de6c90588a2b86915cc19f), this will cause launch time delays
 [15Feb2025 22:47:59.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3403ms or 68 ticks behind
+[15Feb2025 22:49:11.182] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=309, y=-34, z=117}
+[15Feb2025 22:49:11.183] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=287, y=-34, z=113}
+[15Feb2025 22:49:11.206] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=314, y=-34, z=114}
+[15Feb2025 22:49:11.709] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=323, y=-34, z=141}
+[15Feb2025 22:49:11.710] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=281, y=-34, z=140}
+[15Feb2025 22:49:11.718] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=308, y=-34, z=140}
+[15Feb2025 22:49:11.719] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=309, y=-34, z=117}
+[15Feb2025 22:49:11.720] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=287, y=-34, z=113}
+[15Feb2025 22:49:11.725] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=314, y=-34, z=114}
+[15Feb2025 22:49:11.747] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=341, y=-34, z=148}
+[15Feb2025 22:49:11.749] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=309, y=-34, z=162}
+[15Feb2025 22:49:11.750] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=323, y=-34, z=141}
+[15Feb2025 22:49:11.841] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=310, y=-34, z=167}
+[15Feb2025 22:49:11.842] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=319, y=-34, z=168}
+[15Feb2025 22:49:11.844] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=309, y=-34, z=162}
+[15Feb2025 22:49:11.844] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=298, y=-21, z=175}
+[15Feb2025 22:49:12.027] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=311, y=-21, z=176}
+[15Feb2025 22:49:12.028] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=323, y=-34, z=204}
+[15Feb2025 22:49:12.028] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=310, y=-21, z=176}
+[15Feb2025 22:49:12.029] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=319, y=-34, z=168}
+[15Feb2025 22:49:12.030] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=308, y=-21, z=185}
+[15Feb2025 22:49:12.305] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=323, y=-34, z=204}
+[15Feb2025 22:49:12.308] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=317, y=-34, z=219}
+[15Feb2025 22:49:12.308] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=308, y=-21, z=185}
+[15Feb2025 22:49:12.311] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=308, y=-34, z=217}
+[15Feb2025 22:49:12.312] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=318, y=-34, z=207}
+[15Feb2025 22:49:12.511] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=317, y=-34, z=219}
+[15Feb2025 22:49:12.520] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=311, y=-34, z=220}
+[15Feb2025 22:49:12.520] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=308, y=-34, z=217}
+[15Feb2025 22:49:12.521] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=318, y=-34, z=207}
+[15Feb2025 22:49:12.655] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=311, y=-34, z=220}
+[15Feb2025 22:49:12.656] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=317, y=-34, z=252}
+[15Feb2025 22:49:12.661] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=310, y=-34, z=237}
+[15Feb2025 22:49:12.662] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=316, y=-34, z=227}
+[15Feb2025 22:49:12.663] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=287, y=-34, z=236}
+[15Feb2025 22:49:14.449] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=317, y=-34, z=252}
+[15Feb2025 22:49:14.453] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=318, y=-48, z=241}
+[15Feb2025 22:49:14.454] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=308, y=-34, z=250}
+[15Feb2025 22:49:14.458] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=317, y=-34, z=267}
+[15Feb2025 22:49:14.460] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=318, y=-34, z=255}
+[15Feb2025 22:49:14.573] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=317, y=-34, z=267}
+[15Feb2025 22:49:14.575] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=318, y=-34, z=255}
+[15Feb2025 22:49:14.576] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=308, y=-34, z=265}
+[15Feb2025 22:49:14.576] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=315, y=-34, z=285}
+[15Feb2025 22:49:16.549] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=314, y=-34, z=114}
+[15Feb2025 22:49:16.880] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=326, y=-34, z=147}
+[15Feb2025 22:49:16.883] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=323, y=-34, z=141}
+[15Feb2025 22:49:16.884] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=314, y=-34, z=114}
+[15Feb2025 22:49:16.962] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=328, y=-34, z=155}
+[15Feb2025 22:49:16.963] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=341, y=-34, z=148}
+[15Feb2025 22:49:16.964] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=326, y=-34, z=147}
+[15Feb2025 22:49:16.966] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=323, y=-34, z=141}
+[15Feb2025 22:49:17.030] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=328, y=-34, z=155}
+[15Feb2025 22:49:17.307] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=310, y=-34, z=167}
+[15Feb2025 22:49:17.691] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=352, y=-34, z=176}
+[15Feb2025 22:49:17.713] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=311, y=-21, z=176}
+[15Feb2025 22:49:17.714] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=323, y=-34, z=204}
+[15Feb2025 22:49:17.728] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=352, y=-34, z=176}
+[15Feb2025 22:49:17.738] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=323, y=-34, z=204}
+[15Feb2025 22:49:17.738] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=318, y=-34, z=207}
+[15Feb2025 22:49:17.749] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=352, y=-34, z=176}
+[15Feb2025 22:49:17.765] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=318, y=-34, z=207}
+[15Feb2025 22:49:17.993] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=352, y=-34, z=176}
+[15Feb2025 22:49:18.012] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=316, y=-34, z=227}
+[15Feb2025 22:49:18.012] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=322, y=-34, z=225}
+[15Feb2025 22:49:19.383] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=318, y=-48, z=241}
+[15Feb2025 22:49:19.385] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=318, y=-34, z=255}
+[15Feb2025 22:49:42.957] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:49:43.011] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:49:48.416] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:49:48.470] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:49:48.518] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:49:48.577] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:49:48.620] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:49:48.670] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:49:48.714] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:49:48.763] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:49:48.815] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:49:48.870] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:49:48.937] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:50:01.025] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Feb2025 22:50:01.477] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Feb2025 22:50:02.107] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Feb2025 22:50:02.662] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Feb2025 22:50:29.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Feb2025 22:50:30.259] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Feb2025 22:51:08.653] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Feb2025 22:51:15.271] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:51:15.325] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:51:15.385] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:51:15.415] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:51:15.470] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:51:15.525] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:51:15.561] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:51:15.634] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:51:15.657] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:51:15.721] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:51:15.760] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:51:15.812] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:51:15.862] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:51:15.904] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:51:15.953] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:51:16.003] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:51:22.058] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[15Feb2025 22:51:22.058] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[15Feb2025 22:51:22.058] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[15Feb2025 22:51:22.058] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[15Feb2025 22:51:22.058] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[15Feb2025 22:51:22.058] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[15Feb2025 22:51:22.058] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[15Feb2025 22:51:22.058] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:gas
+[15Feb2025 22:51:22.058] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[15Feb2025 22:51:22.058] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[15Feb2025 22:51:22.058] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[15Feb2025 22:51:22.058] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[15Feb2025 22:51:22.058] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[15Feb2025 22:51:22.058] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[15Feb2025 22:51:22.058] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[15Feb2025 22:51:22.058] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[15Feb2025 22:51:22.058] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[15Feb2025 22:51:22.058] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:pigment
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:infuse_type
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[15Feb2025 22:51:22.059] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[15Feb2025 22:51:22.060] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[15Feb2025 22:51:22.060] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[15Feb2025 22:51:22.060] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[15Feb2025 22:51:22.060] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[15Feb2025 22:51:22.060] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[15Feb2025 22:51:22.060] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[15Feb2025 22:51:22.060] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[15Feb2025 22:51:22.060] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[15Feb2025 22:51:22.060] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[15Feb2025 22:51:22.060] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: rats:rat_variant
+[15Feb2025 22:51:22.060] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[15Feb2025 22:51:22.060] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[15Feb2025 22:51:22.060] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:slurry
+[15Feb2025 22:51:22.060] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[15Feb2025 22:51:22.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Feb2025 22:51:22.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Feb2025 22:53:00.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [Sweet Dreams]
+[15Feb2025 22:53:52.653] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:53:52.715] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:53:52.753] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:53:52.803] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:53:52.859] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[15Feb2025 22:53:57.580] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=326, y=-34, z=147}
+[15Feb2025 22:53:57.900] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=328, y=-34, z=155}
+[15Feb2025 22:53:57.900] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=341, y=-34, z=148}
+[15Feb2025 22:53:57.901] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=326, y=-34, z=147}
+[15Feb2025 22:53:57.946] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=328, y=-34, z=155}
+[15Feb2025 22:53:58.099] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=352, y=-34, z=176}
+[15Feb2025 22:54:00.303] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=352, y=-34, z=176}
+[15Feb2025 22:54:00.334] [Worker-Main-6/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=352, y=-34, z=176}
+[15Feb2025 22:54:00.595] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=352, y=-34, z=176}
+[15Feb2025 22:54:00.624] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=360, y=-34, z=255}
+[15Feb2025 22:54:01.284] [Worker-Main-9/DEBUG] [ModernFix/]: Structure watching:logless_tree/birch/logless_tree1 is being run through DFU (hash e142bc0c1b3e8ccdb32b2561c71d4163a0e9d9313dc95ed390966cfaf1d8cc3c), this will cause launch time delays
+[15Feb2025 22:54:01.302] [Worker-Main-9/DEBUG] [ModernFix/]: Structure watching:logless_tree/acacia/logless_tree2 is being run through DFU (hash 5182f0f5ddb778043f673e9179387339e7cb40e576c487bf37c706447ed9fb71), this will cause launch time delays
+[15Feb2025 22:54:01.424] [Worker-Main-9/DEBUG] [ModernFix/]: Structure mowziesmobs:frostmaw_spawn is being run through DFU (hash 1a197889d263c12966f1abd25989fefe2ef31123d3bbe370dc207a1d953a454a), this will cause launch time delays
+[15Feb2025 22:54:03.688] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=352, y=-34, z=176}
+[15Feb2025 22:54:03.695] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=353, y=-34, z=204}
+[15Feb2025 22:54:03.969] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=352, y=-34, z=176}
+[15Feb2025 22:54:03.974] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=359, y=-34, z=205}
+[15Feb2025 22:54:03.975] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=359, y=-34, z=220}
+[15Feb2025 22:54:03.975] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=358, y=-34, z=217}
+[15Feb2025 22:54:03.976] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=358, y=-34, z=232}
+[15Feb2025 22:54:03.983] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=352, y=-34, z=176}
+[15Feb2025 22:54:03.986] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=353, y=-34, z=204}
+[15Feb2025 22:54:03.987] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=359, y=-34, z=205}
+[15Feb2025 22:54:03.987] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=358, y=-34, z=217}
+[15Feb2025 22:54:04.476] [Worker-Main-10/DEBUG] [ModernFix/]: Structure watching:logless_tree/acacia/logless_tree4 is being run through DFU (hash e58854ba7348f8aa2bdf726bc0b6111b189f3e18d3ef09ecc2ad4d8bfd711f28), this will cause launch time delays
+[15Feb2025 22:54:04.536] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=352, y=-34, z=176}
+[15Feb2025 22:54:04.543] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=359, y=-34, z=220}
+[15Feb2025 22:54:04.544] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=358, y=-34, z=232}
+[15Feb2025 22:54:04.545] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=365, y=-34, z=252}
+[15Feb2025 22:54:04.545] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=360, y=-34, z=255}
+[15Feb2025 22:54:06.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has reached the goal [Feeling Watched]
+[15Feb2025 22:54:08.858] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=368, y=-48, z=208}
+[15Feb2025 22:54:08.859] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=368, y=-34, z=221}
+[15Feb2025 22:54:09.457] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=368, y=-34, z=221}
+[15Feb2025 22:54:19.976] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=365, y=-34, z=252}
+[15Feb2025 22:54:19.976] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=366, y=-34, z=243}
+[15Feb2025 22:54:19.977] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=360, y=-34, z=255}
+[15Feb2025 22:54:20.014] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=360, y=-34, z=255}
+[15Feb2025 22:54:26.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [Stone Age]
+[15Feb2025 22:54:27.908] [Worker-Main-9/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=318, y=-34, z=255}
+[15Feb2025 22:55:37.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [Getting an Upgrade]
+[15Feb2025 22:56:13.949] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[15Feb2025 22:56:13.950] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin from mod radium: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:gas
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[15Feb2025 22:56:21.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:pigment
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:infuse_type
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[15Feb2025 22:56:21.967] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[15Feb2025 22:56:21.968] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[15Feb2025 22:56:21.968] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[15Feb2025 22:56:21.968] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[15Feb2025 22:56:21.968] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[15Feb2025 22:56:21.968] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[15Feb2025 22:56:21.968] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[15Feb2025 22:56:21.968] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[15Feb2025 22:56:21.968] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[15Feb2025 22:56:21.968] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[15Feb2025 22:56:21.968] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[15Feb2025 22:56:21.968] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[15Feb2025 22:56:21.969] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[15Feb2025 22:56:21.969] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[15Feb2025 22:56:21.969] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[15Feb2025 22:56:21.969] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[15Feb2025 22:56:21.969] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[15Feb2025 22:56:21.969] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[15Feb2025 22:56:21.969] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: rats:rat_variant
+[15Feb2025 22:56:21.969] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[15Feb2025 22:56:21.969] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[15Feb2025 22:56:21.969] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:slurry
+[15Feb2025 22:56:21.969] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[15Feb2025 22:56:21.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Feb2025 22:56:22.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Feb2025 22:57:13.538] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/tower is being run through DFU (hash 6e718f1da79a822e68c7d0887750456f71e1aa8479f3bbd21657482676120827), this will cause launch time delays
+[15Feb2025 22:57:13.570] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:mobs/evoker is being run through DFU (hash 39eeca0a6ae95a3c64a14f0962b7be8c7a70f9ef13f1b6e8c15d3a5d721b398c), this will cause launch time delays
+[15Feb2025 22:57:13.571] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:mobs/archivist is being run through DFU (hash 62e19638cf34f5dd3241093661e2b9211a7c655c4a277c234eb794af0ae9832e), this will cause launch time delays
+[15Feb2025 22:57:13.573] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/halls/straight_and_left_right_room is being run through DFU (hash 4226f11510285f0b5ff4acc030ec5be597f093c8a7bfd77abf0fce0b44e46aba), this will cause launch time delays
+[15Feb2025 22:57:13.576] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/halls/straight_and_left_and_right is being run through DFU (hash 0d89d5ffc04f16744ac52799cb634ec244729f03197d712be12f23b4e7d3662e), this will cause launch time delays
+[15Feb2025 22:57:13.579] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:mobs/provoker is being run through DFU (hash 744953312844278c5fea20b5b93bbc3a3784d0e2e5ee44f30bd84635f4d36410), this will cause launch time delays
+[15Feb2025 22:57:13.579] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:mobs/vindicator is being run through DFU (hash cc3a99ef1eb254cc70dd8181218e198f72eca4b33b47abef4a9fb144d026bc38), this will cause launch time delays
+[15Feb2025 22:57:13.580] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:mobs/basher is being run through DFU (hash 1d50b017c7a4bcb0f8b83e84dfb409ed13e09701d1da61ad534b32f00c33dc8f), this will cause launch time delays
+[15Feb2025 22:57:13.581] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/rooms/room_1 is being run through DFU (hash bd2a0b4371a781c35185173393c529e4c4457d301a6ac1240bf670e28171be6c), this will cause launch time delays
+[15Feb2025 22:57:13.584] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/halls/straight_and_right_no_rooms is being run through DFU (hash 07445d1d9093fc8fba613db4ec4dc2742582a4f540e5c24b833b1729ce1d742d), this will cause launch time delays
+[15Feb2025 22:57:13.586] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/halls/straight_two_rooms is being run through DFU (hash e32a026433ba89a592e1809187d01d5acaf416c2940806e827e61a2cbacbe9cb), this will cause launch time delays
+[15Feb2025 22:57:13.588] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/halls/straight_and_right_left_room is being run through DFU (hash 5c3a4c2965a7efc24fb826dd694c2c68f9407e572222fe081a339a0a9b076459), this will cause launch time delays
+[15Feb2025 22:57:13.590] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/halls/straight_right_room is being run through DFU (hash 9a6d4c60df02b8b7cd79c7d8ea3badd3f5d8c37c27ae12ac4f0a71f2b3423efd), this will cause launch time delays
+[15Feb2025 22:57:13.591] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:mobs/necromancer is being run through DFU (hash 27e13f6b80b3f1995b85fb15e6cf9ec3b7b35375080e8552f2f9dae47812999e), this will cause launch time delays
+[15Feb2025 22:57:13.592] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/halls/straight_left_room is being run through DFU (hash 50457d4ec7d0379e69b4e26fcf362bb70d3d4b25c598567bfc2b8fa6b562bac9), this will cause launch time delays
+[15Feb2025 22:57:13.594] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/rooms/room_0 is being run through DFU (hash 79eaeee41c0ffc6ea87f26947a2fc486c673e472e98d6fcee457358c7770840c), this will cause launch time delays
+[15Feb2025 22:57:13.597] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/rooms/room_6 is being run through DFU (hash 662b4fa3275f8a9141e2f98747713d620b86684b7a5176caaeda182708c2afb7), this will cause launch time delays
+[15Feb2025 22:57:13.599] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/rooms/room_8 is being run through DFU (hash 2ed5b44d6012999b743d9628924ffa984861d61252cd9cf647f9613c4b2fe5c0), this will cause launch time delays
+[15Feb2025 22:57:13.604] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/rooms/room_4 is being run through DFU (hash c6ead61711b59495ec24a32d762d262c149afdb269afe7c83e9fd4dbff2acbef), this will cause launch time delays
+[15Feb2025 22:57:13.609] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/rooms/room_5 is being run through DFU (hash 3535579c35d60856b01f0982abecdc76696c20f3e9a650fe3de7fd40077751e6), this will cause launch time delays
+[15Feb2025 22:57:13.612] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/rooms/room_7 is being run through DFU (hash 1527eda72a4597678932c01714b6b412e818b83b61003be9d5d3af9c813668e6), this will cause launch time delays
+[15Feb2025 22:57:13.614] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/rooms/room_9 is being run through DFU (hash 3f50033708b57a7da1d920e4a17df4b1567dfc59fc3b6b18bd2203c2d3a22d3c), this will cause launch time delays
+[15Feb2025 22:57:13.617] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/rooms/room_3 is being run through DFU (hash 5c96f8dd038bfbb347b0d96fe7dce23b55de4b381ee95cb26d5542c6992138ca), this will cause launch time delays
+[15Feb2025 22:57:13.619] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/rooms/room_2 is being run through DFU (hash b8a37ce5171f35028495f2fb711ea7bdc5ee0634a0430da5c7e76cff0b349a9d), this will cause launch time delays
+[15Feb2025 22:57:13.622] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/halls/left_no_rooms is being run through DFU (hash e914393a42d766911244b5bdf041ddbc11dd63b16a954e0b333573f4edf64a13), this will cause launch time delays
+[15Feb2025 22:57:13.623] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/halls/straight_no_rooms is being run through DFU (hash 0826763f36df7a2364af03889da7d6d17b0608d19136ce42acbabcc51f8ef2a2), this will cause launch time delays
+[15Feb2025 22:57:13.625] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/halls/straight_and_left_no_rooms is being run through DFU (hash 210d58dfaae2e226853993d2948cc5db4ad88dfc16996e0badc78544184572b7), this will cause launch time delays
+[15Feb2025 22:57:13.627] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/halls/right_no_rooms is being run through DFU (hash 4446b48ae342668ddf2c75ed6b44a39a7fd9798a93f8662c0b5739290563520e), this will cause launch time delays
+[15Feb2025 22:57:13.629] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:mobs/marauder is being run through DFU (hash 631847a38d33e700b6c7374df393755c390f03a0c8b95d010ff47cbe4f0486b5), this will cause launch time delays
+[15Feb2025 22:57:13.634] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:mobs/alchemist is being run through DFU (hash eef2002f3d00ad19e61a8526376e4db7c77a4f4b3cca0ba9e566fbbaed50371b), this will cause launch time delays
+[15Feb2025 22:57:16.399] [Worker-Main-10/DEBUG] [ModernFix/]: Structure watching:leafless_grove/oak_birch/grove2 is being run through DFU (hash d97dcab539cb7e2452b022816a681589b91bce34a056d00da37d714dcd211581), this will cause launch time delays
+[15Feb2025 22:57:16.715] [Worker-Main-10/DEBUG] [ModernFix/]: Structure totw_modded:jungle/jungle_tower_bottom is being run through DFU (hash 1c0ab2ea330b16635c6e86c07eaeff51a4e8e9e2edb2b4bacef0b1a3f358c08e), this will cause launch time delays
+[15Feb2025 22:57:16.875] [Worker-Main-10/DEBUG] [ModernFix/]: Structure totw_modded:derelict/derelict_tower_bottom is being run through DFU (hash 78c8b08a83e4ff6f6b1ca5dc27bf52e97886e4940a1573382081531764fc1f1e), this will cause launch time delays
+[15Feb2025 22:57:16.905] [Worker-Main-10/DEBUG] [ModernFix/]: Structure totw_modded:ice/ice_tower_bottom is being run through DFU (hash 39f0974dffce12cf632773fe3d2aaca31ba2cf19f8b74e3e0cc6fd13d9f84b2f), this will cause launch time delays
+[15Feb2025 22:57:17.630] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[15Feb2025 22:57:17.670] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[15Feb2025 22:57:17.687] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[15Feb2025 22:57:17.714] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[15Feb2025 22:57:17.745] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_1 is being run through DFU (hash e05cb017ec39f3d64bd0895da26c95f7becd230d1d88380757e2bc6aa62009b5), this will cause launch time delays
+[15Feb2025 22:57:17.872] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[15Feb2025 22:58:32.270] [Worker-Main-10/DEBUG] [ModernFix/]: Structure watching:logless_tree/oak/logless_tree2 is being run through DFU (hash b72fa10cb6a28df6e8821732c459dd295190d61f884a8f2f9cd43a62e57f8402), this will cause launch time delays
+[15Feb2025 22:58:32.274] [Worker-Main-10/DEBUG] [ModernFix/]: Structure watching:logless_tree/spruce/logless_tree2 is being run through DFU (hash d124e5c7752d944fe4b7a8ecd607fedc6e1f44747b70b030e3efaab7e13d66c3), this will cause launch time delays
+[15Feb2025 22:59:12.644] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/bobmowzie/mowziesmobs/client/sound/BossMusic for invalid dist DEDICATED_SERVER
+[15Feb2025 22:59:12.645] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.bobmowzie.mowziesmobs.server.entity.wroughtnaut.EntityWroughtnaut cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class com/bobmowzie/mowziesmobs/client/sound/BossMusic for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[15Feb2025 23:00:41.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Matermo a server operator
