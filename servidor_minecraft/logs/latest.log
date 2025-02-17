@@ -1016,3 +1016,22 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [17Feb2025 23:21:26.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
 [17Feb2025 23:21:26.342] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
 [17Feb2025 23:21:26.512] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[17Feb2025 23:22:17.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER has reached the goal [Quaint Scribe]
+[17Feb2025 23:26:49.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to RennSo]
+[17Feb2025 23:28:14.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported MAGIBER to MAGIBER]
+[17Feb2025 23:28:16.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported MAGIBER to Matermo]
+[17Feb2025 23:28:36.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo moved wrongly!
+[17Feb2025 23:28:59.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER has made the advancement [Into Fire]
+[17Feb2025 23:29:02.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [Chompy]
+[17Feb2025 23:29:04.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER has made the advancement [Chompy]
+[17Feb2025 23:29:16.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Chompy]
+[17Feb2025 23:29:21.584] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Feb2025 23:29:45.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [Amateur Archaeologist]
+[17Feb2025 23:29:55.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [It Belongs in a Museum]
+[17Feb2025 23:30:08.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER has made the advancement [Penteconter]
+[17Feb2025 23:30:18.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [Diamonds!]
+[17Feb2025 23:37:43.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to RennSo]
+[17Feb2025 23:37:48.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to MAGIBER]
+[17Feb2025 23:37:51.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to RennSo]
+[17Feb2025 23:37:54.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported MAGIBER to Matermo]
+[17Feb2025 23:39:00.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER has made the advancement [Isn't It Iron Pick]
