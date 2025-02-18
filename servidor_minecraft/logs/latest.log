@@ -1006,3 +1006,24 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [18Feb2025 14:30:58.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-18, y=71, z=25}
 [18Feb2025 14:31:32.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkAguile has reached the goal [Feeling Watched]
 [18Feb2025 14:31:48.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkAguile has made the advancement [Alex's Mobs]
+[18Feb2025 14:32:41.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkAguile was slain by Man From The Fog
+[18Feb2025 14:32:47.911] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityHummingbird['Hummingbird'/886, l='ServerLevel[world]', x=-92.43, y=116.24, z=-192.12]
+[18Feb2025 14:33:37.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkAguile was slain by Zombie
+[18Feb2025 14:33:51.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-22, y=71, z=13}
+[18Feb2025 14:33:51.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-21, y=71, z=13}
+[18Feb2025 14:34:53.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkAguile was slain by Spider
+[18Feb2025 14:39:35.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkAguile has made the advancement [Stone Age]
+[18Feb2025 14:39:55.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkAguile has made the advancement [Getting an Upgrade]
+[18Feb2025 14:41:26.625] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/bobmowzie/mowziesmobs/client/sound/BossMusic for invalid dist DEDICATED_SERVER
+[18Feb2025 14:41:26.626] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.bobmowzie.mowziesmobs.server.entity.wroughtnaut.EntityWroughtnaut cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class com/bobmowzie/mowziesmobs/client/sound/BossMusic for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18Feb2025 14:47:07.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkAguile has made the advancement [Monster Hunter]
+[18Feb2025 14:47:11.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkAguile has made the advancement [Sweet Dreams]
+[18Feb2025 14:48:38.956] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-421, y=3, z=-395}
+[18Feb2025 14:48:58.652] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-408, y=-37, z=-423}
+[18Feb2025 14:50:40.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkAguile was slain by Zombie
+[18Feb2025 14:50:40.242] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[18Feb2025 14:50:40.242] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[18Feb2025 14:50:40.243] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[18Feb2025 14:50:40.243] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[18Feb2025 14:50:40.243] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[18Feb2025 14:52:15.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkAguile was slain by Ghost
