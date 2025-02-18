@@ -151,14 +151,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "quark:glimmering_weald": "2025-02-18 02:22:00 +0000",
       "minecraft:sunflower_plains": "2025-02-18 00:25:57 +0000",
       "minecraft:birch_forest": "2025-02-17 22:00:25 +0000",
+      "minecraft:bamboo_jungle": "2025-02-18 02:29:50 +0000",
       "minecraft:savanna_plateau": "2025-02-18 00:32:51 +0000",
+      "minecraft:beach": "2025-02-18 02:30:33 +0000",
       "minecraft:dark_forest": "2025-02-17 21:11:07 +0000",
       "minecraft:sparse_jungle": "2025-02-17 23:49:57 +0000",
       "minecraft:river": "2025-02-17 21:22:21 +0000",
       "minecraft:dripstone_caves": "2025-02-18 00:32:37 +0000",
       "minecraft:forest": "2025-02-17 22:01:44 +0000",
+      "minecraft:lush_caves": "2025-02-18 02:19:51 +0000",
       "minecraft:jungle": "2025-02-17 23:26:33 +0000",
       "minecraft:flower_forest": "2025-02-18 00:03:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-17 22:00:30 +0000",
@@ -296,6 +300,7 @@
       "pumpkin_pie": "2025-02-17 21:48:48 +0000",
       "bread": "2025-02-17 21:49:48 +0000",
       "golden_apple": "2025-02-17 23:43:45 +0000",
+      "enchanted_golden_apple": "2025-02-18 02:33:17 +0000",
       "mushroom_stew": "2025-02-17 21:54:05 +0000",
       "carrot": "2025-02-17 21:43:10 +0000"
     },
@@ -466,6 +471,7 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
+      "copper": "2025-02-18 02:46:39 +0000",
       "rose_gold": "2025-02-18 02:07:09 +0000",
       "hepatizon": "2025-02-18 02:07:09 +0000"
     },
@@ -477,9 +483,51 @@
     },
     "done": false
   },
+  "rats:plague": {
+    "criteria": {
+      "catch_plague": "2025-02-18 02:30:58 +0000"
+    },
+    "done": true
+  },
   "totw_modded:jungle_tower": {
     "criteria": {
       "jungle": "2025-02-18 02:14:01 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-02-18 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-02-18 02:52:26 +0000"
+    },
+    "done": true
+  },
+  "rats:all_hats": {
+    "criteria": {
+      "has_archeologist_hat": "2025-02-18 02:25:12 +0000"
+    },
+    "done": false
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-02-18 02:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-02-18 02:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-02-18 02:44:39 +0000"
     },
     "done": true
   },
