@@ -391,21 +391,9 @@
     },
     "done": true
   },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-02-18 00:44:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-02-18 00:25:13 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:zombie_dungeon": {
-    "criteria": {
-      "in_better_zombie_dungeon": "2025-02-18 00:35:35 +0000"
     },
     "done": true
   },
@@ -415,17 +403,36 @@
     },
     "done": true
   },
-  "lootr:1cart": {
+  "mowziesmobs:sneak_grove": {
     "criteria": {
-      "opened_cart": "2025-02-18 00:50:29 +0000"
+      "sneak_grove": "2025-02-18 00:30:00 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-02-18 00:35:35 +0000"
     },
     "done": true
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-02-18 00:35:35 +0000"
+      "in_better_zombie_dungeon": "2025-02-18 00:35:35 +0000",
+      "in_better_monster_room": "2025-02-18 01:30:56 +0000"
     },
     "done": false
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-02-18 00:36:55 +0000"
+    },
+    "done": false
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-02-18 00:44:28 +0000"
+    },
+    "done": true
   },
   "artifacts:amateur_archaeologist": {
     "criteria": {
@@ -439,17 +446,17 @@
     },
     "done": true
   },
-  "mowziesmobs:sneak_grove": {
+  "lootr:1cart": {
     "criteria": {
-      "sneak_grove": "2025-02-18 00:30:00 +0000"
+      "opened_cart": "2025-02-18 00:50:29 +0000"
     },
     "done": true
   },
-  "deeperdarker:main/kill_all_sculk_mobs": {
+  "betterdungeons:small_dungeon": {
     "criteria": {
-      "phantom": "2025-02-18 00:36:55 +0000"
+      "in_better_monster_room": "2025-02-18 01:30:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

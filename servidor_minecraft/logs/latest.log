@@ -1032,3 +1032,8 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [18Feb2025 01:25:41.314] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/12193, l='ServerLevel[world]', x=-1584.50, y=71.31, z=1185.92]
 [18Feb2025 01:25:41.314] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/12194, l='ServerLevel[world]', x=-1585.41, y=71.02, z=1186.40]
 [18Feb2025 01:25:41.315] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/12195, l='ServerLevel[world]', x=-1586.57, y=70.73, z=1187.01]
+[18Feb2025 01:29:14.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/359, l='ServerLevel[world]', x=-1473.83, y=81.00, z=832.50] died, message: 'Unemployed was blown up by Creeper'
+[18Feb2025 01:30:07.268] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/408, l='ServerLevel[world]', x=-1523.31, y=66.00, z=922.31] died, message: 'Librarian was shot by Skeleton'
+[18Feb2025 01:30:55.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER was slain by Man From The Fog
+[18Feb2025 01:30:56.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Quite the Renovation]
+[18Feb2025 01:34:14.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to MAGIBER]
