@@ -979,3 +979,12 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [18Feb2025 15:58:00.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo joined the game
 [18Feb2025 15:58:00.665] [Server thread/INFO] [Jade/]: Syncing config to RennSo (1b7f650f-6476-3cdf-bde6-14b0465ec7d8)
 [18Feb2025 15:58:01.139] [Server thread/INFO] [ping-wheel/]: Channel update: RennSo -> default
+[18Feb2025 16:08:15.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo moved too quickly! -3.8868540178830244,2.0106500141260213,-9.093889181031955
+[18Feb2025 16:08:15.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[18Feb2025 16:08:30.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] trolo
+[18Feb2025 16:08:57.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] dale alegria a tu cuerpo macarena
+[18Feb2025 16:09:17.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RennSo> y sii
+[18Feb2025 16:09:30.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RennSo> en vez de cantar, te pones a arreglar el server para q no se apague solo
+[18Feb2025 16:09:35.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RennSo> o q yo pueda abrirlo
+[18Feb2025 16:15:03.132] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo lost connection: Disconnected
+[18Feb2025 16:15:03.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo left the game
