@@ -228,7 +228,8 @@
       "minecraft:silverfish": "2025-02-17 22:02:10 +0000",
       "minecraft:enderman": "2025-02-18 02:58:06 +0000",
       "minecraft:zombie": "2025-02-17 23:24:10 +0000",
-      "minecraft:drowned": "2025-02-18 03:39:06 +0000"
+      "minecraft:drowned": "2025-02-18 03:39:06 +0000",
+      "minecraft:zombie_villager": "2025-02-18 06:13:17 +0000"
     },
     "done": false
   },
@@ -602,31 +603,31 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-18 06:10:49 +0000"
+      "log_spam_fixer": "2025-02-18 06:18:49 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-18 06:10:49 +0000"
+      "log_spam_fixer": "2025-02-18 06:18:49 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-18 06:10:49 +0000"
+      "log_spam_fixer": "2025-02-18 06:18:49 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-18 06:10:49 +0000"
+      "log_spam_fixer": "2025-02-18 06:18:49 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-18 06:10:49 +0000"
+      "log_spam_fixer": "2025-02-18 06:18:49 +0000"
     },
     "done": false
   },
@@ -638,43 +639,43 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-02-18 06:10:49 +0000"
+      "log_spam_fixer": "2025-02-18 06:18:49 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-18 06:10:49 +0000"
+      "log_spam_fixer": "2025-02-18 06:18:49 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-18 06:10:49 +0000"
+      "log_spam_fixer": "2025-02-18 06:18:49 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-18 06:10:49 +0000"
+      "log_spam_fixer": "2025-02-18 06:18:49 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-18 06:10:49 +0000"
+      "log_spam_fixer": "2025-02-18 06:18:49 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-18 06:10:49 +0000"
+      "log_spam_fixer": "2025-02-18 06:18:49 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-18 06:10:49 +0000"
+      "log_spam_fixer": "2025-02-18 06:18:49 +0000"
     },
     "done": false
   },
