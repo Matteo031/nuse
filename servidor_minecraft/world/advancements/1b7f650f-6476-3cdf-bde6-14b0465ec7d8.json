@@ -211,6 +211,7 @@
       "minecraft:guardian": "2025-02-18 05:00:08 +0000",
       "minecraft:vindicator": "2025-02-17 21:24:36 +0000",
       "minecraft:spider": "2025-02-17 21:30:13 +0000",
+      "minecraft:piglin_brute": "2025-02-18 19:25:37 +0000",
       "minecraft:creeper": "2025-02-18 00:47:07 +0000",
       "minecraft:slime": "2025-02-18 17:51:24 +0000",
       "minecraft:phantom": "2025-02-18 00:36:55 +0000",
@@ -218,6 +219,7 @@
       "minecraft:cave_spider": "2025-02-18 00:50:02 +0000",
       "minecraft:silverfish": "2025-02-17 22:02:10 +0000",
       "minecraft:enderman": "2025-02-18 02:58:06 +0000",
+      "minecraft:vex": "2025-02-18 19:25:11 +0000",
       "minecraft:zombie": "2025-02-17 23:24:10 +0000",
       "minecraft:drowned": "2025-02-18 03:39:06 +0000",
       "minecraft:zombie_villager": "2025-02-18 06:13:17 +0000"
@@ -468,12 +470,15 @@
     "criteria": {
       "copper": "2025-02-18 02:46:39 +0000",
       "rose_gold": "2025-02-18 02:07:09 +0000",
-      "hepatizon": "2025-02-18 02:07:09 +0000"
+      "slimesteel": "2025-02-18 19:25:54 +0000",
+      "hepatizon": "2025-02-18 02:07:09 +0000",
+      "flint": "2025-02-18 19:25:54 +0000"
     },
     "done": false
   },
   "tconstruct:world/ancient_tools": {
     "criteria": {
+      "battlesign": "2025-02-18 19:25:54 +0000",
       "melting_pan": "2025-02-18 02:07:09 +0000"
     },
     "done": false
@@ -650,6 +655,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:weeping_valley": "2025-02-18 19:24:35 +0000",
       "incendium:inverted_forest": "2025-02-18 18:12:59 +0000",
       "incendium:toxic_heap": "2025-02-18 17:48:30 +0000",
       "incendium:withered_forest": "2025-02-18 18:08:59 +0000"
@@ -728,6 +734,36 @@
   "mekanism:enricher": {
     "criteria": {
       "enrichment_chamber": "2025-02-18 18:55:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/kill_spirit": {
+    "criteria": {
+      "requirement": "2025-02-18 19:25:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:foundry/plate_armor": {
+    "criteria": {
+      "crafted_chestplate": "2025-02-18 19:25:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-02-18 19:25:52 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2025-02-18 19:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-18 19:24:35 +0000"
     },
     "done": true
   },

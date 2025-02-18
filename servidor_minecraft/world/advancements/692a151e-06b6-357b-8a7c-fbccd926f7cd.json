@@ -629,5 +629,24 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-02-18 19:27:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "hepatizon": "2025-02-18 19:27:41 +0000",
+      "flint": "2025-02-18 19:27:41 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "battlesign": "2025-02-18 19:27:41 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

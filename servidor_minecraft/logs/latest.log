@@ -1394,3 +1394,70 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [18Feb2025 19:25:27.037] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/7085, l='ServerLevel[world]', x=-244.95, y=35.50, z=323.24] died: Restless Spirit was eviscerated by RennSo's vexes
 [18Feb2025 19:25:36.520] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/6392, l='ServerLevel[world]', x=-242.41, y=35.50, z=319.23] died: Restless Spirit was slain by RennSo
 [18Feb2025 19:25:39.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[18Feb2025 19:25:52.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [War Pigs]
+[18Feb2025 19:25:54.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [A New Protector...]
+[18Feb2025 19:25:59.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[18Feb2025 19:26:04.781] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/7858, l='ServerLevel[world]', x=-241.96, y=36.08, z=320.45] died: Restless Spirit was eviscerated by RennSo's vexes
+[18Feb2025 19:26:09.281] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/7855, l='ServerLevel[world]', x=-249.45, y=38.50, z=327.74] died: Restless Spirit was eviscerated by RennSo's vexes
+[18Feb2025 19:26:16.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
+[18Feb2025 19:26:33.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to MAGIBER]
+[18Feb2025 19:26:56.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to Matermo]
+[18Feb2025 19:27:39.550] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[18Feb2025 19:27:59.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER was slain by Skeleton
+[18Feb2025 19:27:59.254] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[18Feb2025 19:27:59.255] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[18Feb2025 19:27:59.256] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[18Feb2025 19:27:59.256] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[18Feb2025 19:27:59.256] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[18Feb2025 19:28:02.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
+[18Feb2025 19:28:02.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[18Feb2025 19:28:05.414] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/361, l='ServerLevel[world]', x=-1254.23, y=-26.00, z=1290.10, removed=DISCARDED]
+[18Feb2025 19:28:12.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:49541] logged in with entity id 10076 at (-1241.5, 91.0, 1592.5)
+[18Feb2025 19:28:12.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[18Feb2025 19:28:12.611] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[18Feb2025 19:28:12.858] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[18Feb2025 19:29:18.054] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/361, l='ServerLevel[world]', x=-1254.23, y=-26.00, z=1290.10, removed=DISCARDED]
+[18Feb2025 19:29:21.853] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[18Feb2025 19:30:23.152] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
+[18Feb2025 19:30:23.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[18Feb2025 19:30:29.767] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:39777] logged in with entity id 12484 at (-1039.8127917684483, 91.0625, 1728.285061773599)
+[18Feb2025 19:30:29.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[18Feb2025 19:30:29.811] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[18Feb2025 19:30:30.078] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[18Feb2025 19:30:30.427] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[18Feb2025 19:30:56.018] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/11085, l='ServerLevel[world]', x=-286.45, y=-20.00, z=381.54] died: Restless Spirit was killed
+[18Feb2025 19:31:13.561] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[18Feb2025 19:31:27.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER was slain by Skeleton
+[18Feb2025 19:31:29.449] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[18Feb2025 19:31:42.400] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
+[18Feb2025 19:31:42.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[18Feb2025 19:32:06.906] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@318b0358[id=<null>,name=MAGIBER,properties={},legacy=false] (/127.8.14.223:52269) lost connection: Disconnected
+[18Feb2025 19:32:11.967] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[18Feb2025 19:32:12.052] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[18Feb2025 19:32:12.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:41655] logged in with entity id 16462 at (-1040.529075648013, 91.0, 1723.17665558174)
+[18Feb2025 19:32:12.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[18Feb2025 19:32:12.256] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[18Feb2025 19:32:12.543] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[18Feb2025 19:32:31.451] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[18Feb2025 19:33:11.457] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[18Feb2025 19:33:51.958] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:logless_tree/oak
+[18Feb2025 19:33:51.961] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[18Feb2025 19:34:06.634] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[18Feb2025 19:34:20.979] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
+[18Feb2025 19:34:20.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[18Feb2025 19:34:52.395] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2ef9978e[id=<null>,name=MAGIBER,properties={},legacy=false] (/127.8.14.223:53343) lost connection: Disconnected
+[18Feb2025 19:34:59.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:36627] logged in with entity id 26473 at (-1036.602092592698, 101.0625, 1725.5961762391505)
+[18Feb2025 19:34:59.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[18Feb2025 19:34:59.804] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[18Feb2025 19:35:00.038] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[18Feb2025 19:35:00.380] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[18Feb2025 19:35:04.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to Matermo]
+[18Feb2025 19:35:28.628] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/361, l='ServerLevel[world]', x=-1254.23, y=-26.00, z=1290.10, removed=DISCARDED]
+[18Feb2025 19:35:59.788] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[18Feb2025 19:35:59.838] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[18Feb2025 19:35:59.872] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[18Feb2025 19:35:59.878] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:logless_tree/birch
+[18Feb2025 19:35:59.888] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[18Feb2025 19:35:59.915] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[18Feb2025 19:35:59.917] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[18Feb2025 19:35:59.918] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
