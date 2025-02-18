@@ -996,3 +996,14 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [18Feb2025 16:43:32.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
 [18Feb2025 16:43:32.297] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
 [18Feb2025 16:43:33.157] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[18Feb2025 16:47:24.457] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RennSo[/127.48.55.234:50369] logged in with entity id 11284 at (-1236.2112837425802, 75.0, 1346.7916964018286)
+[18Feb2025 16:47:24.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo joined the game
+[18Feb2025 16:47:24.514] [Server thread/INFO] [Jade/]: Syncing config to RennSo (1b7f650f-6476-3cdf-bde6-14b0465ec7d8)
+[18Feb2025 16:47:24.825] [Server thread/INFO] [ping-wheel/]: Channel update: RennSo -> default
+[18Feb2025 16:47:41.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RennSo> gud mornin
+[18Feb2025 16:55:27.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [The Beginning of An Adventure]
+[18Feb2025 16:55:27.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Need A Map?]
+[18Feb2025 17:01:01.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1412.500000, 70.500000, 1626.500000]
+[18Feb2025 17:02:10.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1235.500000, 75.500000, 1346.500000]
+[18Feb2025 17:06:17.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1235.500000, 75.500000, 1346.500000]
+[18Feb2025 17:09:59.717] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/25980, l='ServerLevel[world]', x=-3.56, y=-256.00, z=59.30] died, message: 'Unemployed was killed'
