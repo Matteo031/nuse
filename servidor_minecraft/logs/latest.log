@@ -1006,3 +1006,17 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [18Feb2025 18:41:34.308] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
 [18Feb2025 18:41:34.553] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
 [18Feb2025 18:42:31.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[18Feb2025 18:43:11.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported CapitanVegetal to RennSo]
+[18Feb2025 18:43:12.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CapitanVegetal has made the advancement [BANANAS?]
+[18Feb2025 18:43:19.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CapitanVegetal has reached the goal [Feeling Watched]
+[18Feb2025 18:45:10.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CapitanVegetal has made the advancement [Amateur Archaeologist]
+[18Feb2025 18:46:15.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo was doomed to fall by RennSo
+[18Feb2025 18:46:20.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.cursed_revenants
+[18Feb2025 18:46:22.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo fell from a high place
+[18Feb2025 18:46:29.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo was doomed to fall by RennSo
+[18Feb2025 18:46:57.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Tricking a Rock Into Thinking]
+[18Feb2025 18:49:01.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported CapitanVegetal to RennSo]
+[18Feb2025 18:49:06.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported CapitanVegetal to Matermo]
+[18Feb2025 18:49:15.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported CapitanVegetal to MAGIBER]
+[18Feb2025 18:49:19.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported CapitanVegetal to Matermo]
+[18Feb2025 18:51:21.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported CapitanVegetal to MAGIBER]

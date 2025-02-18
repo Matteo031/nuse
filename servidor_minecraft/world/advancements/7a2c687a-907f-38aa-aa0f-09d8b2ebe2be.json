@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2025-02-18 18:46:20 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-02-18 18:38:17 +0000"
@@ -53,9 +59,21 @@
     },
     "done": true
   },
+  "totw_modded:jungle_tower": {
+    "criteria": {
+      "jungle": "2025-02-18 18:43:12 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-02-18 18:38:16 +0000"
+    },
+    "done": true
+  },
+  "man:feelingwatched": {
+    "criteria": {
+      "feelingwatched_0": "2025-02-18 18:43:19 +0000"
     },
     "done": true
   },
@@ -83,6 +101,12 @@
     },
     "done": false
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-02-18 18:46:20 +0000"
+    },
+    "done": true
+  },
   "mekanism:root": {
     "criteria": {
       "automatic": "2025-02-18 18:38:16 +0000"
@@ -92,6 +116,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-02-18 18:38:16 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-18 18:45:10 +0000"
     },
     "done": true
   },
@@ -109,7 +139,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:dark_forest": "2025-02-18 18:38:17 +0000"
+      "minecraft:dark_forest": "2025-02-18 18:38:17 +0000",
+      "minecraft:sparse_jungle": "2025-02-18 18:43:12 +0000",
+      "minecraft:dripstone_caves": "2025-02-18 18:40:35 +0000",
+      "minecraft:forest": "2025-02-18 18:40:41 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-18 18:40:19 +0000",
+      "minecraft:plains": "2025-02-18 18:40:42 +0000"
     },
     "done": false
   },

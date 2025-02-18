@@ -719,5 +719,11 @@
     },
     "done": true
   },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-02-18 18:46:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
