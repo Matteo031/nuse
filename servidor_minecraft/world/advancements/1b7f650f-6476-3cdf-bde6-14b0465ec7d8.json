@@ -458,5 +458,30 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-02-18 02:07:09 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "rose_gold": "2025-02-18 02:07:09 +0000",
+      "hepatizon": "2025-02-18 02:07:09 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "melting_pan": "2025-02-18 02:07:09 +0000"
+    },
+    "done": false
+  },
+  "totw_modded:jungle_tower": {
+    "criteria": {
+      "jungle": "2025-02-18 02:14:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
