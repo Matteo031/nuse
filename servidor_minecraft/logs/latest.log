@@ -986,3 +986,23 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [18Feb2025 01:00:37.195] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/bobmowzie/mowziesmobs/client/sound/BossMusic for invalid dist DEDICATED_SERVER
 [18Feb2025 01:00:37.196] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.bobmowzie.mowziesmobs.server.entity.wroughtnaut.EntityWroughtnaut cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class com/bobmowzie/mowziesmobs/client/sound/BossMusic for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
 [18Feb2025 01:02:43.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to MAGIBER]
+[18Feb2025 01:08:29.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matermo lost connection: Disconnected
+[18Feb2025 01:08:29.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo left the game
+[18Feb2025 01:08:42.641] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matermo[/127.244.235.91:51161] logged in with entity id 5515 at (-1348.300000011921, 63.0, 908.6999999880791)
+[18Feb2025 01:08:42.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo joined the game
+[18Feb2025 01:08:42.740] [Server thread/INFO] [Jade/]: Syncing config to Matermo (692a151e-06b6-357b-8a7c-fbccd926f7cd)
+[18Feb2025 01:08:43.230] [Server thread/INFO] [ping-wheel/]: Channel update: Matermo -> default
+[18Feb2025 01:11:42.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER was slain by Man From The Fog
+[18Feb2025 01:12:23.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
+[18Feb2025 01:12:23.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[18Feb2025 01:12:32.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:52469] logged in with entity id 6765 at (-20.5, 74.0, 11.5)
+[18Feb2025 01:12:32.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[18Feb2025 01:12:32.120] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[18Feb2025 01:12:32.357] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[18Feb2025 01:12:47.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported MAGIBER to Matermo]
+[18Feb2025 01:12:51.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
+[18Feb2025 01:12:51.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[18Feb2025 01:12:59.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:53289] logged in with entity id 7104 at (-1352.9131834295663, 65.0, 908.2735021123594)
+[18Feb2025 01:12:59.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[18Feb2025 01:12:59.374] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[18Feb2025 01:12:59.554] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
