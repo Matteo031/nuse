@@ -992,3 +992,17 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [18Feb2025 14:21:31.327] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
 [18Feb2025 14:21:31.328] [Netty Epoll Server IO #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@18d7d44e[id=<null>,name=DarkAguile,properties={},legacy=false] (/127.32.232.253:60489): Unexpected custom data from client
 [18Feb2025 14:21:31.374] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@18d7d44e[id=<null>,name=DarkAguile,properties={},legacy=false] (/127.32.232.253:60489) lost connection: Unexpected custom data from client
+[18Feb2025 14:22:04.125] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6d92116b[id=<null>,name=DarkAguile,properties={},legacy=false] (/127.32.232.253:35417) lost connection: Disconnected
+[18Feb2025 14:22:44.075] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d2f25ea[id=<null>,name=DarkAguile,properties={},legacy=false] (/127.32.232.253:59773) lost connection: Disconnected
+[18Feb2025 14:30:35.483] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[18Feb2025 14:30:35.523] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkAguile[/127.32.232.253:38441] logged in with entity id 164 at (-20.5, 72.0, 23.5)
+[18Feb2025 14:30:35.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkAguile joined the game
+[18Feb2025 14:30:36.015] [Server thread/INFO] [Jade/]: Syncing config to DarkAguile (b3392e59-bbb2-3c78-a7f4-e45b4b089a6c)
+[18Feb2025 14:30:36.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkAguile has made the advancement [Mobs of Mythology]
+[18Feb2025 14:30:36.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkAguile has made the advancement [Ice and Fire]
+[18Feb2025 14:30:36.508] [Server thread/INFO] [ping-wheel/]: Channel update: DarkAguile -> default
+[18Feb2025 14:30:57.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-21, y=72, z=24}
+[18Feb2025 14:30:58.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-21, y=72, z=24}
+[18Feb2025 14:30:58.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-18, y=71, z=25}
+[18Feb2025 14:31:32.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkAguile has reached the goal [Feeling Watched]
+[18Feb2025 14:31:48.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkAguile has made the advancement [Alex's Mobs]
