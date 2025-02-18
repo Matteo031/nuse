@@ -1088,3 +1088,62 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [18Feb2025 02:57:36.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [How long's this been here?]
 [18Feb2025 02:57:47.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to Gaspijita]
 [18Feb2025 02:58:59.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Magery]
+[18Feb2025 03:01:17.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has reached the goal [Quaint Scribe]
+[18Feb2025 03:02:13.229] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-179, y=30, z=296}
+[18Feb2025 03:02:13.229] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-179, y=30, z=295}
+[18Feb2025 03:02:40.979] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matermo[/127.244.235.91:36815] logged in with entity id 45099 at (-1279.3385437848685, -9.0, 1775.8009513718519)
+[18Feb2025 03:02:41.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo joined the game
+[18Feb2025 03:02:41.025] [Server thread/INFO] [Jade/]: Syncing config to Matermo (692a151e-06b6-357b-8a7c-fbccd926f7cd)
+[18Feb2025 03:02:42.120] [Server thread/INFO] [ping-wheel/]: Channel update: Matermo -> default
+[18Feb2025 03:02:44.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Timed out
+[18Feb2025 03:02:44.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[18Feb2025 03:02:49.331] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:33639] logged in with entity id 45604 at (-37.707195887907105, 79.0, 463.6403395898021)
+[18Feb2025 03:02:49.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[18Feb2025 03:02:49.361] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[18Feb2025 03:02:49.677] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[18Feb2025 03:02:54.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
+[18Feb2025 03:02:54.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[18Feb2025 03:03:20.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:34447] logged in with entity id 46130 at (-37.707195887907105, 79.0, 463.6403395898021)
+[18Feb2025 03:03:20.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[18Feb2025 03:03:20.354] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[18Feb2025 03:03:20.617] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[18Feb2025 03:03:42.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [Quite the Renovation]
+[18Feb2025 03:04:00.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to Matermo]
+[18Feb2025 03:04:34.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported MAGIBER to Gaspijita]
+[18Feb2025 03:04:49.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RennSo> spell book
+[18Feb2025 03:05:15.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to Gaspijita]
+[18Feb2025 03:05:22.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to Gaspijita]
+[18Feb2025 03:06:49.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Gaspijita to Matermo]
+[18Feb2025 03:06:50.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaspijita has made the advancement [BANANAS?]
+[18Feb2025 03:06:57.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Gaspijita to RennSo]
+[18Feb2025 03:07:04.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported MAGIBER to RennSo]
+[18Feb2025 03:07:14.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported MAGIBER to Matermo]
+[18Feb2025 03:07:15.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER has made the advancement [BANANAS?]
+[18Feb2025 03:07:37.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
+[18Feb2025 03:07:37.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[18Feb2025 03:07:47.525] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:42987] logged in with entity id 49892 at (-1248.5, 71.03584062504456, 1348.5)
+[18Feb2025 03:07:47.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[18Feb2025 03:07:47.615] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[18Feb2025 03:07:47.868] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[18Feb2025 03:09:02.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER was eviscerated by RennSo's vexes
+[18Feb2025 03:09:04.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
+[18Feb2025 03:09:04.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[18Feb2025 03:09:09.547] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/48649, l='ServerLevel[world]', x=-1208.39, y=82.42, z=1564.41] died, message: 'Mason was slain by Kobold Warrior'
+[18Feb2025 03:09:11.821] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:60111] logged in with entity id 50629 at (-1228.5, 75.0, 1346.5)
+[18Feb2025 03:09:11.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[18Feb2025 03:09:11.893] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[18Feb2025 03:09:12.117] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[18Feb2025 03:09:50.943] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/48654, l='ServerLevel[world]', x=-1198.70, y=80.00, z=1556.72] died, message: 'Nitwit was slain by Kobold Warrior'
+[18Feb2025 03:10:28.959] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 4 in "main" inventory handler
+[18Feb2025 03:12:14.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaspijita has made the advancement [Amateur Archaeologist]
+[18Feb2025 03:12:29.679] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/52537, l='ServerLevel[world]', x=4.55, y=-256.00, z=49.04] died, message: 'Unemployed was killed'
+[18Feb2025 03:12:37.307] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/49079, l='ServerLevel[world]', x=-1267.30, y=62.04, z=1615.30] died, message: 'Unemployed was slain by Drowned'
+[18Feb2025 03:13:13.395] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/48905, l='ServerLevel[world]', x=-1222.32, y=81.56, z=1599.67] died, message: 'Unemployed was slain by Zombie'
+[18Feb2025 03:13:15.396] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/49043, l='ServerLevel[world]', x=-1225.04, y=81.00, z=1598.48] died, message: 'Armorer was slain by Zombie'
+[18Feb2025 03:13:46.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER stood in RennSo's dragon breath
+[18Feb2025 03:15:11.098] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/53901, l='ServerLevel[world]', x=-1240.50, y=81.00, z=1629.50] died, message: 'Librarian was slain by Spider'
+[18Feb2025 03:16:32.996] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/53886, l='ServerLevel[world]', x=-1272.95, y=84.00, z=1593.50] died, message: 'Armorer was slain by Kobold Warrior'
+[18Feb2025 03:16:37.899] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/53865, l='ServerLevel[world]', x=-1229.30, y=80.23, z=1576.54] died, message: 'Leatherworker was slain by Kobold Warrior'
+[18Feb2025 03:17:04.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/53837, l='ServerLevel[world]', x=-1236.30, y=93.92, z=1559.34] died, message: 'Fisherman was slain by Kobold Warrior'
+[18Feb2025 03:19:36.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Gaspijita to Matermo]
+[18Feb2025 03:21:22.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Gaspijita to Matermo]

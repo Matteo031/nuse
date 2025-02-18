@@ -413,5 +413,11 @@
     },
     "done": true
   },
+  "totw_modded:jungle_tower": {
+    "criteria": {
+      "jungle": "2025-02-18 03:07:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
