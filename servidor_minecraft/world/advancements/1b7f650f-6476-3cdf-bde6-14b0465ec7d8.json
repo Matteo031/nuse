@@ -151,10 +151,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-02-18 00:25:57 +0000",
       "minecraft:birch_forest": "2025-02-17 22:00:25 +0000",
+      "minecraft:savanna_plateau": "2025-02-18 00:32:51 +0000",
       "minecraft:dark_forest": "2025-02-17 21:11:07 +0000",
       "minecraft:sparse_jungle": "2025-02-17 23:49:57 +0000",
       "minecraft:river": "2025-02-17 21:22:21 +0000",
+      "minecraft:dripstone_caves": "2025-02-18 00:32:37 +0000",
       "minecraft:forest": "2025-02-17 22:01:44 +0000",
       "minecraft:jungle": "2025-02-17 23:26:33 +0000",
       "minecraft:flower_forest": "2025-02-18 00:03:05 +0000",
@@ -213,7 +216,10 @@
       "minecraft:skeleton": "2025-02-17 21:38:42 +0000",
       "minecraft:vindicator": "2025-02-17 21:24:36 +0000",
       "minecraft:spider": "2025-02-17 21:30:13 +0000",
+      "minecraft:creeper": "2025-02-18 00:47:07 +0000",
+      "minecraft:phantom": "2025-02-18 00:36:55 +0000",
       "minecraft:husk": "2025-02-17 23:33:46 +0000",
+      "minecraft:cave_spider": "2025-02-18 00:50:02 +0000",
       "minecraft:silverfish": "2025-02-17 22:02:10 +0000",
       "minecraft:zombie": "2025-02-17 23:24:10 +0000"
     },
@@ -234,7 +240,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-02-17 21:43:05 +0000",
-      "opened_chest": "2025-02-17 21:24:46 +0000"
+      "opened_chest": "2025-02-17 21:24:46 +0000",
+      "opened_cart": "2025-02-18 00:50:29 +0000"
     },
     "done": false
   },
@@ -282,6 +289,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-02-18 00:37:15 +0000",
+      "beef": "2025-02-18 00:35:23 +0000",
       "porkchop": "2025-02-17 23:51:53 +0000",
       "apple": "2025-02-17 23:58:17 +0000",
       "pumpkin_pie": "2025-02-17 21:48:48 +0000",
@@ -340,87 +349,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "log_spam_fixer": "2025-02-18 00:03:21 +0000"
+      "obsidian": "2025-02-17 23:16:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "log_spam_fixer": "2025-02-18 00:03:21 +0000"
+      "blaze_rod": "2025-02-17 23:16:59 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-18 00:03:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-18 00:03:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-18 00:03:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-18 00:03:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-18 00:03:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-18 00:03:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-18 00:03:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-18 00:03:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-18 00:03:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-18 00:03:21 +0000"
-    },
-    "done": false
+    "done": true
   },
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-02-17 23:18:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-02-17 23:46:19 +0000"
     },
     "done": true
   },
@@ -430,29 +373,83 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/emu": {
-    "criteria": {
-      "interact": "2025-02-17 23:52:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-02-17 23:16:59 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2025-02-17 23:29:16 +0000"
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "blaze_rod": "2025-02-17 23:16:59 +0000"
+      "deflected_projectile": "2025-02-17 23:46:19 +0000"
     },
     "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "interact": "2025-02-17 23:52:32 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-02-18 00:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-02-18 00:25:13 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-02-18 00:35:35 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2025-02-18 00:28:55 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-02-18 00:50:29 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-02-18 00:35:35 +0000"
+    },
+    "done": false
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-18 00:44:29 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-02-18 00:47:46 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "sneak_grove": "2025-02-18 00:30:00 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-02-18 00:36:55 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
