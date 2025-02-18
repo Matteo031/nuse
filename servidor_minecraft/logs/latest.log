@@ -991,3 +991,8 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [18Feb2025 16:22:56.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] sigue open?
 [18Feb2025 16:23:00.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] si
 [18Feb2025 16:23:03.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] nazi
+[18Feb2025 16:42:20.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] hol
+[18Feb2025 16:43:32.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:59049] logged in with entity id 9649 at (-1242.786803425228, 81.0, 1629.4776173484875)
+[18Feb2025 16:43:32.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[18Feb2025 16:43:32.297] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[18Feb2025 16:43:33.157] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
