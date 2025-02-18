@@ -226,7 +226,8 @@
       "minecraft:cave_spider": "2025-02-18 00:50:02 +0000",
       "minecraft:silverfish": "2025-02-17 22:02:10 +0000",
       "minecraft:enderman": "2025-02-18 02:58:06 +0000",
-      "minecraft:zombie": "2025-02-17 23:24:10 +0000"
+      "minecraft:zombie": "2025-02-17 23:24:10 +0000",
+      "minecraft:drowned": "2025-02-18 03:39:06 +0000"
     },
     "done": false
   },
@@ -484,39 +485,9 @@
     },
     "done": false
   },
-  "rats:plague": {
-    "criteria": {
-      "catch_plague": "2025-02-18 02:30:58 +0000"
-    },
-    "done": true
-  },
   "totw_modded:jungle_tower": {
     "criteria": {
       "jungle": "2025-02-18 02:14:01 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/ink_root": {
-    "criteria": {
-      "requirement": "2025-02-18 02:55:44 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
-    "criteria": {
-      "requirement": "2025-02-18 02:58:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-02-18 02:52:26 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/root": {
-    "criteria": {
-      "inscription_table": "2025-02-18 03:01:17 +0000"
     },
     "done": true
   },
@@ -526,27 +497,15 @@
     },
     "done": false
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
-    "criteria": {
-      "requirement": "2025-02-18 02:57:36 +0000"
-    },
-    "done": true
-  },
   "mekanism:materials": {
     "criteria": {
       "material": "2025-02-18 02:30:08 +0000"
     },
     "done": true
   },
-  "minecraft:story/follow_ender_eye": {
+  "rats:plague": {
     "criteria": {
-      "in_stronghold_betterstrongholds": "2025-02-18 02:48:43 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:make_inscription_table": {
-    "criteria": {
-      "inscription_table": "2025-02-18 03:01:17 +0000"
+      "catch_plague": "2025-02-18 02:30:58 +0000"
     },
     "done": true
   },
@@ -556,9 +515,69 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-02-18 02:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-02-18 02:52:26 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-02-18 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-02-18 02:57:36 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-02-18 02:58:59 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-02-18 03:01:17 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-02-18 03:01:17 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-02-18 03:01:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-02-18 03:33:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-02-18 03:33:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-02-18 03:33:14 +0000"
     },
     "done": true
   },
