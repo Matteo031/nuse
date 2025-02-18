@@ -154,6 +154,7 @@
       "quark:glimmering_weald": "2025-02-18 02:22:01 +0000",
       "minecraft:sunflower_plains": "2025-02-17 23:52:16 +0000",
       "minecraft:birch_forest": "2025-02-17 23:18:05 +0000",
+      "minecraft:bamboo_jungle": "2025-02-18 04:12:56 +0000",
       "minecraft:beach": "2025-02-17 23:50:30 +0000",
       "minecraft:dark_forest": "2025-02-17 21:10:06 +0000",
       "minecraft:sparse_jungle": "2025-02-17 23:44:56 +0000",
@@ -278,11 +279,15 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-18 04:56:51 +0000",
       "cooked_beef": "2025-02-18 03:11:42 +0000",
+      "apple": "2025-02-18 05:07:49 +0000",
       "pumpkin_pie": "2025-02-17 23:23:59 +0000",
       "bread": "2025-02-17 21:43:00 +0000",
       "golden_apple": "2025-02-17 23:36:17 +0000",
-      "enchanted_golden_apple": "2025-02-17 23:56:32 +0000"
+      "glow_berries": "2025-02-18 04:51:14 +0000",
+      "enchanted_golden_apple": "2025-02-17 23:56:32 +0000",
+      "carrot": "2025-02-18 05:13:00 +0000"
     },
     "done": false
   },
@@ -558,9 +563,9 @@
     },
     "done": true
   },
-  "betterdungeons:zombie_dungeon": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-02-18 04:02:40 +0000"
+      "enchanted_item": "2025-02-18 03:52:58 +0000"
     },
     "done": true
   },
@@ -570,9 +575,69 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "betterdungeons:zombie_dungeon": {
     "criteria": {
-      "enchanted_item": "2025-02-18 03:52:58 +0000"
+      "in_better_zombie_dungeon": "2025-02-18 04:02:40 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-02-18 04:08:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-18 04:19:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-02-18 05:05:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-02-18 05:05:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-18 05:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-02-18 05:10:26 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-02-18 05:10:29 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-02-18 05:11:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-02-18 05:19:34 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-02-18 05:20:14 +0000"
     },
     "done": true
   },
