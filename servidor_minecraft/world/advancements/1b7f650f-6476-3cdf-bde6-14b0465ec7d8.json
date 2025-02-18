@@ -35,12 +35,6 @@
     },
     "done": true
   },
-  "mobs_of_mythology:mobs_of_mythology": {
-    "criteria": {
-      "tick": "2025-02-17 21:11:06 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-02-17 21:11:06 +0000"
@@ -178,12 +172,6 @@
       "log_spam_fixer": "2025-02-17 21:11:07 +0000"
     },
     "done": false
-  },
-  "man:feelingwatched": {
-    "criteria": {
-      "feelingwatched_0": "2025-02-17 21:19:08 +0000"
-    },
-    "done": true
   },
   "minecraft:story/root": {
     "criteria": {
@@ -722,6 +710,24 @@
   "mekanism:basic_control_circuit": {
     "criteria": {
       "basic_control_circuit": "2025-02-18 18:46:57 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_ingot": {
+    "criteria": {
+      "ingot_steel": "2025-02-18 18:54:30 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2025-02-18 18:55:01 +0000"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2025-02-18 18:55:29 +0000"
     },
     "done": true
   },

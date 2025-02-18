@@ -29,12 +29,6 @@
     },
     "done": true
   },
-  "mobs_of_mythology:mobs_of_mythology": {
-    "criteria": {
-      "tick": "2025-02-17 21:10:03 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-02-17 21:10:03 +0000"
@@ -175,12 +169,6 @@
       "log_spam_fixer": "2025-02-17 21:10:06 +0000"
     },
     "done": false
-  },
-  "man:feelingwatched": {
-    "criteria": {
-      "feelingwatched_0": "2025-02-17 21:22:03 +0000"
-    },
-    "done": true
   },
   "minecraft:story/root": {
     "criteria": {
