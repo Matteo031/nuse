@@ -1,5 +1,17 @@
 [
   {
+    "uuid": "6d12af39-802c-420e-9efd-080f29ec230c",
+    "name": "Rensso",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1b7f650f-6476-3cdf-bde6-14b0465ec7d8",
+    "name": "RennSo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "692a151e-06b6-357b-8a7c-fbccd926f7cd",
     "name": "Matermo",
     "level": 4,

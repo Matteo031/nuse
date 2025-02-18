@@ -1006,3 +1006,29 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [18Feb2025 01:12:59.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
 [18Feb2025 01:12:59.374] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
 [18Feb2025 01:12:59.554] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[18Feb2025 01:17:05.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] hola tescribo para q no se reseete el server
+[18Feb2025 01:18:35.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [Voluntary Exile]
+[18Feb2025 01:20:17.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER has made the advancement [Voluntary Exile]
+[18Feb2025 01:21:44.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER was slain by Ravager
+[18Feb2025 01:21:44.188] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[18Feb2025 01:21:44.189] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[18Feb2025 01:21:44.189] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[18Feb2025 01:21:44.189] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[18Feb2025 01:21:44.189] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 5
+[18Feb2025 01:22:10.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RennSo[/127.48.55.234:40119] logged in with entity id 10774 at (-1196.49293011537, 70.48573010132449, 948.2516324883204)
+[18Feb2025 01:22:10.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo joined the game
+[18Feb2025 01:22:10.841] [Server thread/INFO] [Jade/]: Syncing config to RennSo (1b7f650f-6476-3cdf-bde6-14b0465ec7d8)
+[18Feb2025 01:22:12.316] [Server thread/INFO] [ping-wheel/]: Channel update: RennSo -> default
+[18Feb2025 01:22:37.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has completed the challenge [Hero of the Village]
+[18Feb2025 01:22:37.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER has completed the challenge [Hero of the Village]
+[18Feb2025 01:22:54.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matermo lost connection: Disconnected
+[18Feb2025 01:22:54.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo left the game
+[18Feb2025 01:23:32.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Rensso a server operator
+[18Feb2025 01:23:41.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RennSo> RennSo
+[18Feb2025 01:23:43.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: An entity is required to run this command here
+[18Feb2025 01:24:07.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made RennSo a server operator
+[18Feb2025 01:24:44.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to MAGIBER]
+[18Feb2025 01:25:41.314] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/12191, l='ServerLevel[world]', x=-1584.04, y=70.88, z=1181.13]
+[18Feb2025 01:25:41.314] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/12193, l='ServerLevel[world]', x=-1584.50, y=71.31, z=1185.92]
+[18Feb2025 01:25:41.314] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/12194, l='ServerLevel[world]', x=-1585.41, y=71.02, z=1186.40]
+[18Feb2025 01:25:41.315] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/12195, l='ServerLevel[world]', x=-1586.57, y=70.73, z=1187.01]
