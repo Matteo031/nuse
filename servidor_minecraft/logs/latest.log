@@ -1037,3 +1037,15 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [18Feb2025 01:30:55.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER was slain by Man From The Fog
 [18Feb2025 01:30:56.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Quite the Renovation]
 [18Feb2025 01:34:14.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to MAGIBER]
+[18Feb2025 01:37:20.153] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/16340, l='ServerLevel[world]', x=-1445.31, y=88.77, z=831.59]
+[18Feb2025 01:37:20.153] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/16344, l='ServerLevel[world]', x=-1446.23, y=88.64, z=831.79]
+[18Feb2025 01:37:30.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to MAGIBER]
+[18Feb2025 01:38:05.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
+[18Feb2025 01:38:05.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[18Feb2025 01:38:14.139] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:34083] logged in with entity id 18870 at (-1523.5519417646917, 75.17675927506424, 1004.2867084518172)
+[18Feb2025 01:38:14.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[18Feb2025 01:38:14.224] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[18Feb2025 01:38:14.565] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[18Feb2025 01:38:38.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
+[18Feb2025 01:38:38.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[18Feb2025 01:40:30.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Killed 49 entities]
