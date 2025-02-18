@@ -1049,3 +1049,9 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [18Feb2025 01:38:38.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
 [18Feb2025 01:38:38.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
 [18Feb2025 01:40:30.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Killed 49 entities]
+[18Feb2025 01:48:09.532] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Feb2025 01:48:13.169] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-16, y=-54, z=1646}
+[18Feb2025 01:53:13.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matermo[/127.244.235.91:41963] logged in with entity id 24200 at (-1378.5536528009147, 67.5625, 954.8564758721009)
+[18Feb2025 01:53:13.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo joined the game
+[18Feb2025 01:53:13.114] [Server thread/INFO] [Jade/]: Syncing config to Matermo (692a151e-06b6-357b-8a7c-fbccd926f7cd)
+[18Feb2025 01:53:14.122] [Server thread/INFO] [ping-wheel/]: Channel update: Matermo -> default
