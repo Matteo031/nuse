@@ -977,3 +977,10 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [19Feb2025 21:35:14.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
 [19Feb2025 21:35:14.092] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
 [19Feb2025 21:35:14.383] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[19Feb2025 21:44:53.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
+[19Feb2025 21:44:53.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[19Feb2025 21:45:05.970] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12d3977f[id=<null>,name=MAGIBER,properties={},legacy=false] (/127.8.14.223:60987) lost connection: Disconnected
+[19Feb2025 21:45:13.392] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:37461] logged in with entity id 12876 at (-1222.7172616680655, 79.0, 1587.9167162351628)
+[19Feb2025 21:45:13.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[19Feb2025 21:45:13.428] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[19Feb2025 21:45:13.706] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
