@@ -859,6 +859,12 @@
     },
     "done": true
   },
+  "refinedstorage:upgrading_your_grid": {
+    "criteria": {
+      "crafting_grid_in_inventory": "2025-02-19 05:48:54 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:drives": {
     "criteria": {
       "disk_drive_in_inventory": "2025-02-19 05:36:42 +0000"
@@ -871,9 +877,21 @@
     },
     "done": true
   },
+  "refinedstorage:security": {
+    "criteria": {
+      "security_manager_in_inventory": "2025-02-19 05:47:41 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:root": {
     "criteria": {
       "controller_in_inventory": "2025-02-19 05:36:30 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:monitoring": {
+    "criteria": {
+      "crafting_monitor_in_inventory": "2025-02-19 05:48:14 +0000"
     },
     "done": true
   },
