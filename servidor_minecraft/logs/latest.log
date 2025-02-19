@@ -87,3 +87,48 @@
 [19Feb2025 00:24:29.871] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14797, l='ServerLevel[world]', x=68.89, y=36.00, z=1476.80] died: Piglin Knight was slain by RennSo
 [19Feb2025 00:25:10.842] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14840, l='ServerLevel[world]', x=87.19, y=36.00, z=1523.70] died: Piglin Knight was slain by RennSo
 [19Feb2025 00:25:12.619] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14841, l='ServerLevel[world]', x=85.40, y=36.00, z=1523.18] died: Piglin Knight was slain by RennSo
+[19Feb2025 00:26:43.168] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Alchemist'/14748, l='ServerLevel[world]', x=84.72, y=45.92, z=1490.68] died: Piglin Alchemist was mauled by RennSo's undead
+[19Feb2025 00:26:43.520] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Alchemist'/14747, l='ServerLevel[world]', x=89.35, y=45.06, z=1493.33] died: Piglin Alchemist was slain by RennSo
+[19Feb2025 00:27:30.269] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14500, l='ServerLevel[world]', x=89.15, y=45.00, z=1481.50] died: Piglin Knight was slain by RennSo
+[19Feb2025 00:29:11.346] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Scout'/14753, l='ServerLevel[world]', x=103.95, y=36.00, z=1496.49] died: Piglin Scout was slain by RennSo
+[19Feb2025 00:29:15.652] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:29:15.652] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:29:15.652] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:29:15.652] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:29:15.652] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:29:15.653] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:29:15.653] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:29:20.418] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:29:20.418] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:29:20.418] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:29:20.419] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:29:20.419] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:29:20.419] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:29:46.519] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Scout'/14585, l='ServerLevel[world]', x=120.15, y=36.71, z=1492.12] died: Piglin Scout was killed by and echo of RennSo's magic
+[19Feb2025 00:30:02.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has completed the challenge [Subspace Bubble]
+[19Feb2025 00:30:02.939] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[19Feb2025 00:30:02.948] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 00:30:04.665] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 00:30:06.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7221ms or 144 ticks behind
+[19Feb2025 00:30:53.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6913ms or 138 ticks behind
+[19Feb2025 00:31:24.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[19Feb2025 00:32:15.968] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:32:15.968] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:32:15.968] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:32:15.968] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:32:15.968] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:32:15.968] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:32:15.969] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:32:15.969] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:32:15.969] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:32:15.969] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:32:22.967] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:32:22.967] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:32:22.967] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:32:22.967] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:32:22.967] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:32:22.967] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:32:57.516] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Scout'/20871, l='ServerLevel[world]', x=91.70, y=72.42, z=1504.31] died: Piglin Scout was slain by RennSo
+[19Feb2025 00:33:13.365] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Scout'/20912, l='ServerLevel[world]', x=84.91, y=72.00, z=1511.58] died: Piglin Scout was slain by RennSo
+[19Feb2025 00:36:36.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo lost connection: Disconnected
+[19Feb2025 00:36:36.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo left the game
