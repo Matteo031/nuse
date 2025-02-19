@@ -1105,3 +1105,65 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [19Feb2025 23:19:20.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported MAGIBER to Matermo]
 [19Feb2025 23:21:54.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to MAGIBER]
 [19Feb2025 23:22:12.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [Alex's Mobs]
+[19Feb2025 23:24:33.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to -1222.500000, 129.500000, 1565.500000]
+[19Feb2025 23:24:41.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [The Journey Begins]
+[19Feb2025 23:25:02.904] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:candy_cavity at 3164 -56 6200 in 1s
+[19Feb2025 23:32:33.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo was slain by Husk
+[19Feb2025 23:32:42.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to -1027.500000, 102.500000, 1728.500000]
+[19Feb2025 23:33:26.403] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[19Feb2025 23:34:44.784] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[19Feb2025 23:34:44.785] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[19Feb2025 23:34:44.797] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[19Feb2025 23:34:56.808] [Worker-Main-40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[19Feb2025 23:34:56.809] [Worker-Main-40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[19Feb2025 23:34:56.809] [Worker-Main-40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[19Feb2025 23:34:56.815] [Worker-Main-40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[19Feb2025 23:34:56.815] [Worker-Main-40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[19Feb2025 23:34:56.815] [Worker-Main-40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[19Feb2025 23:34:56.835] [Worker-Main-40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[19Feb2025 23:34:56.835] [Worker-Main-40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[19Feb2025 23:35:40.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported MAGIBER to Matermo]
+[19Feb2025 23:35:42.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2643ms or 52 ticks behind
+[19Feb2025 23:35:42.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matermo moved too quickly! 6.645992070682723,-7.293512139530577,-2.1854698725574053
+[19Feb2025 23:35:44.943] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
+[19Feb2025 23:35:44.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[19Feb2025 23:35:54.547] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:32813] logged in with entity id 63705 at (-561.6999999880791, 71.0, 2336.699999988079)
+[19Feb2025 23:35:54.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[19Feb2025 23:35:54.605] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[19Feb2025 23:35:54.806] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[19Feb2025 23:38:06.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported MAGIBER to Matermo]
+[19Feb2025 23:38:45.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER has reached the goal [Radiation Vibe]
+[19Feb2025 23:38:52.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has reached the goal [Radiation Vibe]
+[19Feb2025 23:39:58.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo was blown up by Creeper
+[19Feb2025 23:40:05.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to MAGIBER]
+[19Feb2025 23:41:15.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER has made the advancement [THE OOOOOOOOZE]
+[19Feb2025 23:41:24.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER has made the advancement [Uranium Fever]
+[19Feb2025 23:41:32.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [THE OOOOOOOOZE]
+[19Feb2025 23:41:35.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER has made the advancement [Smelly Situation]
+[19Feb2025 23:41:50.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [Uranium Fever]
+[19Feb2025 23:42:28.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [Smelly Situation]
+[19Feb2025 23:42:29.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo was slain by Brainiac
+[19Feb2025 23:42:32.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to MAGIBER]
+[19Feb2025 23:42:35.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo was slain by Brainiac
+[19Feb2025 23:42:35.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
+[19Feb2025 23:42:35.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[19Feb2025 23:42:54.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:48913] logged in with entity id 68026 at (-409.44220635643626, -10.125, 2339.075839669342)
+[19Feb2025 23:42:54.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[19Feb2025 23:42:54.025] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[19Feb2025 23:42:54.243] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[19Feb2025 23:42:59.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to MAGIBER]
+[19Feb2025 23:43:00.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER was slain by Brainiac
+[19Feb2025 23:43:00.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo was slain by Brainiac
+[19Feb2025 23:43:10.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to MAGIBER]
+[19Feb2025 23:43:16.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo was slain by Brainiac
+[19Feb2025 23:43:18.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to MAGIBER]
+[19Feb2025 23:43:23.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo was slain by Brainiac
+[19Feb2025 23:43:26.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to MAGIBER]
+[19Feb2025 23:43:35.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo was slain by Brainiac
+[19Feb2025 23:43:38.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to MAGIBER]
+[19Feb2025 23:43:43.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo was slain by Brainiac
+[19Feb2025 23:43:45.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to MAGIBER]
+[19Feb2025 23:43:48.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo was slain by Brainiac
+[19Feb2025 23:43:50.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to MAGIBER]
+[19Feb2025 23:43:57.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo was melted by acid
+[19Feb2025 23:44:00.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to MAGIBER]
