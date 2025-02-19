@@ -223,6 +223,7 @@
       "minecraft:evoker": "2025-02-19 01:47:36 +0000",
       "minecraft:phantom": "2025-02-18 00:36:55 +0000",
       "minecraft:zombified_piglin": "2025-02-19 03:56:58 +0000",
+      "minecraft:wither_skeleton": "2025-02-19 17:15:55 +0000",
       "minecraft:husk": "2025-02-17 23:33:46 +0000",
       "minecraft:cave_spider": "2025-02-18 00:50:02 +0000",
       "quark:wraith": "2025-02-18 19:45:35 +0000",
@@ -670,6 +671,7 @@
     "criteria": {
       "incendium:ash_barrens": "2025-02-19 00:06:14 +0000",
       "incendium:weeping_valley": "2025-02-18 19:24:35 +0000",
+      "incendium:infernal_dunes": "2025-02-19 17:15:37 +0000",
       "incendium:quartz_flats": "2025-02-19 01:35:43 +0000",
       "incendium:inverted_forest": "2025-02-18 18:12:59 +0000",
       "incendium:toxic_heap": "2025-02-18 17:48:30 +0000",
@@ -962,9 +964,21 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-02-19 17:18:45 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
     "criteria": {
       "scroll_forge": "2025-02-19 16:47:16 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-02-19 17:16:27 +0000"
     },
     "done": true
   },
@@ -986,6 +1000,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-02-19 17:15:37 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-02-19 16:53:54 +0000"
@@ -998,9 +1018,21 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-02-19 17:21:52 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_foliaath": {
     "criteria": {
       "foliaath": "2025-02-19 16:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-02-19 17:15:37 +0000"
     },
     "done": true
   },

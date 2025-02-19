@@ -1118,3 +1118,21 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [19Feb2025 17:15:37.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [A Terrible Fortress]
 [19Feb2025 17:15:37.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Darude - Firestorm]
 [19Feb2025 17:16:27.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Stare Into Despair]
+[19Feb2025 17:18:07.547] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[19Feb2025 17:18:45.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [The Soul Forge]
+[19Feb2025 17:21:26.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to 151.500000, 87.500000, 1024.500000]
+[19Feb2025 17:21:52.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Light-Sensitive]
+[19Feb2025 17:21:52.649] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/37913, l='ServerLevel[world]', x=207.99, y=78.72, z=1008.96] died: Desert Blaze was slain by RennSo
+[19Feb2025 17:22:31.805] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/38065, l='ServerLevel[world]', x=239.51, y=63.92, z=1014.35] died: Desert Blaze was slain by RennSo
+[19Feb2025 17:22:33.401] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/38063, l='ServerLevel[world]', x=239.48, y=60.17, z=1017.55] died: Desert Blaze was slain by RennSo
+[19Feb2025 17:22:34.200] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/38066, l='ServerLevel[world]', x=240.36, y=60.18, z=1016.30] died: Desert Blaze was slain by RennSo
+[19Feb2025 17:22:35.399] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/38064, l='ServerLevel[world]', x=242.70, y=62.09, z=1016.19] died: Desert Blaze was slain by RennSo
+[19Feb2025 17:23:08.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has completed the challenge [Border of Life]
+[19Feb2025 17:23:08.802] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/38206, l='ServerLevel[world]', x=244.36, y=63.79, z=1011.62] died: Desert Blaze was slain by RennSo
+[19Feb2025 17:25:34.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to 151.500000, 87.500000, 1024.500000]
+[19Feb2025 17:25:36.445] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 17:25:36.462] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 17:25:36.467] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 17:25:36.482] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 17:25:37.302] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 17:25:38.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
