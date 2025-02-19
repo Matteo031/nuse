@@ -160,6 +160,7 @@
       "minecraft:lush_caves": "2025-02-18 02:19:51 +0000",
       "minecraft:jungle": "2025-02-17 23:26:33 +0000",
       "minecraft:ocean": "2025-02-19 00:30:07 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-02-19 16:31:42 +0000",
       "minecraft:flower_forest": "2025-02-18 00:03:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-17 22:00:30 +0000",
       "minecraft:meadow": "2025-02-17 22:01:05 +0000",
@@ -946,6 +947,12 @@
   "refinedstorage:manipulating_disks": {
     "criteria": {
       "disk_manipulator_in_inventory": "2025-02-19 06:10:30 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/clay_island": {
+    "criteria": {
+      "found_island": "2025-02-19 16:31:56 +0000"
     },
     "done": true
   },
