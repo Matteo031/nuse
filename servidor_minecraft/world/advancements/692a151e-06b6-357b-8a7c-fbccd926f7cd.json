@@ -662,5 +662,17 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-02-19 23:22:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-02-19 23:15:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
