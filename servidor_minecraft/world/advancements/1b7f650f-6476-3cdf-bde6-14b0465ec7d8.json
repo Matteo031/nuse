@@ -859,9 +859,27 @@
     },
     "done": true
   },
+  "advancednetherite:nether/obtain_netherite_iron_ingot": {
+    "criteria": {
+      "netherite_iron_ingot": "2025-02-19 05:55:13 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:upgrading_your_grid": {
     "criteria": {
       "crafting_grid_in_inventory": "2025-02-19 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/netherite_emerald_armor": {
+    "criteria": {
+      "netherite_emerald_armor": "2025-02-19 05:57:05 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/netherite_iron_armor": {
+    "criteria": {
+      "netherite_iron_armor": "2025-02-19 05:56:51 +0000"
     },
     "done": true
   },
@@ -871,9 +889,27 @@
     },
     "done": true
   },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2025-02-19 05:58:55 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/netherite_gold_armor": {
+    "criteria": {
+      "netherite_gold_armor": "2025-02-19 05:56:58 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:viewing_items": {
     "criteria": {
       "grid_in_inventory": "2025-02-19 05:37:39 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/netherite_diamond_armor": {
+    "criteria": {
+      "netherite_diamond_armor": "2025-02-19 05:57:14 +0000"
     },
     "done": true
   },
@@ -892,6 +928,12 @@
   "refinedstorage:monitoring": {
     "criteria": {
       "crafting_monitor_in_inventory": "2025-02-19 05:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-02-19 05:53:53 +0000"
     },
     "done": true
   },
