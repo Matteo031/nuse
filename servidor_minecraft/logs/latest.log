@@ -1013,3 +1013,108 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [19Feb2025 16:33:59.237] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
 [19Feb2025 16:33:59.243] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
 [19Feb2025 16:34:00.097] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:38:20.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has completed the challenge [Just a Flesh Wound]
+[19Feb2025 16:39:06.868] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:39:10.217] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:39:15.437] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:39:15.441] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:39:17.255] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:ocean_sand_pyramid
+[19Feb2025 16:39:18.985] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:39:29.926] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:39:30.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo moved too quickly! -8.93085426339735,4.76570327811686,0.46844289361615665
+[19Feb2025 16:39:32.851] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:39:33.001] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:39:33.003] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:logless_tree/birch
+[19Feb2025 16:39:33.010] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:39:33.012] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:39:33.036] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:39:33.042] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:39:35.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2750ms or 55 ticks behind
+[19Feb2025 16:39:45.974] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[19Feb2025 16:39:46.054] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[19Feb2025 16:40:22.014] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:40:46.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Smoke On The Water]
+[19Feb2025 16:44:56.586] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[19Feb2025 16:44:56.591] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[19Feb2025 16:44:56.597] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:46:22.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1231.500000, 75.500000, 1346.500000]
+[19Feb2025 16:46:31.345] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[19Feb2025 16:46:31.448] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[19Feb2025 16:47:16.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has reached the goal [New Age Librarian]
+[19Feb2025 16:47:19.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has completed the challenge [It's Purple!]
+[19Feb2025 16:51:43.647] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[19Feb2025 16:51:43.747] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[19Feb2025 16:51:43.848] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[19Feb2025 16:51:48.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo moved wrongly!
+[19Feb2025 16:52:16.532] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:52:33.773] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:52:59.155] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:53:07.261] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:53:16.041] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:53:19.241] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:53:38.704] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:53:54.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Mine? Mine? Mine?]
+[19Feb2025 16:54:18.857] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[19Feb2025 16:54:18.952] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[19Feb2025 16:54:51.424] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 16:55:33.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Jennifer Dumped Me]
+[19Feb2025 16:57:10.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo was struck with lightning by Lightning Dragon
+[19Feb2025 16:57:18.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1560.500000, 66.500000, 1608.500000]
+[19Feb2025 16:57:27.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1231.500000, 75.500000, 1346.500000]
+[19Feb2025 16:58:26.247] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[19Feb2025 16:58:28.945] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[19Feb2025 16:58:30.193] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[19Feb2025 16:58:30.447] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[19Feb2025 16:58:54.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Creative Mode]
+[19Feb2025 16:59:12.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[19Feb2025 17:04:26.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Pipe Dream]
+[19Feb2025 17:04:34.151] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/27351, l='ServerLevel[world]', x=-585.70, y=51.29, z=66.30] died: Pipeline Sentry was slain by RennSo
+[19Feb2025 17:05:39.728] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/27578, l='ServerLevel[world]', x=-602.33, y=33.17, z=41.80] died: Pipeline Sentry was slain by RennSo
+[19Feb2025 17:05:45.449] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/27682, l='ServerLevel[world]', x=-603.45, y=34.11, z=29.49] died: Pipeline Sentry was slain by RennSo
+[19Feb2025 17:05:50.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/28498, l='ServerLevel[world]', x=-599.74, y=33.98, z=42.90] died: Toxic Slime was slain by RennSo
+[19Feb2025 17:05:50.755] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/28497, l='ServerLevel[world]', x=-602.20, y=33.97, z=42.06] died: Toxic Slime was slain by RennSo
+[19Feb2025 17:05:51.747] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/28496, l='ServerLevel[world]', x=-599.23, y=31.93, z=43.06] died: Toxic Slime was killed by and echo of RennSo's magic
+[19Feb2025 17:05:54.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo moved wrongly!
+[19Feb2025 17:06:07.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/27577, l='ServerLevel[world]', x=-579.30, y=35.00, z=33.30] died: Pipeline Sentry was slain by RennSo
+[19Feb2025 17:06:16.900] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Prime Pipeline Sentry'/27580, l='ServerLevel[world]', x=-581.61, y=34.00, z=45.64] died: Prime Pipeline Sentry was killed by and echo of RennSo's magic
+[19Feb2025 17:06:19.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Prime Pipeline Sentry'/27579, l='ServerLevel[world]', x=-579.30, y=34.00, z=45.70] died: Prime Pipeline Sentry was slain by RennSo
+[19Feb2025 17:06:24.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has completed the challenge [Plumber's Plunder]
+[19Feb2025 17:06:29.886] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/27865, l='ServerLevel[world]', x=-615.53, y=-20.00, z=66.01] died: Toxic Slime was killed
+[19Feb2025 17:06:47.888] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/27974, l='ServerLevel[world]', x=-545.78, y=-20.00, z=-73.34] died: Toxic Slime was killed
+[19Feb2025 17:06:52.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/28000, l='ServerLevel[world]', x=-590.49, y=-20.00, z=62.24] died: Toxic Slime was killed
+[19Feb2025 17:07:34.349] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/27749, l='ServerLevel[world]', x=-600.14, y=33.00, z=3.86] died: Pipeline Sentry was slain by RennSo
+[19Feb2025 17:07:42.886] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/28275, l='ServerLevel[world]', x=-606.39, y=-20.00, z=50.03] died: Toxic Slime was killed
+[19Feb2025 17:07:42.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/28277, l='ServerLevel[world]', x=-623.74, y=-20.00, z=48.37] died: Toxic Slime was killed
+[19Feb2025 17:07:45.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/28331, l='ServerLevel[world]', x=-674.69, y=-20.00, z=24.03] died: Toxic Slime was killed
+[19Feb2025 17:07:59.749] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:the_nether at BlockPos{x=-603, y=23, z=30} as the loot table 'incendium:steam/rare' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[19Feb2025 17:08:04.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/28404, l='ServerLevel[world]', x=-611.72, y=-20.00, z=46.09] died: Toxic Slime was killed
+[19Feb2025 17:08:05.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/28409, l='ServerLevel[world]', x=-562.77, y=-20.00, z=60.71] died: Toxic Slime was killed
+[19Feb2025 17:08:10.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/27679, l='ServerLevel[world]', x=-589.70, y=22.20, z=29.30] died: Pipeline Sentry was slain by RennSo
+[19Feb2025 17:08:10.886] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/28433, l='ServerLevel[world]', x=-628.76, y=-20.00, z=33.24] died: Toxic Slime was killed
+[19Feb2025 17:08:21.880] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/27678, l='ServerLevel[world]', x=-577.06, y=21.91, z=44.70] died: Pipeline Sentry was slain by RennSo
+[19Feb2025 17:08:40.888] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/29683, l='ServerLevel[world]', x=-784.64, y=-20.00, z=158.80] died: Toxic Slime was killed
+[19Feb2025 17:08:43.997] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/27764, l='ServerLevel[world]', x=-603.70, y=21.00, z=-6.11] died: Pipeline Sentry was killed by and echo of RennSo's magic
+[19Feb2025 17:08:58.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/28807, l='ServerLevel[world]', x=-623.51, y=-20.00, z=87.73] died: Toxic Slime was killed
+[19Feb2025 17:09:00.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/28822, l='ServerLevel[world]', x=-594.74, y=-20.00, z=32.74] died: Toxic Slime was killed
+[19Feb2025 17:09:01.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/28828, l='ServerLevel[world]', x=-609.04, y=-20.00, z=54.12] died: Toxic Slime was killed
+[19Feb2025 17:09:08.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -598.500000, 41.500000, 82.500000]
+[19Feb2025 17:09:28.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/27398, l='ServerLevel[world]', x=-613.45, y=46.48, z=61.07] died: Pipeline Sentry was slain by RennSo
+[19Feb2025 17:09:40.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/29030, l='ServerLevel[world]', x=-580.90, y=-20.00, z=64.87] died: Toxic Slime was killed
+[19Feb2025 17:09:44.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/29068, l='ServerLevel[world]', x=-593.43, y=-20.00, z=32.40] died: Toxic Slime was killed
+[19Feb2025 17:09:47.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo moved wrongly!
+[19Feb2025 17:10:28.886] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/29285, l='ServerLevel[world]', x=-595.34, y=-20.00, z=55.35] died: Toxic Slime was killed
+[19Feb2025 17:10:48.886] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/29555, l='ServerLevel[world]', x=-604.26, y=-20.00, z=71.74] died: Toxic Slime was killed
+[19Feb2025 17:10:48.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/29556, l='ServerLevel[world]', x=-604.26, y=-20.00, z=83.74] died: Toxic Slime was killed
+[19Feb2025 17:10:53.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -307.500000, 42.500000, 489.500000]
+[19Feb2025 17:10:55.121] [Worker-Main-42/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/30754, l='ServerLevel[world]', x=-455.00, y=31.00, z=619.00] as it would cause deadlock
+[19Feb2025 17:11:04.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -204.500000, 38.500000, 579.500000]
+[19Feb2025 17:11:08.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-204, y=42, z=574} BlockPos{x=-204, y=44, z=575}
+[19Feb2025 17:11:08.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-204, y=42, z=574} BlockPos{x=-204, y=44, z=575}
+[19Feb2025 17:11:08.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-204, y=42, z=574} BlockPos{x=-204, y=44, z=575}
+[19Feb2025 17:11:08.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-204, y=41, z=573} BlockPos{x=-204, y=44, z=575}
+[19Feb2025 17:11:08.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-204, y=41, z=573} BlockPos{x=-204, y=44, z=575}
+[19Feb2025 17:13:47.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -91.500000, 33.500000, 808.500000]
+[19Feb2025 17:15:06.183] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[19Feb2025 17:15:37.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [A Terrible Fortress]
+[19Feb2025 17:15:37.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Darude - Firestorm]
+[19Feb2025 17:16:27.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Stare Into Despair]
