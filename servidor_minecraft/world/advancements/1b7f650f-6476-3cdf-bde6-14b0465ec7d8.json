@@ -145,6 +145,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-02-19 19:29:12 +0000",
       "minecraft:deep_ocean": "2025-02-19 19:19:53 +0000",
       "quark:glimmering_weald": "2025-02-18 02:22:00 +0000",
       "minecraft:sunflower_plains": "2025-02-18 00:25:57 +0000",
@@ -158,6 +159,8 @@
       "minecraft:lukewarm_ocean": "2025-02-18 15:50:21 +0000",
       "minecraft:stony_shore": "2025-02-19 19:21:45 +0000",
       "minecraft:dripstone_caves": "2025-02-18 00:32:37 +0000",
+      "minecraft:jagged_peaks": "2025-02-19 19:29:15 +0000",
+      "minecraft:cold_ocean": "2025-02-19 19:27:45 +0000",
       "minecraft:forest": "2025-02-17 22:01:44 +0000",
       "minecraft:lush_caves": "2025-02-18 02:19:51 +0000",
       "minecraft:jungle": "2025-02-17 23:26:33 +0000",
@@ -165,6 +168,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-02-19 16:31:42 +0000",
       "minecraft:flower_forest": "2025-02-18 00:03:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-17 22:00:30 +0000",
+      "minecraft:deep_dark": "2025-02-19 19:32:02 +0000",
       "minecraft:meadow": "2025-02-17 22:01:05 +0000",
       "minecraft:savanna": "2025-02-17 23:45:14 +0000",
       "minecraft:plains": "2025-02-17 23:50:01 +0000"
@@ -442,7 +446,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2025-02-18 00:36:55 +0000"
+      "phantom": "2025-02-18 00:36:55 +0000",
+      "warden": "2025-02-19 19:33:55 +0000"
     },
     "done": false
   },
@@ -1076,9 +1081,51 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-02-19 19:32:02 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-02-19 19:14:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-19 19:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-02-19 19:33:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-02-19 19:26:23 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-02-19 19:33:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-19 19:32:23 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:derelict_grass_tower": {
+    "criteria": {
+      "derelict_grass": "2025-02-19 19:28:37 +0000"
     },
     "done": true
   },
@@ -1091,6 +1138,12 @@
   "dungeons_arise:find_illager_windmill": {
     "criteria": {
       "location0": "2025-02-19 19:08:43 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-02-19 19:32:12 +0000"
     },
     "done": true
   },

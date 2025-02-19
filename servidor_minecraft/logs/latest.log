@@ -2578,3 +2578,16 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [19Feb2025 19:25:22.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Sea? Not a Problem]
 [19Feb2025 19:26:18.844] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
 [19Feb2025 19:26:23.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [People Are Strange]
+[19Feb2025 19:28:29.922] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 19:28:29.925] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 19:28:30.053] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 19:28:30.088] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 19:28:37.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [A trip to the Countryside]
+[19Feb2025 19:29:25.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3507ms or 70 ticks behind
+[19Feb2025 19:32:12.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -192.500000, -41.500000, -1026.500000]
+[19Feb2025 19:32:12.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has reached the goal [A Metropolis of Restless Souls]
+[19Feb2025 19:32:23.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Sneak 100]
+[19Feb2025 19:33:55.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has completed the challenge [Phantom Thief]
+[19Feb2025 19:33:55.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has completed the challenge [It Spreads]
+[19Feb2025 19:34:05.533] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 19:34:05.534] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave

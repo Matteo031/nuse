@@ -16974,3 +16974,264 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [19Feb2025 19:26:23.176] [Server thread/DEBUG] [mixin/]: mixins.deeperdarker.json:VibrationListenerMixin from mod deeperdarker->@Inject::deeperdarker_handleGameEvent(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/level/gameevent/GameEvent;Lnet/minecraft/world/level/gameevent/GameEvent$Context;Lnet/minecraft/world/phys/Vec3;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
 [19Feb2025 19:26:23.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [People Are Strange]
 [19Feb2025 19:26:39.956] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2
+[19Feb2025 19:28:29.922] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 19:28:29.925] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 19:28:30.053] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 19:28:30.088] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 19:28:37.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [A trip to the Countryside]
+[19Feb2025 19:28:45.774] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:28:46.174] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:28:46.572] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:28:46.971] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:28:52.599] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[19Feb2025 19:28:52.599] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[19Feb2025 19:28:52.599] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[19Feb2025 19:28:52.599] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:gas
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:pigment
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[19Feb2025 19:28:52.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:infuse_type
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: rats:rat_variant
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:slurry
+[19Feb2025 19:28:52.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[19Feb2025 19:28:52.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 19:28:52.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 19:28:53.570] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:28:53.572] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:28:53.978] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:28:53.981] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:28:54.374] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:28:54.376] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:28:55.569] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:28:55.974] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:28:56.370] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:29:22.068] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/basher
+[19Feb2025 19:29:22.069] [Worker-Main-9/DEBUG] [ModernFix/]: Structure illagerinvasion:mobs/villager is being run through DFU (hash f2470a32b911d89fb2ed64c05dcec8529dd887b42a7dcff3aca89fe5d1445aaa), this will cause launch time delays
+[19Feb2025 19:29:22.070] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/provoker
+[19Feb2025 19:29:22.070] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/illusioner
+[19Feb2025 19:29:22.070] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/archivist
+[19Feb2025 19:29:22.112] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/streets/straight_01 is being run through DFU (hash 26384e3c27ce73dc9e1b9b27a2ca1537364f038fd931f074872fd234b762a25b), this will cause launch time delays
+[19Feb2025 19:29:22.161] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/old_growth_taiga_planter_1 is being run through DFU (hash 6fda0479b54a0af1a97ca15cbaab29a789db4c81ec669ae4fac71438e533dbb1), this will cause launch time delays
+[19Feb2025 19:29:22.179] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_shepherd_1 is being run through DFU (hash 8a20f01d312854e8cc09b41319fe8cde5b23aa7454bc0d3722f13b1295bb7aac), this will cause launch time delays
+[19Feb2025 19:29:22.195] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_library_1 is being run through DFU (hash 0c580dfd840d1899609e9e8d9c519c31f13553065262e0b0a47cfea505eb076f), this will cause launch time delays
+[19Feb2025 19:29:22.224] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_medium_house_2 is being run through DFU (hash 0cc285df4b426dce3ced3b0c67b6ca67ae0d3aed86ad2102f1fb58b08a0119f0), this will cause launch time delays
+[19Feb2025 19:29:22.227] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_medium_house_1 is being run through DFU (hash 1a5daad86ed92d968e7c90dc459fdeea7b195e84e7d68878a6c1004b23856182), this will cause launch time delays
+[19Feb2025 19:29:22.230] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_armorer_and_butcher_1 is being run through DFU (hash a4e632ac94ed54437db4f55e5fe0f7c3a13d4859101827566874633f56c69732), this will cause launch time delays
+[19Feb2025 19:29:22.235] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_toolsmith_and_weaponsmith_1 is being run through DFU (hash 5cca8047b013cb19fabfe1b8538eaa04d904e0191114fcad55eabba4d5721d22), this will cause launch time delays
+[19Feb2025 19:29:22.282] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_small_farm_1 is being run through DFU (hash b0ee77c0fd4783766c54729cd3645884a02702650fe5535ab6cc97713ee5fdf9), this will cause launch time delays
+[19Feb2025 19:29:22.287] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_mason_1 is being run through DFU (hash a62fcee11575893aa77d1661df59ce9d3406fb4d26e0b51be3d67c6be41909d3), this will cause launch time delays
+[19Feb2025 19:29:22.292] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_small_house_1 is being run through DFU (hash d9416884334967ad9c996b770ad83c4fc9bfa28695ae09891a89894eb510fa87), this will cause launch time delays
+[19Feb2025 19:29:22.294] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_temple_1 is being run through DFU (hash 2044731606bb0cba8401bcd2c0c9c7adffc16ebf9c9140ecd9e3e5c7504f5df5), this will cause launch time delays
+[19Feb2025 19:29:22.303] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_fletcher_1 is being run through DFU (hash 1dd423481a24e0ba822f1e09e01c4276e408d4477d4ada384a61c67b10fbd492), this will cause launch time delays
+[19Feb2025 19:29:22.306] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_small_house_3 is being run through DFU (hash e2de3c8379e0a141627768e1f86f8727a4436bf3ff8c7ee5197fa48d77528284), this will cause launch time delays
+[19Feb2025 19:29:22.310] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_small_house_5 is being run through DFU (hash 6e7d054af08873290aa6787316a0b7478ae22e917baa1f6dc9209543e6f70bc6), this will cause launch time delays
+[19Feb2025 19:29:22.316] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/streets/crossroad_01 is being run through DFU (hash a9267caa110a7c85ea8e21360a4645e7d41a9266411f0b39a0a9c5b25c467b3c), this will cause launch time delays
+[19Feb2025 19:29:22.322] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_small_house_2 is being run through DFU (hash de6abd25a7b9fe716231fbd7a7dfc8f2adabd2e2d7caca2461481bd4890330eb), this will cause launch time delays
+[19Feb2025 19:29:22.324] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_small_house_4 is being run through DFU (hash a4eefe0b204b7a75ea5701bd1b436fa0c6df916a47ea6f05a40c6fc59461e534), this will cause launch time delays
+[19Feb2025 19:29:22.326] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_small_house_6 is being run through DFU (hash 78941c4296fc8ce4935fa6c22fcdeb70fb180346901110ebbe423c5a0aa5402e), this will cause launch time delays
+[19Feb2025 19:29:22.330] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_cartographer_1 is being run through DFU (hash 3faecad1b5106540621d77363c2d0ab3c69ef4dbda05b262a5263201b298faf7), this will cause launch time delays
+[19Feb2025 19:29:22.336] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_fisher_1 is being run through DFU (hash 930a29a4c281f54b53bb6a60ad24759138d3f43761f7e0708c79c43bd2993809), this will cause launch time delays
+[19Feb2025 19:29:22.348] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_leatherworker_1 is being run through DFU (hash 11b0f87d9de21d4d7c1a0e3e04ab62e310a4f411a049357e8838a529c70c44a6), this will cause launch time delays
+[19Feb2025 19:29:22.354] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/streets/corner_01 is being run through DFU (hash cd347a1a56e9ae1a7c69f8dab1bf4cf25cde8db5cff941e6df14fa31bdb7135a), this will cause launch time delays
+[19Feb2025 19:29:22.376] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/streets/straight_02 is being run through DFU (hash f2583d12b307134dde27e15be191195486a619646bc9ef5ad83340fb231b2b77), this will cause launch time delays
+[19Feb2025 19:29:22.384] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/streets/corner_02 is being run through DFU (hash ebac5a4a7baaa9cbb2e9ee684f5d4af18b6a34243b3284246e32bc4fb98ae523), this will cause launch time delays
+[19Feb2025 19:29:22.386] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/streets/crossroad_02 is being run through DFU (hash 39519f9a4adf54ee17c4cc64f18b8e351922a0afc2fabc9650c38f96315528fd), this will cause launch time delays
+[19Feb2025 19:29:22.393] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/terminators/terminator_01 is being run through DFU (hash d2e17c4cf0a0f1e8bdf74fd9b12af30058b00954f8cb877fdfa7282763c39abe), this will cause launch time delays
+[19Feb2025 19:29:22.393] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/terminators/terminator_02 is being run through DFU (hash 66dc5afdd3275ffa77a33633aa45de7c66094f1286da9623bca8dd9929700d84), this will cause launch time delays
+[19Feb2025 19:29:25.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3507ms or 70 ticks behind
+[19Feb2025 19:30:20.169] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:20.170] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:20.574] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:20.574] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:20.972] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:20.972] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:20.972] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:21.374] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:21.772] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:21.773] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:21.774] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:22.169] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:22.169] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:22.171] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:22.969] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:22.971] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:22.971] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:23.372] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:23.372] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:23.772] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:24.172] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:24.591] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:24.972] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:30:25.376] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:31:12.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:31:13.224] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:31:13.625] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:31:14.027] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:31:14.029] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:31:14.431] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:31:14.431] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:31:14.824] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:31:32.724] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:31:33.130] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:31:33.518] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:31:33.922] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Feb2025 19:32:12.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -192.500000, -41.500000, -1026.500000]
+[19Feb2025 19:32:12.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has reached the goal [A Metropolis of Restless Souls]
+[19Feb2025 19:32:23.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Sneak 100]
+[19Feb2025 19:32:48.631] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[19Feb2025 19:33:07.325] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[19Feb2025 19:33:19.276] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[19Feb2025 19:33:30.329] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[19Feb2025 19:33:55.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has completed the challenge [Phantom Thief]
+[19Feb2025 19:33:55.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has completed the challenge [It Spreads]
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:gas
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[19Feb2025 19:33:56.088] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:pigment
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:infuse_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: rats:rat_variant
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:slurry
+[19Feb2025 19:33:56.089] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[19Feb2025 19:33:56.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 19:33:56.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 19:34:05.533] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 19:34:05.534] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[19Feb2025 19:34:23.177] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.Network/]: Network at position BlockPos{x=-1234, y=75, z=1352} changed running state to true, causing an invalidation of the node graph
+[19Feb2025 19:34:23.178] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.diskdrive.DiskDriveNetworkNode/]: Connectivity state of disk drive at BlockPos{x=-1234, y=74, z=1352} changed to true due to REDSTONE_MODE_OR_NETWORK_ENERGY_CHANGE
+[19Feb2025 19:34:23.178] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-1234, y=75, z=1352} due to CONNECTED_STATE_CHANGED
+[19Feb2025 19:34:23.179] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.FluidStorageCache/]: Invalidating fluid storage cache of network at position BlockPos{x=-1234, y=75, z=1352} due to CONNECTED_STATE_CHANGED
