@@ -996,3 +996,7 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [19Feb2025 22:00:43.717] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
 [19Feb2025 22:03:03.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
 [19Feb2025 22:03:03.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[19Feb2025 22:03:13.347] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:58721] logged in with entity id 19163 at (-1245.9997374605316, 81.0, 1612.2402920364575)
+[19Feb2025 22:03:13.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[19Feb2025 22:03:13.380] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[19Feb2025 22:03:13.664] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
