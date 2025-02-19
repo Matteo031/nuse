@@ -1000,3 +1000,8 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [19Feb2025 22:03:13.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
 [19Feb2025 22:03:13.380] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
 [19Feb2025 22:03:13.664] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[19Feb2025 22:18:50.209] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matermo[/127.244.235.91:55081] logged in with entity id 25000 at (-1206.0758702758467, 129.0, 1560.1725853900718)
+[19Feb2025 22:18:50.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo joined the game
+[19Feb2025 22:18:50.299] [Server thread/INFO] [Jade/]: Syncing config to Matermo (692a151e-06b6-357b-8a7c-fbccd926f7cd)
+[19Feb2025 22:18:52.040] [Server thread/INFO] [ping-wheel/]: Channel update: Matermo -> default
+[19Feb2025 22:19:30.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Matermo> puto
