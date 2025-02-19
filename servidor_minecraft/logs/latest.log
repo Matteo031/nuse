@@ -12,3 +12,78 @@
 [19Feb2025 00:06:09.337] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=168, z=-18}
 [19Feb2025 00:06:13.060] [Worker-Main-17/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/14522, l='ServerLevel[world]', x=-140.00, y=31.00, z=1466.00] as it would cause deadlock
 [19Feb2025 00:06:14.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [The Dust Settles]
+[19Feb2025 00:07:01.589] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-237, y=16, z=-193}
+[19Feb2025 00:07:01.708] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-237, y=16, z=-193}
+[19Feb2025 00:07:26.354] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/14932, l='ServerLevel[world]', x=-105.00, y=31.00, z=1588.00] as it would cause deadlock
+[19Feb2025 00:07:26.355] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/14932, l='ServerLevel[world]', x=-105.00, y=31.00, z=1588.00] as it would cause deadlock
+[19Feb2025 00:07:56.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has reached the goal [In the Hall of the Piglin King]
+[19Feb2025 00:08:14.748] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14809, l='ServerLevel[world]', x=10.45, y=35.00, z=1544.17] died: Piglin Knight was slain by RennSo
+[19Feb2025 00:08:32.121] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14807, l='ServerLevel[world]', x=18.18, y=33.00, z=1519.30] died: Piglin Knight was slain by RennSo
+[19Feb2025 00:08:55.826] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14668, l='ServerLevel[world]', x=34.41, y=36.00, z=1496.47] died: Piglin Knight was killed by and echo of RennSo's magic
+[19Feb2025 00:08:57.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [UNLIMITED POWER!!!]
+[19Feb2025 00:09:04.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has reached the goal [Ceci n'est pas un blaze]
+[19Feb2025 00:09:04.543] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/14661, l='ServerLevel[world]', x=14.70, y=36.00, z=1509.30] died: Pipeline Sentry was slain by RennSo
+[19Feb2025 00:09:52.670] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14811, l='ServerLevel[world]', x=11.44, y=54.00, z=1506.62] died: Piglin Knight was slain by RennSo
+[19Feb2025 00:10:19.919] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14669, l='ServerLevel[world]', x=38.67, y=55.87, z=1490.55] died: Piglin Knight was slain by RennSo
+[19Feb2025 00:12:11.738] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Scout'/14799, l='ServerLevel[world]', x=53.49, y=54.54, z=1509.65] died: Piglin Scout was slain by RennSo
+[19Feb2025 00:12:24.933] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Alchemist'/14800, l='ServerLevel[world]', x=56.77, y=54.06, z=1514.97] died: Piglin Alchemist was slain by RennSo
+[19Feb2025 00:13:07.914] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14831, l='ServerLevel[world]', x=46.40, y=35.44, z=1528.35] died: Piglin Knight tried to swim in lava
+[19Feb2025 00:14:09.250] [Worker-Main-17/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/16275, l='ServerLevel[world]', x=329.00, y=31.00, z=1445.00] as it would cause deadlock
+[19Feb2025 00:14:17.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/14415, l='ServerLevel[world]', x=129.38, y=63.00, z=1435.75] died: death.attack.traveloptics.cursed_revenants
+[19Feb2025 00:14:40.168] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Archer'/14476, l='ServerLevel[world]', x=129.80, y=75.00, z=1439.70] died: Piglin Archer suffocated in a wall
+[19Feb2025 00:15:22.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/14506, l='ServerLevel[world]', x=76.45, y=56.00, z=1472.55] died: Piglin Paratrooper was shot by RennSo
+[19Feb2025 00:15:42.817] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Archer'/14507, l='ServerLevel[world]', x=76.74, y=54.50, z=1471.70] died: Piglin Archer was shot by RennSo
+[19Feb2025 00:16:04.981] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Scout'/14503, l='ServerLevel[world]', x=93.34, y=54.77, z=1465.36] died: Piglin Scout was slain by RennSo
+[19Feb2025 00:16:05.348] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14502, l='ServerLevel[world]', x=94.45, y=55.00, z=1466.06] died: Piglin Knight was slain by RennSo
+[19Feb2025 00:16:17.216] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Alchemist'/14501, l='ServerLevel[world]', x=87.51, y=54.00, z=1466.37] died: Piglin Alchemist was mauled by RennSo's undead
+[19Feb2025 00:16:52.896] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Alchemist'/14467, l='ServerLevel[world]', x=83.48, y=63.00, z=1466.06] died: Piglin Alchemist was slain by RennSo
+[19Feb2025 00:17:05.824] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Alchemist'/14504, l='ServerLevel[world]', x=84.46, y=63.98, z=1463.47] died: Piglin Alchemist was slain by RennSo
+[19Feb2025 00:17:07.591] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Alchemist'/14505, l='ServerLevel[world]', x=83.79, y=63.00, z=1463.61] died: Piglin Alchemist was slain by RennSo
+[19Feb2025 00:17:16.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Alchemist'/14466, l='ServerLevel[world]', x=83.48, y=65.00, z=1461.75] died: Piglin Alchemist was shot by RennSo
+[19Feb2025 00:17:56.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Local Brewery]
+[19Feb2025 00:19:09.568] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14464, l='ServerLevel[world]', x=88.48, y=54.00, z=1448.02] died: Piglin Knight was killed by and echo of RennSo's magic
+[19Feb2025 00:19:09.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14465, l='ServerLevel[world]', x=88.74, y=54.00, z=1449.75] died: Piglin Knight was slain by RennSo
+[19Feb2025 00:19:10.371] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14463, l='ServerLevel[world]', x=90.46, y=54.00, z=1449.45] died: Piglin Knight was slain by RennSo
+[19Feb2025 00:19:25.520] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14470, l='ServerLevel[world]', x=91.85, y=54.80, z=1447.29] died: Piglin Knight was slain by RennSo
+[19Feb2025 00:19:26.575] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Alchemist'/14471, l='ServerLevel[world]', x=92.47, y=54.92, z=1448.12] died: Piglin Alchemist was slain by RennSo
+[19Feb2025 00:19:36.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Scout'/14469, l='ServerLevel[world]', x=105.51, y=54.00, z=1451.51] died: Piglin Scout was slain by RennSo
+[19Feb2025 00:20:14.004] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14474, l='ServerLevel[world]', x=107.90, y=54.00, z=1447.91] died: Piglin Knight was slain by RennSo
+[19Feb2025 00:20:14.371] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14475, l='ServerLevel[world]', x=109.21, y=54.06, z=1447.65] died: Piglin Knight was slain by RennSo
+[19Feb2025 00:20:20.993] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14472, l='ServerLevel[world]', x=105.33, y=54.00, z=1449.40] died: Piglin Knight was slain by RennSo
+[19Feb2025 00:21:37.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has reached the goal [Blood Island]
+[19Feb2025 00:22:11.768] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14515, l='ServerLevel[world]', x=47.63, y=36.00, z=1480.50] died: Piglin Knight was slain by RennSo
+[19Feb2025 00:22:28.586] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:22:28.587] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:22:28.587] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:22:28.587] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:22:28.587] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:22:28.587] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:22:35.968] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:22:35.968] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:22:35.968] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:22:35.968] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:22:35.969] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:22:35.969] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:22:35.969] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:22:35.969] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:22:35.969] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:23:20.952] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Blacksmith'/14751, l='ServerLevel[world]', x=69.54, y=36.00, z=1479.88] died: Piglin Blacksmith was slain by RennSo
+[19Feb2025 00:23:23.751] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14752, l='ServerLevel[world]', x=68.92, y=36.00, z=1475.45] died: Piglin Knight was slain by RennSo
+[19Feb2025 00:23:50.116] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14798, l='ServerLevel[world]', x=58.25, y=36.00, z=1507.94] died: Piglin Knight was slain by RennSo
+[19Feb2025 00:23:51.969] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:23:51.970] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:23:51.970] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:23:51.970] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:23:51.970] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:23:58.137] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:23:58.138] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:23:58.138] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:23:58.138] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:23:58.138] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:23:58.138] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:23:58.138] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:23:58.138] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Feb2025 00:24:17.791] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14796, l='ServerLevel[world]', x=74.58, y=37.50, z=1495.47] died: Piglin Knight was slain by RennSo
+[19Feb2025 00:24:29.871] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14797, l='ServerLevel[world]', x=68.89, y=36.00, z=1476.80] died: Piglin Knight was slain by RennSo
+[19Feb2025 00:25:10.842] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14840, l='ServerLevel[world]', x=87.19, y=36.00, z=1523.70] died: Piglin Knight was slain by RennSo
+[19Feb2025 00:25:12.619] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/14841, l='ServerLevel[world]', x=85.40, y=36.00, z=1523.18] died: Piglin Knight was slain by RennSo

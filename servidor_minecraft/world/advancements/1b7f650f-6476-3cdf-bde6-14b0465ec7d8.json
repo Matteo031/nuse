@@ -206,11 +206,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-17 23:46:33 +0000",
+      "minecraft:blaze": "2025-02-19 00:09:04 +0000",
       "minecraft:skeleton": "2025-02-17 21:38:42 +0000",
       "minecraft:ghast": "2025-02-18 17:49:37 +0000",
       "minecraft:hoglin": "2025-02-18 19:47:59 +0000",
       "minecraft:guardian": "2025-02-18 05:00:08 +0000",
       "minecraft:vindicator": "2025-02-17 21:24:36 +0000",
+      "minecraft:magma_cube": "2025-02-19 00:22:02 +0000",
       "minecraft:spider": "2025-02-17 21:30:13 +0000",
       "minecraft:piglin_brute": "2025-02-18 19:25:37 +0000",
       "minecraft:creeper": "2025-02-18 00:47:07 +0000",
@@ -300,6 +302,7 @@
       "pumpkin_pie": "2025-02-17 21:48:48 +0000",
       "bread": "2025-02-17 21:49:48 +0000",
       "golden_apple": "2025-02-17 23:43:45 +0000",
+      "golden_carrot": "2025-02-19 00:06:01 +0000",
       "enchanted_golden_apple": "2025-02-18 02:33:17 +0000",
       "mushroom_stew": "2025-02-17 21:54:05 +0000",
       "carrot": "2025-02-17 21:43:10 +0000"
@@ -645,6 +648,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-02-19 00:03:11 +0000",
       "minecraft:soul_sand_valley": "2025-02-18 17:47:05 +0000",
       "minecraft:nether_wastes": "2025-02-18 18:07:07 +0000",
       "minecraft:warped_forest": "2025-02-18 18:13:04 +0000"
@@ -659,6 +663,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:ash_barrens": "2025-02-19 00:06:14 +0000",
       "incendium:weeping_valley": "2025-02-18 19:24:35 +0000",
       "incendium:inverted_forest": "2025-02-18 18:12:59 +0000",
       "incendium:toxic_heap": "2025-02-18 17:48:30 +0000",
@@ -774,6 +779,48 @@
   "alexsmobs:alexsmobs/soul_vulture": {
     "criteria": {
       "killed_by": "2025-02-18 19:45:33 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/blood_island": {
+    "criteria": {
+      "found_island": "2025-02-19 00:21:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-02-19 00:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-02-19 00:17:56 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2025-02-19 00:08:57 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/enter_castle": {
+    "criteria": {
+      "requirement": "2025-02-19 00:07:56 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2025-02-19 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-02-19 00:06:14 +0000"
     },
     "done": true
   },
