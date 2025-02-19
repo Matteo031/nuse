@@ -976,6 +976,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-02-19 17:40:59 +0000"
+    },
+    "done": true
+  },
   "endrem:main/nether_eye": {
     "criteria": {
       "nether_eye": "2025-02-19 17:16:27 +0000"
@@ -991,6 +997,24 @@
   "incendium:infernal_dunes/pipeline/pipeline_treasure": {
     "criteria": {
       "requirement": "2025-02-19 17:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-19 17:28:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "wither_skeleton_skull": "2025-02-19 17:28:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:infernal_dunes/border_of_life": {
+    "criteria": {
+      "requirement": "2025-02-19 17:23:08 +0000"
     },
     "done": true
   },
@@ -1027,6 +1051,12 @@
   "mowziesmobs:kill_foliaath": {
     "criteria": {
       "foliaath": "2025-02-19 16:55:33 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-02-19 17:27:37 +0000"
     },
     "done": true
   },
