@@ -859,77 +859,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "refinedstorage:drives": {
     "criteria": {
-      "log_spam_fixer": "2025-02-19 04:02:22 +0000"
+      "disk_drive_in_inventory": "2025-02-19 05:36:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "refinedstorage:viewing_items": {
     "criteria": {
-      "log_spam_fixer": "2025-02-19 04:02:22 +0000"
+      "grid_in_inventory": "2025-02-19 05:37:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "refinedstorage:root": {
     "criteria": {
-      "log_spam_fixer": "2025-02-19 04:02:22 +0000"
+      "controller_in_inventory": "2025-02-19 05:36:30 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-19 04:02:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-19 04:02:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-19 04:02:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-19 04:02:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-19 04:02:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-19 04:02:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-19 04:02:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-19 04:02:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-19 04:02:22 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
