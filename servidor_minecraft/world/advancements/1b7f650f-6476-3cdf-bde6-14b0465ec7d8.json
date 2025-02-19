@@ -1066,5 +1066,11 @@
     },
     "done": true
   },
+  "incendium:misc/loot_piglin_village": {
+    "criteria": {
+      "incendium:medium": "2025-02-19 17:48:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
