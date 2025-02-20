@@ -957,3 +957,33 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [20Feb2025 02:05:27.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
 [20Feb2025 02:05:37.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Creative Mode]
 [20Feb2025 02:08:33.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[20Feb2025 02:09:51.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: The difficulty has been set to Hard]
+[20Feb2025 02:11:17.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:39793] logged in with entity id 15788 at (-1240.8369695504869, 91.0, 1589.276865294371)
+[20Feb2025 02:11:17.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[20Feb2025 02:11:17.793] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[20Feb2025 02:11:18.633] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[20Feb2025 02:13:15.961] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
+[20Feb2025 02:13:15.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[20Feb2025 02:13:22.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:58829] logged in with entity id 17717 at (-1261.2780129995172, 87.49550413542775, 1586.2467089148652)
+[20Feb2025 02:13:22.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[20Feb2025 02:13:22.769] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[20Feb2025 02:13:23.001] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[20Feb2025 02:15:05.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
+[20Feb2025 02:15:05.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[20Feb2025 02:15:13.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:53667] logged in with entity id 19304 at (-1381.6223246363465, 64.0, 1526.8535362721761)
+[20Feb2025 02:15:13.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[20Feb2025 02:15:13.075] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[20Feb2025 02:15:13.330] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[20Feb2025 02:15:23.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RennSo> esta costado
+[20Feb2025 02:16:02.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to MAGIBER]
+[20Feb2025 02:16:32.203] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 02:17:52.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1231.500000, 75.500000, 1346.500000]
+[20Feb2025 02:19:44.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1231.500000, 75.500000, 1346.500000]
+[20Feb2025 02:19:50.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
+[20Feb2025 02:19:50.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[20Feb2025 02:19:57.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:51401] logged in with entity id 24417 at (-1209.6587276352461, 129.0, 1553.3976550533694)
+[20Feb2025 02:19:57.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[20Feb2025 02:19:57.934] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[20Feb2025 02:19:58.188] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[20Feb2025 02:27:45.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo lost connection: Disconnected
+[20Feb2025 02:27:45.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo left the game
