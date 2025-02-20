@@ -1073,3 +1073,25 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [20Feb2025 19:03:34.466] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
 [20Feb2025 19:03:36.860] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
 [20Feb2025 19:03:51.832] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 19:04:25.663] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[20Feb2025 19:04:27.453] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 19:04:27.454] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 19:06:04.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Killed 142 entities]
+[20Feb2025 19:06:14.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -2182.500000, 73.500000, 1813.500000]
+[20Feb2025 19:06:19.646] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[20Feb2025 19:06:19.757] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[20Feb2025 19:06:21.290] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Feb2025 19:06:21.291] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Feb2025 19:06:40.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -2080.500000, 71.500000, 1507.500000]
+[20Feb2025 19:08:34.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [My Name is Nobody]
+[20Feb2025 19:09:00.663] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Feb2025 19:11:08.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -2470.500000, 63.500000, 1497.500000]
+[20Feb2025 19:13:12.739] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/36965, l='ServerLevel[world]', x=-2634.07, y=65.00, z=1455.49] died, message: 'Unemployed was slain by Vex'
+[20Feb2025 19:13:42.990] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/36968, l='ServerLevel[world]', x=-2647.24, y=67.00, z=1444.41] died, message: 'Weaponsmith was slain by Vex'
+[20Feb2025 19:18:31.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Guns and Roses]
+[20Feb2025 19:19:17.037] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 19:20:37.202] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 19:22:00.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1231.500000, 75.500000, 1346.500000]
+[20Feb2025 19:24:33.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [The Only Good Bug...]
+[20Feb2025 19:25:16.891] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 19:30:50.940] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
