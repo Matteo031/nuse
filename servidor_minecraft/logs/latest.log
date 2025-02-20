@@ -987,3 +987,19 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [20Feb2025 02:19:58.188] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
 [20Feb2025 02:27:45.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo lost connection: Disconnected
 [20Feb2025 02:27:45.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo left the game
+[20Feb2025 02:31:38.662] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[20Feb2025 02:31:38.768] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[20Feb2025 02:33:00.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
+[20Feb2025 02:33:00.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[20Feb2025 02:33:00.855] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Feb2025 02:33:00.873] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:50129] logged in with entity id 31587 at (-1176.5149288667753, 67.0, 1576.6781241914389)
+[20Feb2025 02:33:00.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[20Feb2025 02:33:00.960] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[20Feb2025 02:33:01.180] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[20Feb2025 02:33:08.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER was slain by Spider
+[20Feb2025 02:34:09.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
+[20Feb2025 02:34:09.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[20Feb2025 02:34:18.911] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:41513] logged in with entity id 33384 at (-1116.8685079616384, 76.20997923329004, 1582.1790820401948)
+[20Feb2025 02:34:18.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[20Feb2025 02:34:18.943] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[20Feb2025 02:34:19.172] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
