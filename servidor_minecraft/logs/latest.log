@@ -98,3 +98,9 @@
 [20Feb2025 00:33:55.691] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/173774, l='ServerLevel[world]', x=-194.71, y=34.00, z=-170.72] died: Toxic Slime drowned
 [20Feb2025 00:34:16.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to -144.500000, 73.500000, 197.500000]
 [20Feb2025 00:34:31.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to Matermo]
+[20Feb2025 00:41:21.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to -1222.500000, 129.500000, 1565.500000]
+[20Feb2025 00:41:31.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to RennSo]
+[20Feb2025 00:42:03.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to RennSo]
+[20Feb2025 00:44:34.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to RennSo]
+[20Feb2025 00:45:57.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo lost connection: Timed out
+[20Feb2025 00:45:57.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo left the game
