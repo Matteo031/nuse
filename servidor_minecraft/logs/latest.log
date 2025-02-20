@@ -1013,3 +1013,5 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [20Feb2025 02:47:12.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
 [20Feb2025 02:47:12.239] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
 [20Feb2025 02:47:12.472] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[20Feb2025 02:51:07.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
+[20Feb2025 02:51:07.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
