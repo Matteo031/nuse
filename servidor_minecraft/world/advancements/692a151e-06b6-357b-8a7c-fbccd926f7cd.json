@@ -662,41 +662,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "alexscaves:alexscaves/cave_codex": {
     "criteria": {
-      "log_spam_fixer": "2025-02-19 23:46:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-19 23:46:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-19 23:46:36 +0000"
-    },
-    "done": false
-  },
-  "dungeons_arise:find_mushroom_mines": {
-    "criteria": {
-      "location0": "2025-02-19 23:34:02 +0000"
+      "cave_codex": "2025-02-19 23:15:49 +0000"
     },
     "done": true
-  },
-  "alexscaves:alexscaves/sulfur_dust": {
-    "criteria": {
-      "sulfur_dust": "2025-02-19 23:42:28 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-19 23:46:36 +0000"
-    },
-    "done": false
   },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
@@ -704,51 +674,21 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_codex": {
-    "criteria": {
-      "cave_codex": "2025-02-19 23:15:49 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-19 23:46:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-19 23:46:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-19 23:46:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-19 23:46:36 +0000"
-    },
-    "done": false
-  },
-  "alexscaves:alexscaves/uranium": {
-    "criteria": {
-      "uranium": "2025-02-19 23:41:50 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-19 23:46:36 +0000"
-    },
-    "done": false
-  },
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-02-19 23:24:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-02-19 23:34:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-02-19 23:38:52 +0000"
     },
     "done": true
   },
@@ -758,29 +698,17 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "alexscaves:alexscaves/uranium": {
     "criteria": {
-      "log_spam_fixer": "2025-02-19 23:46:36 +0000"
-    },
-    "done": false
-  },
-  "alexscaves:alexscaves/discover_toxic_caves": {
-    "criteria": {
-      "discover": "2025-02-19 23:38:52 +0000"
+      "uranium": "2025-02-19 23:41:50 +0000"
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "alexscaves:alexscaves/sulfur_dust": {
     "criteria": {
-      "log_spam_fixer": "2025-02-19 23:46:36 +0000"
+      "sulfur_dust": "2025-02-19 23:42:28 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-19 23:46:36 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
