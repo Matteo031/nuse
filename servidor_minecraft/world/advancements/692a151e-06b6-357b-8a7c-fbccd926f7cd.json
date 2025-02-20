@@ -153,12 +153,15 @@
       "minecraft:dark_forest": "2025-02-17 21:10:06 +0000",
       "minecraft:sparse_jungle": "2025-02-17 23:44:56 +0000",
       "minecraft:river": "2025-02-17 21:23:38 +0000",
+      "minecraft:stony_shore": "2025-02-20 00:04:34 +0000",
       "minecraft:dripstone_caves": "2025-02-18 00:59:03 +0000",
       "minecraft:forest": "2025-02-17 23:45:00 +0000",
       "minecraft:lush_caves": "2025-02-17 21:37:06 +0000",
       "minecraft:jungle": "2025-02-17 23:26:56 +0000",
       "minecraft:flower_forest": "2025-02-18 00:03:00 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-17 21:20:55 +0000",
+      "minecraft:deep_dark": "2025-02-20 00:11:26 +0000",
+      "minecraft:meadow": "2025-02-20 00:16:58 +0000",
       "minecraft:savanna": "2025-02-17 23:45:23 +0000",
       "minecraft:plains": "2025-02-17 23:47:28 +0000"
     },
@@ -208,6 +211,7 @@
       "minecraft:spider": "2025-02-17 23:37:19 +0000",
       "minecraft:creeper": "2025-02-18 04:00:44 +0000",
       "minecraft:phantom": "2025-02-18 02:14:29 +0000",
+      "minecraft:witch": "2025-02-20 00:15:37 +0000",
       "minecraft:silverfish": "2025-02-17 23:31:22 +0000",
       "minecraft:enderman": "2025-02-18 03:43:54 +0000",
       "minecraft:zombie": "2025-02-17 21:35:21 +0000",
@@ -707,6 +711,36 @@
   "alexscaves:alexscaves/sulfur_dust": {
     "criteria": {
       "sulfur_dust": "2025-02-19 23:42:28 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-02-20 00:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-02-20 00:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-20 00:13:57 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:storms_edge": {
+    "criteria": {
+      "requirement": "2025-02-20 00:21:52 +0000"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-02-20 00:10:56 +0000"
     },
     "done": true
   },

@@ -37,3 +37,37 @@
 [20Feb2025 00:04:43.277] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-18, y=-58, z=1417}
 [20Feb2025 00:04:43.277] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=-58, z=1417}
 [20Feb2025 00:04:43.277] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-15, y=-58, z=1417}
+[20Feb2025 00:05:56.479] [Worker-Main-111/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-951, y=13, z=2540}
+[20Feb2025 00:05:56.708] [Worker-Main-39/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-951, y=1, z=2549}
+[20Feb2025 00:05:56.753] [Worker-Main-39/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-956, y=11, z=2596}
+[20Feb2025 00:06:59.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to -789.500000, -43.500000, 2599.500000]
+[20Feb2025 00:07:08.511] [Worker-Main-132/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-975, y=0, z=2581}
+[20Feb2025 00:07:22.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RennSo[/127.48.55.234:53625] logged in with entity id 91883 at (-1228.5303614870295, 51.0, 1345.7339689260632)
+[20Feb2025 00:07:22.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo joined the game
+[20Feb2025 00:07:22.850] [Server thread/INFO] [Jade/]: Syncing config to RennSo (1b7f650f-6476-3cdf-bde6-14b0465ec7d8)
+[20Feb2025 00:07:24.330] [Server thread/INFO] [ping-wheel/]: Channel update: RennSo -> default
+[20Feb2025 00:07:33.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to -785.500000, -42.500000, 2595.500000]
+[20Feb2025 00:08:15.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to Matermo]
+[20Feb2025 00:08:57.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Take Aim, Chaps!]
+[20Feb2025 00:08:58.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Swashbuckler]
+[20Feb2025 00:11:06.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to -808.500000, -45.500000, 2805.500000]
+[20Feb2025 00:11:17.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to Matermo]
+[20Feb2025 00:11:41.850] [Worker-Main-112/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Feb2025 00:11:41.851] [Worker-Main-112/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Feb2025 00:11:46.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo moved too quickly! -9.354000394095692,-0.569262603311131,-5.03309758636442
+[20Feb2025 00:11:46.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matermo moved too quickly! 4.734439200863221,-3.7133464537001224,8.13519404863655
+[20Feb2025 00:11:46.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5657ms or 113 ticks behind
+[20Feb2025 00:12:57.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [They Have a Cave Troll!]
+[20Feb2025 00:13:57.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [Sneak 100]
+[20Feb2025 00:20:48.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to -1016.500000, -38.500000, 3051.500000]
+[20Feb2025 00:21:52.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [Lightning Strikes Twice]
+[20Feb2025 00:21:57.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to Matermo]
+[20Feb2025 00:22:50.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -964.500000, -32.500000, 3155.500000]
+[20Feb2025 00:22:53.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to -406.500000, -9.500000, 2346.500000]
+[20Feb2025 00:22:56.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to -1222.500000, 129.500000, 1565.500000]
+[20Feb2025 00:23:01.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1231.500000, 75.500000, 1346.500000]
+[20Feb2025 00:23:05.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to RennSo]
+[20Feb2025 00:23:31.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [Cover Me with Diamonds]
+[20Feb2025 00:23:52.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to RennSo]
+[20Feb2025 00:25:16.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [We Need to Go Deeper]
+[20Feb2025 00:25:16.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [Incendium]
