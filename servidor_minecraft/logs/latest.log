@@ -979,3 +979,24 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [20Feb2025 18:43:21.375] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
 [20Feb2025 18:43:29.864] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
 [20Feb2025 18:43:33.700] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 18:43:44.225] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 18:43:44.227] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 18:43:44.290] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[20Feb2025 18:44:46.551] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 18:45:24.134] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/12441, l='ServerLevel[world]', x=-783.31, y=78.69, z=209.52] died, message: 'Unemployed was slain by Zombie'
+[20Feb2025 18:46:44.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -839.500000, 159.500000, 146.500000]
+[20Feb2025 18:48:05.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [The Imperial March]
+[20Feb2025 18:48:09.970] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[20Feb2025 18:48:09.972] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 18:48:13.698] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[20Feb2025 18:48:54.563] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 18:48:54.564] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 18:48:58.711] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 18:50:34.057] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 18:53:37.623] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 18:53:52.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Ant-Agonizer]
+[20Feb2025 18:54:02.798] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 18:54:02.804] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[20Feb2025 18:54:04.949] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[20Feb2025 18:54:04.952] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[20Feb2025 18:54:04.957] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
