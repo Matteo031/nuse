@@ -71,3 +71,30 @@
 [20Feb2025 00:23:52.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to RennSo]
 [20Feb2025 00:25:16.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [We Need to Go Deeper]
 [20Feb2025 00:25:16.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [Incendium]
+[20Feb2025 00:25:35.632] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 00:28:28.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [Hidden in the Depths]
+[20Feb2025 00:29:12.244] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/147929, l='ServerLevel[world]', x=-200.69, y=34.00, z=49.32] died: Toxic Slime drowned
+[20Feb2025 00:29:37.425] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/144877, l='ServerLevel[world]', x=-45.90, y=-20.00, z=-55.05] died: Toxic Slime was killed
+[20Feb2025 00:29:44.425] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/144876, l='ServerLevel[world]', x=-72.26, y=-20.00, z=-62.26] died: Toxic Slime was killed
+[20Feb2025 00:29:57.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matermo has made the advancement [Radioactive]
+[20Feb2025 00:30:13.426] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/153791, l='ServerLevel[world]', x=-68.31, y=-20.00, z=-66.71] died: Toxic Slime was killed
+[20Feb2025 00:30:38.425] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/143542, l='ServerLevel[world]', x=-155.47, y=-20.00, z=83.07] died: Toxic Slime was killed
+[20Feb2025 00:30:43.426] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/153789, l='ServerLevel[world]', x=-40.74, y=-20.00, z=-79.43] died: Toxic Slime was killed
+[20Feb2025 00:31:16.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-225, y=16, z=43} BlockPos{x=-225, y=14, z=44}
+[20Feb2025 00:31:22.426] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/147926, l='ServerLevel[world]', x=-225.67, y=-20.00, z=106.84] died: Toxic Slime was killed
+[20Feb2025 00:31:34.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Mother of Dragons]
+[20Feb2025 00:31:51.425] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/151188, l='ServerLevel[world]', x=-197.52, y=-20.00, z=111.74] died: Toxic Slime was killed
+[20Feb2025 00:32:11.426] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/166044, l='ServerLevel[world]', x=-26.26, y=-20.00, z=-85.35] died: Toxic Slime was killed
+[20Feb2025 00:32:18.426] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/154666, l='ServerLevel[world]', x=-209.01, y=-20.00, z=96.68] died: Toxic Slime was killed
+[20Feb2025 00:32:18.426] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/154667, l='ServerLevel[world]', x=-241.98, y=-20.00, z=37.44] died: Toxic Slime was killed
+[20Feb2025 00:32:34.425] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/156399, l='ServerLevel[world]', x=-184.91, y=-20.00, z=84.61] died: Toxic Slime was killed
+[20Feb2025 00:32:45.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to Matermo]
+[20Feb2025 00:33:00.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-220, y=16, z=-39} BlockPos{x=-220, y=16, z=-60}
+[20Feb2025 00:33:12.508] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/160972, l='ServerLevel[world]', x=-258.03, y=-20.00, z=67.26] died: Toxic Slime was killed
+[20Feb2025 00:33:26.424] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/162628, l='ServerLevel[world]', x=-213.67, y=-20.00, z=1.10] died: Toxic Slime was killed
+[20Feb2025 00:33:37.982] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/173732, l='ServerLevel[world]', x=-202.80, y=33.44, z=-170.26] died: Toxic Slime drowned
+[20Feb2025 00:33:47.429] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/165209, l='ServerLevel[world]', x=-213.26, y=-20.00, z=47.74] died: Toxic Slime was killed
+[20Feb2025 00:33:49.425] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/165485, l='ServerLevel[world]', x=-230.88, y=-20.00, z=11.36] died: Toxic Slime was killed
+[20Feb2025 00:33:55.691] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/173774, l='ServerLevel[world]', x=-194.71, y=34.00, z=-170.72] died: Toxic Slime drowned
+[20Feb2025 00:34:16.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matermo: Teleported Matermo to -144.500000, 73.500000, 197.500000]
+[20Feb2025 00:34:31.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to Matermo]
