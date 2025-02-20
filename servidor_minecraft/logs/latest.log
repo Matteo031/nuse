@@ -1003,3 +1003,13 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [20Feb2025 02:34:18.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
 [20Feb2025 02:34:18.943] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
 [20Feb2025 02:34:19.172] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default
+[20Feb2025 02:40:16.856] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 02:40:16.958] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 02:40:17.060] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 02:40:17.160] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[20Feb2025 02:47:05.003] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGIBER lost connection: Disconnected
+[20Feb2025 02:47:05.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER left the game
+[20Feb2025 02:47:12.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAGIBER[/127.8.14.223:46119] logged in with entity id 46764 at (-1203.3349694581536, 81.20997923329004, 1635.4438079450397)
+[20Feb2025 02:47:12.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGIBER joined the game
+[20Feb2025 02:47:12.239] [Server thread/INFO] [Jade/]: Syncing config to MAGIBER (0660509e-0124-341a-b59e-6bd5b5e518cd)
+[20Feb2025 02:47:12.472] [Server thread/INFO] [ping-wheel/]: Channel update: MAGIBER -> default

@@ -252,6 +252,7 @@
       "minecraft:creeper": "2025-02-19 22:58:59 +0000",
       "minecraft:phantom": "2025-02-17 23:33:33 +0000",
       "minecraft:husk": "2025-02-17 23:33:01 +0000",
+      "minecraft:enderman": "2025-02-20 02:49:01 +0000",
       "minecraft:zombie": "2025-02-17 21:47:32 +0000",
       "minecraft:drowned": "2025-02-17 23:43:25 +0000",
       "minecraft:zombie_villager": "2025-02-17 23:55:48 +0000"
@@ -284,7 +285,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-02-20 02:38:50 +0000",
       "apple": "2025-02-18 19:25:41 +0000",
+      "potato": "2025-02-20 02:35:46 +0000",
       "pumpkin_pie": "2025-02-18 19:35:26 +0000",
       "bread": "2025-02-17 23:59:59 +0000",
       "golden_apple": "2025-02-18 19:33:06 +0000",
