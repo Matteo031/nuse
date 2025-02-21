@@ -1306,6 +1306,12 @@
     },
     "done": true
   },
+  "tconstruct:foundry/structure": {
+    "criteria": {
+      "open_foundry": "2025-02-21 07:25:16 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:wireless": {
     "criteria": {
       "wireless_transmitter_in_inventory": "2025-02-21 05:59:42 +0000"
@@ -1332,9 +1338,10 @@
   },
   "mekanism:moving_blocks": {
     "criteria": {
+      "unbox": "2025-02-21 07:28:22 +0000",
       "cardboard_box": "2025-02-21 07:08:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "mekanism:infused_alloy": {
     "criteria": {
