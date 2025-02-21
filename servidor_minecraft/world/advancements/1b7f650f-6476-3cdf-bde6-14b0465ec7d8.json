@@ -228,6 +228,7 @@
       "minecraft:wither": "2025-02-21 05:50:47 +0000",
       "minecraft:slime": "2025-02-18 17:51:24 +0000",
       "minecraft:evoker": "2025-02-19 01:47:36 +0000",
+      "quark:forgotten": "2025-02-21 21:57:43 +0000",
       "minecraft:phantom": "2025-02-18 00:36:55 +0000",
       "minecraft:zombified_piglin": "2025-02-19 03:56:58 +0000",
       "minecraft:witch": "2025-02-19 19:09:05 +0000",
@@ -1401,15 +1402,39 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2025-02-21 21:52:29 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2025-02-21 21:30:39 +0000"
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-02-21 21:53:54 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:skeleton_dungeon": {
     "criteria": {
       "in_better_skeleton_dungeon": "2025-02-21 21:03:06 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-02-21 21:58:47 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+    "criteria": {
+      "requirement": "2025-02-21 21:53:54 +0000"
     },
     "done": true
   },

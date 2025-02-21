@@ -978,3 +978,10 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [21Feb2025 21:27:22.110] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
 [21Feb2025 21:30:39.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Flexible Schedule]
 [21Feb2025 21:37:54.387] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[21Feb2025 21:40:02.148] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[21Feb2025 21:40:02.982] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[21Feb2025 21:49:05.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1036.500000, -51.500000, 1223.500000]
+[21Feb2025 21:52:29.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Dungeon Delving]
+[21Feb2025 21:53:54.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has completed the challenge [Staff of Blood]
+[21Feb2025 21:53:54.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [No Longer Short-Staffed]
+[21Feb2025 21:58:47.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has reached the goal [This Belongs in a Museum]
