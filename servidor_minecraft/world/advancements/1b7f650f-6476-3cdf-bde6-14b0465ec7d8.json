@@ -1324,6 +1324,18 @@
     },
     "done": true
   },
+  "tconstruct:foundry/alloyer": {
+    "criteria": {
+      "scorched_ingot_tank": "2025-02-21 07:12:31 +0000"
+    },
+    "done": false
+  },
+  "mekanism:moving_blocks": {
+    "criteria": {
+      "cardboard_box": "2025-02-21 07:08:57 +0000"
+    },
+    "done": false
+  },
   "mekanism:infused_alloy": {
     "criteria": {
       "alloy_infused": "2025-02-21 06:28:37 +0000"
