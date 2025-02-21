@@ -1370,6 +1370,12 @@
     },
     "done": true
   },
+  "mekanism:pump": {
+    "criteria": {
+      "electric_pump": "2025-02-21 17:31:43 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:connecting": {
     "criteria": {
       "cable_in_inventory": "2025-02-21 17:09:31 +0000"
