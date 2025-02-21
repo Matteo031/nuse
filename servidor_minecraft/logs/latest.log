@@ -973,3 +973,4 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [21Feb2025 17:07:54.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RennSo> -1234 75 1352
 [21Feb2025 17:09:31.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Connecting]
 [21Feb2025 17:09:49.588] [Server thread/INFO] [ModernFix/]: Made Refined Storage shape cache map thread-safe
+[21Feb2025 17:14:54.164] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
