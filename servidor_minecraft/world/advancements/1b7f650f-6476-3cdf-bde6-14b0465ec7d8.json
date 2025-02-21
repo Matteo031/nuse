@@ -1197,77 +1197,65 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
-      "log_spam_fixer": "2025-02-20 20:02:45 +0000"
+      "bestiary": "2025-02-20 18:39:53 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "iceandfire:iceandfire/dragon_horn": {
     "criteria": {
-      "log_spam_fixer": "2025-02-20 20:02:45 +0000"
+      "bestiary": "2025-02-20 18:39:58 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
-      "log_spam_fixer": "2025-02-20 20:02:45 +0000"
+      "bestiary": "2025-02-20 18:40:02 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "iceandfire:iceandfire/bestiary": {
     "criteria": {
-      "log_spam_fixer": "2025-02-20 20:02:45 +0000"
+      "bestiary": "2025-02-20 18:42:02 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "iceandfire:iceandfire/lectern": {
     "criteria": {
-      "log_spam_fixer": "2025-02-20 20:02:45 +0000"
+      "bestiary": "2025-02-20 18:42:07 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "dungeons_arise:find_heavenly_challenger": {
     "criteria": {
-      "log_spam_fixer": "2025-02-20 20:02:45 +0000"
+      "location0": "2025-02-20 18:48:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-20 20:02:45 +0000"
+      "ex": "2025-02-20 18:53:52 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "alexsmobs:alexsmobs/skelewag": {
     "criteria": {
-      "log_spam_fixer": "2025-02-20 20:02:45 +0000"
+      "killed_by": "2025-02-20 19:01:17 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "dungeons_arise:find_fishing_hut": {
     "criteria": {
-      "log_spam_fixer": "2025-02-20 20:02:45 +0000"
+      "location0": "2025-02-20 19:06:17 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
-      "log_spam_fixer": "2025-02-20 20:02:45 +0000"
+      "killed_fire_dragon": "2025-02-20 19:08:34 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-20 20:02:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-20 20:02:45 +0000"
-    },
-    "done": false
+    "done": true
   },
   "dungeons_arise:find_thornborn_towers": {
     "criteria": {
@@ -1281,69 +1269,15 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/bestiary": {
-    "criteria": {
-      "bestiary": "2025-02-20 18:42:02 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_cyclops": {
-    "criteria": {
-      "killed_fire_dragon": "2025-02-20 19:08:34 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_heavenly_challenger": {
-    "criteria": {
-      "location0": "2025-02-20 18:48:05 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_fishing_hut": {
-    "criteria": {
-      "location0": "2025-02-20 19:06:17 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/skelewag": {
-    "criteria": {
-      "killed_by": "2025-02-20 19:01:17 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/lectern": {
-    "criteria": {
-      "bestiary": "2025-02-20 18:42:07 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
       "bestiary": "2025-02-20 20:01:08 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_staff": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "bestiary": "2025-02-20 18:39:53 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
-    "criteria": {
-      "ex": "2025-02-20 18:53:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_flute": {
-    "criteria": {
-      "bestiary": "2025-02-20 18:40:02 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_horn": {
-    "criteria": {
-      "bestiary": "2025-02-20 18:39:58 +0000"
+      "tamed_animal": "2025-02-21 03:02:48 +0000"
     },
     "done": true
   },
