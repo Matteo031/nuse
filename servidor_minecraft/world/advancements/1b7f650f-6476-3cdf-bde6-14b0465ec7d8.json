@@ -1332,7 +1332,10 @@
   },
   "tconstruct:foundry/alloyer": {
     "criteria": {
-      "scorched_ingot_tank": "2025-02-21 07:12:31 +0000"
+      "scorched_basin": "2025-02-21 07:51:13 +0000",
+      "scorched_ingot_tank": "2025-02-21 07:12:31 +0000",
+      "scorched_table": "2025-02-21 07:51:20 +0000",
+      "scorched_faucet": "2025-02-21 07:51:11 +0000"
     },
     "done": false
   },
