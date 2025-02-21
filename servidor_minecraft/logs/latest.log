@@ -968,3 +968,13 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [21Feb2025 21:09:47.571] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
 [21Feb2025 21:09:47.641] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
 [21Feb2025 21:15:33.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Gave 64 [Glass Bottle] to RennSo]
+[21Feb2025 21:22:26.195] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[21Feb2025 21:22:26.195] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:logless_tree/oak
+[21Feb2025 21:22:39.438] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[21Feb2025 21:22:39.438] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[21Feb2025 21:24:39.169] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[21Feb2025 21:26:03.294] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[21Feb2025 21:27:21.968] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[21Feb2025 21:27:22.110] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[21Feb2025 21:30:39.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Flexible Schedule]
+[21Feb2025 21:37:54.387] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave

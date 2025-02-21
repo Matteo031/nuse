@@ -1401,6 +1401,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-02-21 21:30:39 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:skeleton_dungeon": {
     "criteria": {
       "in_better_skeleton_dungeon": "2025-02-21 21:03:06 +0000"
