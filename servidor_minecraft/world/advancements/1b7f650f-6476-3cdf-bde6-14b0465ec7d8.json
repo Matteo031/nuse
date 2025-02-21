@@ -1288,9 +1288,33 @@
     },
     "done": true
   },
+  "refinedstorage:wireless_items": {
+    "criteria": {
+      "wireless_grid_in_inventory": "2025-02-21 06:02:22 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:wireless": {
+    "criteria": {
+      "wireless_transmitter_in_inventory": "2025-02-21 05:59:42 +0000"
+    },
+    "done": true
+  },
+  "mekanism:chemical_tank": {
+    "criteria": {
+      "basic_chemical_tank": "2025-02-21 05:56:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-02-21 05:50:29 +0000"
+    },
+    "done": true
+  },
+  "mekanism:hydrogen_powered_flight": {
+    "criteria": {
+      "jetpack": "2025-02-21 05:56:55 +0000"
     },
     "done": true
   },
