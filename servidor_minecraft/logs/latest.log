@@ -965,3 +965,11 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [21Feb2025 16:43:41.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo was killed
 [21Feb2025 16:43:41.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Killed RennSo]
 [21Feb2025 16:44:58.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Killed 12 entities]
+[21Feb2025 17:06:18.313] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[21Feb2025 17:06:18.461] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[21Feb2025 17:06:36.661] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[21Feb2025 17:06:36.764] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[21Feb2025 17:06:36.862] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[21Feb2025 17:07:54.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RennSo> -1234 75 1352
+[21Feb2025 17:09:31.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Connecting]
+[21Feb2025 17:09:49.588] [Server thread/INFO] [ModernFix/]: Made Refined Storage shape cache map thread-safe
