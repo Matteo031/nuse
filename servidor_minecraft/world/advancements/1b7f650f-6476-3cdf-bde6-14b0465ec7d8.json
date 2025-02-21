@@ -1070,7 +1070,8 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
-      "wither_skeleton_skull": "2025-02-19 17:28:54 +0000"
+      "wither_skeleton_skull": "2025-02-19 17:28:54 +0000",
+      "skeleton_skull": "2025-02-21 22:40:25 +0000"
     },
     "done": false
   },
@@ -1417,6 +1418,18 @@
   "irons_spellbooks:irons_spellbooks/staff_root": {
     "criteria": {
       "requirement": "2025-02-21 21:53:54 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/cast_collector": {
+    "criteria": {
+      "ingot": "2025-02-21 22:46:46 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:smeltery/gold_casting": {
+    "criteria": {
+      "crafted_cast": "2025-02-21 22:46:46 +0000"
     },
     "done": true
   },
