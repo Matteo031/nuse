@@ -955,3 +955,8 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [21Feb2025 03:00:00.299] [Server thread/INFO] [Jade/]: Syncing config to RennSo (1b7f650f-6476-3cdf-bde6-14b0465ec7d8)
 [21Feb2025 03:00:01.484] [Server thread/INFO] [ping-wheel/]: Channel update: RennSo -> default
 [21Feb2025 03:02:48.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Best Friends Forever]
+[21Feb2025 03:07:40.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set the weather to clear]
+[21Feb2025 03:10:13.117] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[21Feb2025 03:10:47.757] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[21Feb2025 03:11:28.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1231.500000, 75.500000, 1346.500000]
+[21Feb2025 03:15:20.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [You da Bomby]
