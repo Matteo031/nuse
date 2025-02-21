@@ -441,9 +441,10 @@
     "criteria": {
       "in_better_zombie_dungeon": "2025-02-18 00:35:35 +0000",
       "in_better_monster_room": "2025-02-18 01:30:56 +0000",
-      "in_better_spider_dungeon": "2025-02-19 19:12:17 +0000"
+      "in_better_spider_dungeon": "2025-02-19 19:12:17 +0000",
+      "in_better_skeleton_dungeon": "2025-02-21 21:03:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
@@ -1397,6 +1398,18 @@
   "mekanism:installer": {
     "criteria": {
       "installer": "2025-02-21 18:26:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-02-21 21:03:56 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-02-21 21:03:06 +0000"
     },
     "done": true
   },
