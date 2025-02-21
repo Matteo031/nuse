@@ -946,3 +946,9 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [21Feb2025 20:38:54.900] [Server thread/WARN] [ModernFix/]: Dedicated server took 69.193 seconds to load
 [21Feb2025 20:38:54.905] [Server thread/INFO] [mixin/]: Mixing common.MixinServerStatus from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.status.ServerStatus
 [21Feb2025 20:38:55.425] [Server thread/INFO] [ModernFix/]: Made Refined Storage shape cache map thread-safe
+[21Feb2025 20:51:31.811] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[21Feb2025 20:51:31.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RennSo[/127.48.55.234:45057] logged in with entity id 233 at (-1227.9041850523822, 51.0, 1345.8918363548169)
+[21Feb2025 20:51:32.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo joined the game
+[21Feb2025 20:51:32.206] [Server thread/INFO] [Jade/]: Syncing config to RennSo (1b7f650f-6476-3cdf-bde6-14b0465ec7d8)
+[21Feb2025 20:51:33.402] [Server thread/INFO] [ping-wheel/]: Channel update: RennSo -> default
+[21Feb2025 20:54:30.178] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
