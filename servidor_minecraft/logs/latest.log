@@ -989,3 +989,8 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [21Feb2025 06:40:47.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to 336.500000, 75.500000, 1105.500000]
 [21Feb2025 06:46:43.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=357, y=36, z=1193} BlockPos{x=357, y=35, z=1194}
 [21Feb2025 06:46:43.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=357, y=36, z=1192} BlockPos{x=356, y=35, z=1192}
+[21Feb2025 06:48:49.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=303, y=31, z=1223} BlockPos{x=303, y=30, z=1223}
+[21Feb2025 06:49:17.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to 151.500000, 87.500000, 1024.500000]
+[21Feb2025 06:52:33.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Creative Mode]
+[21Feb2025 06:52:43.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[21Feb2025 06:56:17.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1210, y=49, z=1343} BlockPos{x=-1213, y=50, z=1344}
