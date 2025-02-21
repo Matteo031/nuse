@@ -1294,15 +1294,33 @@
     },
     "done": true
   },
+  "mekanism:fluid_tank": {
+    "criteria": {
+      "basic_fluid_tank": "2025-02-21 06:28:12 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:wireless": {
     "criteria": {
       "wireless_transmitter_in_inventory": "2025-02-21 05:59:42 +0000"
     },
     "done": true
   },
+  "mekanism:reinforced_alloy": {
+    "criteria": {
+      "alloy_reinforced": "2025-02-21 06:30:33 +0000"
+    },
+    "done": true
+  },
   "mekanism:chemical_tank": {
     "criteria": {
       "basic_chemical_tank": "2025-02-21 05:56:47 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2025-02-21 06:28:37 +0000"
     },
     "done": true
   },

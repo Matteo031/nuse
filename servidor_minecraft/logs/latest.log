@@ -979,3 +979,13 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [21Feb2025 06:24:50.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Killed 8 entities]
 [21Feb2025 06:26:10.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Creative Mode]
 [21Feb2025 06:26:34.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[21Feb2025 06:28:37.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [The Alloy That Started it All]
+[21Feb2025 06:31:39.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Creative Mode]
+[21Feb2025 06:32:03.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[21Feb2025 06:33:37.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Killed 12 entities]
+[21Feb2025 06:37:07.611] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[21Feb2025 06:37:07.658] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[21Feb2025 06:38:46.111] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[21Feb2025 06:40:47.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to 336.500000, 75.500000, 1105.500000]
+[21Feb2025 06:46:43.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=357, y=36, z=1193} BlockPos{x=357, y=35, z=1194}
+[21Feb2025 06:46:43.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=357, y=36, z=1192} BlockPos{x=356, y=35, z=1192}
