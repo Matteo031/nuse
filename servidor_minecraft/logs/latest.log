@@ -1051,3 +1051,52 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [22Feb2025 22:07:38.951] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
 [22Feb2025 22:07:49.494] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/19561, l='ServerLevel[world]', x=-1749.97, y=0.00, z=2826.16] died: Foundry Guardian was slain by RennSo
 [22Feb2025 22:11:44.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
+[22Feb2025 22:14:58.613] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/30125, l='ServerLevel[world]', x=-1207.30, y=35.00, z=1356.94] died: Foundry Guardian has become one with the smeltery
+[22Feb2025 22:15:04.619] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/30530, l='ServerLevel[world]', x=-1207.30, y=35.00, z=1355.50] died: Foundry Guardian has become one with the smeltery
+[22Feb2025 22:15:04.620] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/30532, l='ServerLevel[world]', x=-1207.30, y=35.00, z=1356.50] died: Foundry Guardian has become one with the smeltery
+[22Feb2025 22:15:20.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/31731, l='ServerLevel[world]', x=-1208.50, y=35.00, z=1355.30] died: Foundry Guardian has become one with the smeltery
+[22Feb2025 22:15:51.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Killed 26 entities]
+[22Feb2025 22:22:13.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1415.500000, 86.500000, 2800.500000]
+[22Feb2025 22:22:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1899.500000, 71.500000, 2909.500000]
+[22Feb2025 22:22:48.612] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Feb2025 22:22:48.612] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Feb2025 22:24:13.821] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[22Feb2025 22:24:39.231] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[22Feb2025 22:25:05.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
+[22Feb2025 22:26:24.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -2047.500000, 79.500000, 2900.500000]
+[22Feb2025 22:26:27.419] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[22Feb2025 22:26:27.419] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[22Feb2025 22:26:27.419] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[22Feb2025 22:26:27.419] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[22Feb2025 22:26:27.420] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[22Feb2025 22:26:27.425] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[22Feb2025 22:26:27.425] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[22Feb2025 22:26:27.425] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[22Feb2025 22:26:27.437] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[22Feb2025 22:26:27.437] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[22Feb2025 22:26:27.438] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[22Feb2025 22:26:27.438] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[22Feb2025 22:26:27.438] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[22Feb2025 22:26:27.438] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[22Feb2025 22:26:27.438] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[22Feb2025 22:26:28.169] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[22Feb2025 22:26:30.449] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[22Feb2025 22:26:30.449] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[22Feb2025 22:26:30.449] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[22Feb2025 22:26:30.449] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[22Feb2025 22:26:30.582] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[22Feb2025 22:26:30.582] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[22Feb2025 22:26:30.582] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[22Feb2025 22:26:30.583] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[22Feb2025 22:28:03.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -2172.500000, 71.500000, 2926.500000]
+[22Feb2025 22:28:04.870] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[22Feb2025 22:28:12.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -2286.500000, 63.500000, 2985.500000]
+[22Feb2025 22:28:37.876] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/bobmowzie/mowziesmobs/client/sound/BossMusic for invalid dist DEDICATED_SERVER
+[22Feb2025 22:28:37.876] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.bobmowzie.mowziesmobs.server.entity.umvuthana.EntityUmvuthi cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class com/bobmowzie/mowziesmobs/client/sound/BossMusic for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22Feb2025 22:29:43.097] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[22Feb2025 22:30:16.468] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/70459, l='ServerLevel[world]', x=-2249.86, y=81.00, z=3183.87] died, message: 'Unemployed was eviscerated by Archevoker's vexes'
+[22Feb2025 22:30:23.823] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/70460, l='ServerLevel[world]', x=-2244.86, y=81.00, z=3179.93] died, message: 'Unemployed was eviscerated by Archevoker's vexes'
+[22Feb2025 22:31:48.154] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[22Feb2025 22:31:48.155] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[22Feb2025 22:31:48.186] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[22Feb2025 22:32:22.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has completed the challenge [Praise the Sun]
