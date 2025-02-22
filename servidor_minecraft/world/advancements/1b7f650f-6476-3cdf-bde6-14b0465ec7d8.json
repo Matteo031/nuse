@@ -1464,5 +1464,17 @@
     },
     "done": true
   },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2025-02-22 18:51:02 +0000"
+    },
+    "done": true
+  },
+  "mekanism:ultimate_control_circuit": {
+    "criteria": {
+      "ultimate_control_circuit": "2025-02-22 18:50:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
