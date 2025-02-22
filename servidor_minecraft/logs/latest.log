@@ -1127,3 +1127,21 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [22Feb2025 23:02:40.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
 [22Feb2025 23:03:09.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Removed every effect from RennSo]
 [22Feb2025 23:03:12.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Spectator Mode]
+[22Feb2025 23:03:52.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[22Feb2025 23:05:11.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Spectator Mode]
+[22Feb2025 23:06:04.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[22Feb2025 23:07:49.905] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/132546, l='ServerLevel[world]', x=-1821.50, y=36.00, z=2432.50]
+[22Feb2025 23:08:10.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1732.500000, 19.500000, 3101.500000]
+[22Feb2025 23:08:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1640.500000, -3.500000, 3287.500000]
+[22Feb2025 23:08:25.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has reached the goal [The Cave That Time Forgot]
+[22Feb2025 23:08:41.810] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=626}
+[22Feb2025 23:08:41.811] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=626}
+[22Feb2025 23:09:14.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Life Finds A Way]
+[22Feb2025 23:09:17.723] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=618}
+[22Feb2025 23:09:17.723] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=618}
+[22Feb2025 23:10:45.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo moved too quickly! 10.105137274520075,0.6259007534262899,-0.5693805910277661
+[22Feb2025 23:12:39.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1751.500000, -40.500000, 3493.500000]
+[22Feb2025 23:12:52.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1866.500000, -43.500000, 3473.500000]
+[22Feb2025 23:13:34.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1755.500000, -42.500000, 3613.500000]
+[22Feb2025 23:13:44.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3566ms or 71 ticks behind
+[22Feb2025 23:13:49.703] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration

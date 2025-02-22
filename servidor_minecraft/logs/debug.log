@@ -17815,3 +17815,777 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [22Feb2025 23:03:30.075] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
 [22Feb2025 23:03:30.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Feb2025 23:03:30.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 23:03:52.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[22Feb2025 23:05:11.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Spectator Mode]
+[22Feb2025 23:06:04.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[22Feb2025 23:06:24.316] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:24.362] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:24.410] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:24.462] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:24.515] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:24.564] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:24.612] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:24.661] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:24.710] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:24.762] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:24.814] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:24.863] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:24.914] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:24.962] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:25.013] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:25.061] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:25.112] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:25.165] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:25.214] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:25.263] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:25.312] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:25.360] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:25.410] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:25.460] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:25.510] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:25.561] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:25.612] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:25.660] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:25.713] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:25.761] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:25.809] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:25.859] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:25.913] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:25.962] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:26.013] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:26.060] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:26.110] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:26.162] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:26.211] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:26.264] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:26.315] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:26.360] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:26.412] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:26.461] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:26.512] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:26.563] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:26.611] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:26.662] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:26.711] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:26.761] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:26.809] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:26.859] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:26.911] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:26.961] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:27.015] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:27.063] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:27.111] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:27.165] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:27.212] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:27.267] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:27.312] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:27.365] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:27.412] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:27.462] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:27.514] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:27.563] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:27.613] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:27.662] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:27.711] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:27.759] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:27.812] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:27.862] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:27.911] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:27.963] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:28.015] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:28.063] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:28.112] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:28.161] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:28.214] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:28.261] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:28.311] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:28.363] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:28.412] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:28.462] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:28.511] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:28.562] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:28.611] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:28.663] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:28.710] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:28.760] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:28.811] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:28.862] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:28.914] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:28.962] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:29.014] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:29.062] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:29.109] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:29.161] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:29.214] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:29.262] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:29.314] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:29.362] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:29.412] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:29.462] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:29.510] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:29.560] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:29.612] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:29.663] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:29.712] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:29.762] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:29.816] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:29.861] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:29.914] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:29.963] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:30.015] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:30.066] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:30.112] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:30.159] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:30.213] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:30.263] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:30.312] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:30.364] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:30.412] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:30.460] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:30.512] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:30.561] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:30.609] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:30.661] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:30.709] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:30.761] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:30.810] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:30.864] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:30.914] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:30.963] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:31.012] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:31.064] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:31.109] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:31.161] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:31.211] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:31.266] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:31.315] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:31.369] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:31.412] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:31.462] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:31.512] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:31.562] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:31.613] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:31.660] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:31.713] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:31.761] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:31.812] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:31.862] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:31.913] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:31.962] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:32.021] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:32.064] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:32.112] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:32.163] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:32.216] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:32.262] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:32.564] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:32.613] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:32.662] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:32.713] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:32.764] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:32.813] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:32.862] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:32.915] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:32.964] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:33.015] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:33.063] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:33.114] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:33.162] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:33.215] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:33.261] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:33.314] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:33.365] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:33.413] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:33.462] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:33.512] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:33.561] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:33.610] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:33.661] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:33.712] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:33.763] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:33.813] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:33.863] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:33.911] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:33.963] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:34.015] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:34.062] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:34.112] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:34.161] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:34.210] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:34.268] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:34.314] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:34.367] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:34.417] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:34.463] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:34.512] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:34.563] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:34.612] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:06:42.365] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:06:42.367] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:06:42.367] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:06:42.367] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:06:42.367] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:07:49.905] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/132546, l='ServerLevel[world]', x=-1821.50, y=36.00, z=2432.50]
+[22Feb2025 23:08:10.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1732.500000, 19.500000, 3101.500000]
+[22Feb2025 23:08:12.100] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/turn_01
+[22Feb2025 23:08:12.101] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_02
+[22Feb2025 23:08:12.103] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_02
+[22Feb2025 23:08:12.104] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_01
+[22Feb2025 23:08:12.105] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/corner_02
+[22Feb2025 23:08:12.106] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_03
+[22Feb2025 23:08:12.107] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_04
+[22Feb2025 23:08:12.107] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/corner_03
+[22Feb2025 23:08:12.108] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/birch_forest_decor_3
+[22Feb2025 23:08:12.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/birch_forest_decor_2
+[22Feb2025 23:08:12.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_fletcher_1
+[22Feb2025 23:08:12.111] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_2
+[22Feb2025 23:08:12.112] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_05
+[22Feb2025 23:08:12.112] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_04
+[22Feb2025 23:08:12.114] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_farm_1
+[22Feb2025 23:08:12.115] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_06
+[22Feb2025 23:08:12.117] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_06
+[22Feb2025 23:08:12.118] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_4
+[22Feb2025 23:08:12.119] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/terminators/terminator_02
+[22Feb2025 23:08:12.120] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/birch_forest_decor_1
+[22Feb2025 23:08:12.122] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_fisher_1
+[22Feb2025 23:08:12.125] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_01
+[22Feb2025 23:08:12.125] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/terminators/terminator_03
+[22Feb2025 23:08:12.125] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/terminators/terminator_04
+[22Feb2025 23:08:12.126] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/terminators/terminator_01
+[22Feb2025 23:08:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1640.500000, -3.500000, 3287.500000]
+[22Feb2025 23:08:25.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has reached the goal [The Cave That Time Forgot]
+[22Feb2025 23:08:30.089] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:gas
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:pigment
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[22Feb2025 23:08:30.090] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:infuse_type
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: rats:rat_variant
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:slurry
+[22Feb2025 23:08:30.091] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[22Feb2025 23:08:30.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 23:08:30.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 23:08:41.810] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=626}
+[22Feb2025 23:08:41.811] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=626}
+[22Feb2025 23:09:14.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Life Finds A Way]
+[22Feb2025 23:09:17.723] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=618}
+[22Feb2025 23:09:17.723] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=618}
+[22Feb2025 23:09:20.623] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:10:43.786] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_5
+[22Feb2025 23:10:45.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo moved too quickly! 10.105137274520075,0.6259007534262899,-0.5693805910277661
+[22Feb2025 23:12:10.822] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:12:10.824] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:12:11.380] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:12:11.667] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:11.729] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:11.768] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:11.827] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:11.869] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:11.919] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:11.930] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:12:11.969] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:12.020] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:12.068] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:12.118] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:12.169] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:12.218] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:12.267] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:12.318] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:12.368] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:12.420] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:12.470] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:12.519] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:12.570] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:12.619] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:12.671] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:12.718] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:12.769] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:12.816] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:12.878] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:12.923] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:12.968] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:13.022] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:13.069] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:13.118] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:13.170] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:13.219] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:13.269] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:13.317] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:13.367] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:13.423] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:13.470] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:13.517] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:13.567] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:13.620] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:13.668] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:13.718] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:14.024] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:14.170] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:12:14.729] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:12:14.730] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:12:15.271] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:15.282] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:12:15.321] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:15.368] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:15.423] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:15.472] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:15.521] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:15.568] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:15.618] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:15.667] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:15.718] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:15.768] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:15.821] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:15.834] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:12:15.869] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:15.920] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:15.968] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:16.021] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:16.069] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:16.120] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:16.169] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:16.670] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[22Feb2025 23:12:18.867] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[22Feb2025 23:12:21.470] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:12:22.035] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:12:22.596] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:12:23.126] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:12:23.672] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:12:26.118] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:26.167] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:26.219] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:26.270] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:26.320] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:26.366] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:26.417] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:26.769] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:26.817] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:26.867] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:26.923] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:26.971] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:27.022] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:27.068] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:27.119] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:27.176] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:27.224] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:27.270] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:27.322] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:27.368] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:27.418] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:27.468] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:27.517] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:27.567] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:27.620] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:27.667] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:27.716] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:27.769] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:27.816] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:27.870] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:27.920] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:27.971] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:28.025] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:28.070] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:28.119] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:28.168] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:28.220] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:28.268] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:28.318] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:28.369] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:28.416] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:28.468] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:28.516] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:28.568] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:28.620] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:28.671] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:28.721] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:28.772] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:28.817] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:28.870] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:28.919] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:29.073] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:29.117] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:29.171] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:29.225] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:29.521] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:29.569] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:29.622] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:29.671] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:29.719] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:29.771] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:29.819] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:29.870] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:29.919] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:29.972] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:30.024] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:30.069] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:30.119] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:30.174] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:30.220] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:30.270] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:30.319] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:30.371] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:30.421] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:30.469] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:30.518] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:30.574] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:30.621] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:30.670] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:30.670] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:12:30.719] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:30.775] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:30.821] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:30.870] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:30.919] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:30.971] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:31.021] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:31.069] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:31.119] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:31.220] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Feb2025 23:12:31.273] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:31.319] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:31.375] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:31.424] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:31.668] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:31.717] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:31.768] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:31.819] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:31.868] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:31.916] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:31.969] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:32.020] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:32.067] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:32.119] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:32.168] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:32.217] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:32.268] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:32.317] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:32.369] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:32.420] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:32.467] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:32.517] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:32.567] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:32.628] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:32.670] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:32.718] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:32.768] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:32.817] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:32.867] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:32.917] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:32.968] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:33.023] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[22Feb2025 23:12:39.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1751.500000, -40.500000, 3493.500000]
+[22Feb2025 23:12:52.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1866.500000, -43.500000, 3473.500000]
+[22Feb2025 23:13:30.083] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[22Feb2025 23:13:30.083] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:gas
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:pigment
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[22Feb2025 23:13:30.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:infuse_type
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: rats:rat_variant
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:slurry
+[22Feb2025 23:13:30.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[22Feb2025 23:13:30.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 23:13:30.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 23:13:34.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1755.500000, -42.500000, 3613.500000]
+[22Feb2025 23:13:43.799] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/villager
+[22Feb2025 23:13:43.800] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/illusioner
+[22Feb2025 23:13:44.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3566ms or 71 ticks behind
+[22Feb2025 23:13:47.206] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[22Feb2025 23:13:47.212] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[22Feb2025 23:13:47.217] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[22Feb2025 23:13:47.241] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[22Feb2025 23:13:47.248] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_7 is being run through DFU (hash e85594a092da18f7ddd3c7391c3ec342112c4f41678bb0b4c31ed7fc408d3dfe), this will cause launch time delays
+[22Feb2025 23:13:47.403] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_15 is being run through DFU (hash 2cc382389227e669306063c31f01aeea0fbd053b8aa455f3f5685cc642bedc6d), this will cause launch time delays
+[22Feb2025 23:13:47.405] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_1 is being run through DFU (hash 8c91a51ee1e0335a2014f6eba9ed0ff67edc46f7ed799202b29dabc67448b442), this will cause launch time delays
+[22Feb2025 23:13:47.430] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_6 is being run through DFU (hash fd20ef4e4d073ba113a5c6479f51e1774a6f91835d0c5d5d672c380febe8dc82), this will cause launch time delays
+[22Feb2025 23:13:47.432] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_0 is being run through DFU (hash d1b02dc41ea36c8151a26f0a74a80c05f7b412728e2c242fc43e7fb187272768), this will cause launch time delays
+[22Feb2025 23:13:47.434] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_11 is being run through DFU (hash c419a724ea46c208c7600a3c938672103a1c2eca6c26c5b11f659146354d40a6), this will cause launch time delays
+[22Feb2025 23:13:47.435] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_15 is being run through DFU (hash 897538a20a813346b57d872691ad2d3632dc39e6aff12fec240e491ffd010616), this will cause launch time delays
+[22Feb2025 23:13:47.437] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_18 is being run through DFU (hash 510ba21689359e94242178d988068df8eb4f1205d025eb0e8674132bc28689ad), this will cause launch time delays
+[22Feb2025 23:13:47.438] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_13 is being run through DFU (hash 37aabb96560802dd707364a9ea73a65489de2fb3ce4791b2858ef31e9b9eddb9), this will cause launch time delays
+[22Feb2025 23:13:47.440] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_19 is being run through DFU (hash 1a6c4d10d62611d706e91e825ef23df3e368b93d1e3ab6e57f9fcffd773be476), this will cause launch time delays
+[22Feb2025 23:13:47.444] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_14 is being run through DFU (hash 56cbc12c01b5114a01d68f0d1d5734b1684080c34d4d975dfbcc5fdea31c5dcc), this will cause launch time delays
+[22Feb2025 23:13:47.445] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_6 is being run through DFU (hash 41359caad98a809d853587e5b25074ed1665c2d6649768895dac9571facd87b8), this will cause launch time delays
+[22Feb2025 23:13:47.447] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_18 is being run through DFU (hash 19c8e31a2f67bbad0a46fec6e195c0c4b1c298c181700d0ba525c957b72d891e), this will cause launch time delays
+[22Feb2025 23:13:47.447] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_19 is being run through DFU (hash c8bcae8edfc941429e25e6799474a3b26475b5c2fc90713206e1d815cc246e30), this will cause launch time delays
+[22Feb2025 23:13:47.451] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_13 is being run through DFU (hash d84038d082c6a325b66d73294de5e793f54579dfc7bd50b076db8b5323eb8f5f), this will cause launch time delays
+[22Feb2025 23:13:47.453] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_1 is being run through DFU (hash e5e1ee9166d72c0aa4105c9d495dc4dd5ecea0dcb4af289a7f753eb3069ac5e3), this will cause launch time delays
+[22Feb2025 23:13:47.454] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_2 is being run through DFU (hash 94df3aaa8de8eac99451d5ef1b89dd9a154db7b8458b8228563007e9fb8dbad6), this will cause launch time delays
+[22Feb2025 23:13:47.455] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_5 is being run through DFU (hash dfc4c2defbdf3fd63b3573dbdcefd8dd9491e8dbe4202222b1d588e7c3588f80), this will cause launch time delays
+[22Feb2025 23:13:47.456] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_4 is being run through DFU (hash 79a11e41c494676ddd38e05a6fa80cdbbd16767be2a8eed98e7d3399d2d9e10e), this will cause launch time delays
+[22Feb2025 23:13:47.457] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_3 is being run through DFU (hash 39ee9d176c7ef1f8012a9e37905b040bdee04c7298994ac8b65a183bce19725d), this will cause launch time delays
+[22Feb2025 23:13:47.457] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_18 is being run through DFU (hash 78180d409abd4dd5750445f9594a288a8174872ad38acaa2b27723f91c27b5e8), this will cause launch time delays
+[22Feb2025 23:13:47.459] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_17 is being run through DFU (hash 0fd1bdb7d419516a1639b87fe16140c83de7cdd8cfe35ebb579c62acd1584ee8), this will cause launch time delays
+[22Feb2025 23:13:47.463] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_5 is being run through DFU (hash 09d0beca27827c1c186ae368c4ee7c2e9843c6bb85c01a85efd9b48c33989b42), this will cause launch time delays
+[22Feb2025 23:13:47.467] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_2 is being run through DFU (hash e23400f60dbe28cd7d8eeb2dbcc6d069f23ee3b44881a5413baddea62315e788), this will cause launch time delays
+[22Feb2025 23:13:47.471] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_8 is being run through DFU (hash 28c076debbd2cfaa8954d3321b77b99b54716337225106aea7509b871a497a0d), this will cause launch time delays
+[22Feb2025 23:13:47.473] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_19 is being run through DFU (hash 4860abbc8209ab67ed419dcea5f85b93d44b80e16346c741b606cfcce32d7d59), this will cause launch time delays
+[22Feb2025 23:13:47.477] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_6 is being run through DFU (hash 1e23bcc6626b5c66463546295720403ea4cef16c302ae6ea93a3b21a565eaefd), this will cause launch time delays
+[22Feb2025 23:13:47.485] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_12 is being run through DFU (hash 1d2bb61567146f009f7e5b3179898f82aa480cd7419ea21ac9bea854dd2bd879), this will cause launch time delays
+[22Feb2025 23:13:47.486] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_19 is being run through DFU (hash 249944f7f88532aedd693c44c07c0aa1f42407a0e3613536d06536f36641a1dc), this will cause launch time delays
+[22Feb2025 23:13:47.487] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_12 is being run through DFU (hash 0d08ebef46fb3865be22205f41cb8514ed463e4114470fa09366c9ac42b0a697), this will cause launch time delays
+[22Feb2025 23:13:47.489] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_13 is being run through DFU (hash feb653035bf745031cae977c98722ce0cd5272f9e725651fb33e2f7eedc76cdc), this will cause launch time delays
+[22Feb2025 23:13:47.489] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_9 is being run through DFU (hash aa9de4b3a3891adc1fffb1177a73316c5a78e2b1b51036eec4b759166eab786e), this will cause launch time delays
+[22Feb2025 23:13:47.490] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_11 is being run through DFU (hash 2a3ce76c4d4385f9361ce94f6ebc1c35edfa493711ded828d04ccc3f243e0afe), this will cause launch time delays
+[22Feb2025 23:13:47.491] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_11 is being run through DFU (hash 0ce16f7b7948d1981446b77cf1032341bc7ee9ae5c7a3ac0999a1d68db3b3c43), this will cause launch time delays
+[22Feb2025 23:13:47.494] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_7 is being run through DFU (hash ec0a667258fd1f4511acac113f0f1dd427b638d57c18b50ac913b056c747235e), this will cause launch time delays
+[22Feb2025 23:13:47.495] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_8 is being run through DFU (hash 27e3e6f9bd6e862735c533f71838b3dde8aa7140a1cf199e4933aa3e26b0c6ce), this will cause launch time delays
+[22Feb2025 23:13:47.498] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_10 is being run through DFU (hash 3cdf7e817f0805f7471da3ea5830778a47a0057c6df4644a3b4ff84c5dbc2a2d), this will cause launch time delays
+[22Feb2025 23:13:47.504] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_13 is being run through DFU (hash 48413540dc56bd5c9ad8975c8cd999748c520b5ac7c7675503a75c76f8285ff1), this will cause launch time delays
+[22Feb2025 23:13:47.506] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_20 is being run through DFU (hash 773fb98e5b3bca15701d07aaa0e6f94f4ba35102e02c7683040127ab8ad12990), this will cause launch time delays
+[22Feb2025 23:13:47.507] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_9 is being run through DFU (hash 67cc6994858fc6e34a2c3c9df418311418755eeeb9708e5fa239163d12d5f3a1), this will cause launch time delays
+[22Feb2025 23:13:47.511] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_6 is being run through DFU (hash 9de889f1a6da17ffca46adf9e21b50fcdc150b8dec20c6967d2962c587c0d3ad), this will cause launch time delays
+[22Feb2025 23:13:47.512] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_1 is being run through DFU (hash f526b63878e2dec302301c644cd34454176d2d8a39ebb1127e71638bf4a0fb80), this will cause launch time delays
+[22Feb2025 23:13:47.519] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_22 is being run through DFU (hash 974c79a39a55439f25442b0c6325c91c9f61495245ec8a73f2989847693e1b91), this will cause launch time delays
+[22Feb2025 23:13:47.521] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_1 is being run through DFU (hash 3ec50232f43c91c26e968705de8f1075dcdcff68893bc8b7ff8e635193af1a26), this will cause launch time delays
+[22Feb2025 23:13:47.522] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_4 is being run through DFU (hash 6a0c7e99321657c697995abf0e2c1615d3daeeb396c452cca220a20194eb7939), this will cause launch time delays
+[22Feb2025 23:13:47.527] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_14 is being run through DFU (hash 0fa9b67df875d0dcc60edcd16bd1d761709eff90d68e3ee2c5c5ea10aeeb6935), this will cause launch time delays
+[22Feb2025 23:13:47.528] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_10 is being run through DFU (hash 332976678b5a17a87e6c415bc188de1405946768b54de173240abf4bcabe3c6a), this will cause launch time delays
+[22Feb2025 23:13:47.530] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_21 is being run through DFU (hash 3fcf2ceaac9db4691dd68b2efa1e7608077b12483fa82722bfba76e4d35cbfb1), this will cause launch time delays
+[22Feb2025 23:13:47.536] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_15 is being run through DFU (hash 11300175cd4eec9186ad9a22d5d81fab80c7f0023c921c58f1cdb13215c0fb97), this will cause launch time delays
+[22Feb2025 23:13:47.539] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_18 is being run through DFU (hash bbe0c679db78098077ac820467fe55a7616161d55ecb770cb11972dd76e5b183), this will cause launch time delays
+[22Feb2025 23:13:47.540] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_17 is being run through DFU (hash 8366bf3e284869ae04c09f8c2e0d0c69911e515c62553b2266cac8774a37f560), this will cause launch time delays
+[22Feb2025 23:13:47.541] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_17 is being run through DFU (hash 766c40361a9cb36dee7ba2b79f58d88c28980d5e4ddf5e586eec6dfa3edff968), this will cause launch time delays
+[22Feb2025 23:13:47.541] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_20 is being run through DFU (hash 378170e3ecd0544d075ddb360e9a39088eb2bd5ae4f6dda5398150c005ec6818), this will cause launch time delays
+[22Feb2025 23:13:47.542] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_4 is being run through DFU (hash b734d24070a870942f4193be75a3c9a9fed150327f4aa3ae81ac7edf446760de), this will cause launch time delays
+[22Feb2025 23:13:47.543] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_2 is being run through DFU (hash cc9e98ff10464448835daa28423744e6edc09fcb825ba8a4b363b50444e20039), this will cause launch time delays
+[22Feb2025 23:13:47.544] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_3 is being run through DFU (hash 23f73b3192634b43d30e7a21d87eceaaf44c0e931d195d42ade527369aa75f70), this will cause launch time delays
+[22Feb2025 23:13:47.545] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_20 is being run through DFU (hash 98d64678a6d66314450a5159925e312f421437dbbc7ae52d525921cce185961d), this will cause launch time delays
+[22Feb2025 23:13:47.550] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_15 is being run through DFU (hash 95e08a2bd8b99d513aa17b9cebe815c266f60067685ab6133cab889ec200998d), this will cause launch time delays
+[22Feb2025 23:13:47.551] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_12 is being run through DFU (hash 083fbf8a75540061583dcf04c54f0478b6bedb235b4bef26bf63c04f7440f306), this will cause launch time delays
+[22Feb2025 23:13:47.553] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_10 is being run through DFU (hash aed80fc6359775cc380c1c02dbcbf0949d96ca294e7f7103e200d209c058cc27), this will cause launch time delays
+[22Feb2025 23:13:47.558] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_4 is being run through DFU (hash cf73cd76e3c2c71e8bb5f96e637beeedaf85cd66fb47e4339b5d8355f2d9ea5e), this will cause launch time delays
+[22Feb2025 23:13:47.562] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_8 is being run through DFU (hash 85d5988cc28bbb715f7279eb81c2f2d07797c712dd6abe67379c88e79f3716d1), this will cause launch time delays
+[22Feb2025 23:13:47.568] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_2 is being run through DFU (hash ec84457a81b27c8076b3507dc0bf63c90d6cb8d0a3e784a5b2b9a32873193405), this will cause launch time delays
+[22Feb2025 23:13:47.569] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_11 is being run through DFU (hash f660c4b9fb7a58d57b94ec95eb3af15c510377aa149563d604ca9862d5525240), this will cause launch time delays
+[22Feb2025 23:13:47.570] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_16 is being run through DFU (hash 0bc2f36a2f5b426463fb4618cc6af0bb08f141834d1f45a80a4955954c95fe7a), this will cause launch time delays
+[22Feb2025 23:13:47.571] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_23 is being run through DFU (hash 2e1196c95a9dfd8b753721234b22bd035e1cf6888a34008b3a642af39d5edf50), this will cause launch time delays
+[22Feb2025 23:13:47.573] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_16 is being run through DFU (hash 9b88ce5b03b8fddfb96360417943666bd6018109246135e0fb5dae1198a7fd71), this will cause launch time delays
+[22Feb2025 23:13:47.575] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_3 is being run through DFU (hash 3bca22fbb3ee01c64ef6645c2db7c553ddea8b2f094b2d0485d4bf2dbf553bc3), this will cause launch time delays
+[22Feb2025 23:13:47.579] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_21 is being run through DFU (hash ba3cab6e6b0dcfc5aa81a708d175e8d2a6ed8a1774f10f787c4597e3eac9f0eb), this will cause launch time delays
+[22Feb2025 23:13:47.583] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_10 is being run through DFU (hash 718a88b4e6931608d630d0ec3c0817b5d612e75d5758ff7312c579f1c9e039ed), this will cause launch time delays
+[22Feb2025 23:13:47.584] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_7 is being run through DFU (hash 1bf9ede58c537a8bba521c87d4a5259ce3036b2cc166f92c42d0c3683e2d6a27), this will cause launch time delays
+[22Feb2025 23:13:47.585] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_5 is being run through DFU (hash 7abbf53f36828075793c3604cfb488329056d76d45697c26e71ad461d600f0f0), this will cause launch time delays
+[22Feb2025 23:13:47.585] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_12 is being run through DFU (hash 9aa2afb112fd5fd0cc44acc3b7e7ce74b51ee97973518b3ab5d4e2c695d316b6), this will cause launch time delays
+[22Feb2025 23:13:47.587] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_9 is being run through DFU (hash b167304170c9ae4940c32bb130ade48b78f806ea907480715c9dea9a460e2d73), this will cause launch time delays
+[22Feb2025 23:13:47.590] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_7 is being run through DFU (hash 611ec66b4ecbe7ae3c1da6f2484167a5b203280a65cad7626b2f03ae77322f16), this will cause launch time delays
+[22Feb2025 23:13:47.591] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_16 is being run through DFU (hash a9d23ed74bfdb336b202f669c02983414e5ac879cc078be11ddc7505a37e7f2e), this will cause launch time delays
+[22Feb2025 23:13:47.592] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_5 is being run through DFU (hash 9dfeba3de7184e638b011c2586754f186d1e8ae5716c97f253b375592199ddae), this will cause launch time delays
+[22Feb2025 23:13:47.595] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_9 is being run through DFU (hash d0960b24838cbab2520113b182221f19dff083118a4679f01a2d21bbdcd6d904), this will cause launch time delays
+[22Feb2025 23:13:47.596] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_0 is being run through DFU (hash c2e0db02e2f2de2b795c27aa5f05a42994f4fc1bae651d73871139833ea8f249), this will cause launch time delays
+[22Feb2025 23:13:47.599] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_20 is being run through DFU (hash 9a20c2c3f43f7f64d2f23d82c6b7778b8944e40a600de92a8a50fcd1fd164423), this will cause launch time delays
+[22Feb2025 23:13:47.599] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_17 is being run through DFU (hash 14ac575ed22d5ba658084df8526830d806767a7db3997fa74adc5afb5ad56b4c), this will cause launch time delays
+[22Feb2025 23:13:47.601] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_14 is being run through DFU (hash 6bc7f1b8a6695c5748b386036a5b2a5380a728f7c4b7c25aa487a71a22e0b38f), this will cause launch time delays
+[22Feb2025 23:13:47.603] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_0 is being run through DFU (hash b45243c925196d4fb9c6baf2fd63c2a82b974ecdb128c646d4ed93ac71881769), this will cause launch time delays
+[22Feb2025 23:13:47.604] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_0 is being run through DFU (hash e0d10aa3a3cc19af7ec07ba4f9c4902802742bea5014ff8977a73b2f99f22094), this will cause launch time delays
+[22Feb2025 23:13:47.604] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_14 is being run through DFU (hash 60701a7a568cbbd4dc5384370dd25936f35c9ea14e91c291adfd31d152a14ba3), this will cause launch time delays
+[22Feb2025 23:13:47.605] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_8 is being run through DFU (hash 23600f179a284ce2d346d6de99d6994682e1660d1e973f1a2c6f36e71440b517), this will cause launch time delays
+[22Feb2025 23:13:47.606] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_3 is being run through DFU (hash 7288b40bb80f4f2185d1da5a6e6581293a652e022a57b14265f0322c0cd2b1b3), this will cause launch time delays
+[22Feb2025 23:13:47.607] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_16 is being run through DFU (hash 9e1656b8099e1428e186b406ed08dbddde75a111885e775430862fc2ae6a3f8a), this will cause launch time delays
+[22Feb2025 23:13:47.614] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_4 is being run through DFU (hash d107ec2e936a111d870b9b74b6bd0cb4fd6605190e5ea4ebaedc1be6717bb1b3), this will cause launch time delays
+[22Feb2025 23:13:47.622] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_1 is being run through DFU (hash 3976a983b18fbfba1f4da2918ff8d47f2000aa1a45becd83dea4485be1b73c1f), this will cause launch time delays
+[22Feb2025 23:13:47.628] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_11_special is being run through DFU (hash 79bdac590051edc03db009eefdba3442d57506c30e1a76e4124d97b28199016d), this will cause launch time delays
+[22Feb2025 23:13:47.671] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_6 is being run through DFU (hash 2bf3f4c3cea8377ce2e546ced0022eecd26b670e8cce417180d95d435616870a), this will cause launch time delays
+[22Feb2025 23:13:47.679] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_0 is being run through DFU (hash 1848f6d5564e8d41459412ce7cf232fe312e9ac07af6d6e083a757288ad052db), this will cause launch time delays
+[22Feb2025 23:13:47.682] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_3 is being run through DFU (hash ab6fc40b243eb515488dc19a0972bfb0b378aef672b562ac4ef27b8009b3da33), this will cause launch time delays
+[22Feb2025 23:13:47.690] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_2 is being run through DFU (hash c05565715565322380229eb3423f3a02ef1d4e0edbde38afc3aa8558df05f93b), this will cause launch time delays
+[22Feb2025 23:13:47.694] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_5 is being run through DFU (hash 0e89ce83be28c41d0cc213ecba89e4f862bf04e1989d313ac7fa8608d5869b49), this will cause launch time delays
+[22Feb2025 23:13:47.723] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_0 is being run through DFU (hash 792c7b4f974d377413961ce159fe2e6cf6767405d99b9ba8654631be1ee1b850), this will cause launch time delays
+[22Feb2025 23:13:47.776] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_3 is being run through DFU (hash 679b27087ad10b25d6b875705f3d8ed229d07c91055b1dfd06e2a58fe2c0c9d4), this will cause launch time delays
+[22Feb2025 23:13:47.824] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_6 is being run through DFU (hash 1f4b8e374a9e5533deec3dd2e5c42c0a2e9e90df8cb6763cc6b1c520c73dc6f2), this will cause launch time delays
+[22Feb2025 23:13:47.886] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_5 is being run through DFU (hash 4a94576fc526b8babbf53016f058409e3ab6b6415b948aaa88a6debaab823094), this will cause launch time delays
+[22Feb2025 23:13:47.958] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_1 is being run through DFU (hash 23535c938827e803d9fdfc8cdcf2f2cd4c7ec810e1538d459f663754a4276259), this will cause launch time delays
+[22Feb2025 23:13:48.012] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_7 is being run through DFU (hash 2e9b2faad0bf1b833cee56a5d3e89e88770b8b78e0965c6dec79145465595898), this will cause launch time delays
+[22Feb2025 23:13:48.107] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_9 is being run through DFU (hash 741debdf991a502f0aa91633b6053aa8a001e1c18df8305ddb7086fe71913da4), this will cause launch time delays
+[22Feb2025 23:13:48.202] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_4 is being run through DFU (hash 7ddfda052c3c0a9a21631fd69931b85d3dab3ae6bf602b825caa787f6bf80735), this will cause launch time delays
+[22Feb2025 23:13:48.262] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_2 is being run through DFU (hash 5b8ee0e18796e59754ea239a09a545dc54cb8f523ace459ae8b61b42c7b6c22d), this will cause launch time delays
+[22Feb2025 23:13:48.331] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_10 is being run through DFU (hash 9ee2a2ca99c339aef91fbadd20d3e2118afdba4b5920b63f1615157c2c84476c), this will cause launch time delays
+[22Feb2025 23:13:48.413] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_8 is being run through DFU (hash 8813c8432f9812b7c63486ed0dfbd6b90df4d50084475d65dea98c4c67126ae2), this will cause launch time delays
+[22Feb2025 23:13:48.511] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bottom_0 is being run through DFU (hash 11237f38e0c04c6019e8f16fb3bc4207cce59a272221bdcb2a138eff0f6249cd), this will cause launch time delays
+[22Feb2025 23:13:48.530] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_roof_2 is being run through DFU (hash 8785e30eaea43255b75825416ac783b928e3818dfb8742587efa4875a715778d), this will cause launch time delays
+[22Feb2025 23:13:48.593] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_roof_1 is being run through DFU (hash 2dc0362aca29df48e3d9ab25e688fb5a75b062f24e71b5f9265dcece60055d33), this will cause launch time delays
+[22Feb2025 23:13:48.651] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_roof_0 is being run through DFU (hash d693424528592c306e5ad6e7c46699b466ae991ab78e9059240139512816622c), this will cause launch time delays
+[22Feb2025 23:13:48.686] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_roof_0_terminator is being run through DFU (hash bd84a126d5737c6e90a7ec65ea4d5ddd2ba0659f4529f58c58988696f8e8a3c8), this will cause launch time delays
+[22Feb2025 23:13:48.696] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_3 is being run through DFU (hash 970de7ffebc78a17e961b80cf308c22904c9dd092b5fd4ee298eb4b2577d24b0), this will cause launch time delays
+[22Feb2025 23:13:48.698] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bottom_0_terminator is being run through DFU (hash 947b742e773092ba35045801f2999deb758830983a30d4c8f798222960239d45), this will cause launch time delays
+[22Feb2025 23:13:48.702] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_5 is being run through DFU (hash a2e028be904181108a112ab530725581f22fd0e59d2368e08f8a10593e84badb), this will cause launch time delays
+[22Feb2025 23:13:48.704] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bottom_1 is being run through DFU (hash 73f85c28e23280ead1c5a8dc19fc14f56a8f19bd5872736cf0721b6ecec2f89a), this will cause launch time delays
+[22Feb2025 23:13:48.712] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_4 is being run through DFU (hash a7f6ddd1af912bc083307324a4fbb741dbeee9e70693e9549d2675511517a997), this will cause launch time delays
+[22Feb2025 23:13:48.714] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_2 is being run through DFU (hash 4973efd27cb28ada74195bea452551d8d198693daf3ba5f9ab1085f7990a4c23), this will cause launch time delays
+[22Feb2025 23:13:48.720] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_6 is being run through DFU (hash fc05f33ada7c7d18ba5c5efa246fd8d6bc50e80469a4a88582757d9099da4a76), this will cause launch time delays
+[22Feb2025 23:13:48.729] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_0 is being run through DFU (hash b992ed651474899e8133a0acecaae1c7f1056ffa0cf0c4cccef5819885a92967), this will cause launch time delays
+[22Feb2025 23:13:48.738] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_8 is being run through DFU (hash 8f032096b3d6a48293c59b6aad0e078adf3821eadaeddf7d836a4fb3ac89d68a), this will cause launch time delays
+[22Feb2025 23:13:48.758] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_10 is being run through DFU (hash c8bb83851476a0958f768eb6e297164d888b135b617d303c3bd7d16becd955d7), this will cause launch time delays
+[22Feb2025 23:13:48.776] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_2 is being run through DFU (hash 64918d3a3855f9228ee8df4c4c2de592b12b1885ca6a36311137c755d5c1c32d), this will cause launch time delays
+[22Feb2025 23:13:48.787] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_9 is being run through DFU (hash bade0bd20eebf6fed23b2ad51abba94742a239f55d5938615fd64498d2e2231a), this will cause launch time delays
+[22Feb2025 23:13:48.794] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_7 is being run through DFU (hash 652d1e3617b3902f206071b2098dc98be48710313011d19905671aa287f17974), this will cause launch time delays
+[22Feb2025 23:13:48.808] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_1 is being run through DFU (hash 09c89bfb8ddc244034946901583771baeda24cbf3827932c0c6173557c78af81), this will cause launch time delays
+[22Feb2025 23:13:48.829] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_4 is being run through DFU (hash b6cd623b7c32d175845a879d623196946977d167e24cd58793dea228143dad14), this will cause launch time delays
+[22Feb2025 23:13:48.881] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_1 is being run through DFU (hash 91c62c3fe012bdc600bef6efdc9db1f60323ad4ad61901ceb536be51f1f4760d), this will cause launch time delays
+[22Feb2025 23:13:48.890] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_4 is being run through DFU (hash 66ecdeed3e2cf34a344c7d50320f2a3e78370bc99705c093492803b23c9062f1), this will cause launch time delays
+[22Feb2025 23:13:48.896] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_5 is being run through DFU (hash 218c2bc036f38c713c441aa329ce0efe7c06311cd5d6116c33daf094c7314401), this will cause launch time delays
+[22Feb2025 23:13:48.900] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_3 is being run through DFU (hash daf8dafe9b245f5da2f552700daa9a21e4b33b915f53b215fbdc1798e9e3442d), this will cause launch time delays
+[22Feb2025 23:13:48.905] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_0 is being run through DFU (hash cbc852ac1e1d9008ea490e0b8980bdeb447782ca3e2136ab23a57ca871da739a), this will cause launch time delays
+[22Feb2025 23:13:48.913] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_1 is being run through DFU (hash 5531482a07234b18fe8405b3104890f19961383347df0fa930cc46da3a2c92f9), this will cause launch time delays
+[22Feb2025 23:13:48.952] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_6_special is being run through DFU (hash b74d23bd46c77993cf294deaa5b8c8160964015a59110993b3af0107051cb307), this will cause launch time delays
+[22Feb2025 23:13:49.021] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_0 is being run through DFU (hash 009e0b5cfac0d5635c5055c02c2b3e38875ecd0a04276260e63b192187ab71b9), this will cause launch time delays
+[22Feb2025 23:13:49.080] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_8 is being run through DFU (hash 7e9778837b8d66c529672aa39f36a01e85ece5ccab86514dc0b2ebd509acac70), this will cause launch time delays
+[22Feb2025 23:13:49.114] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_7_special is being run through DFU (hash f23c1c676c32ea57a735314087791868e718466ffcdb458540629abdba1af2a5), this will cause launch time delays
+[22Feb2025 23:13:49.240] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_1 is being run through DFU (hash 158c9996afcd6ddf6e998e702e971056246843dfeae20c2bf6e87c88d6ab4f42), this will cause launch time delays
+[22Feb2025 23:13:49.286] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_2 is being run through DFU (hash ad35189e3fb55e0067f8c79d46ac24470f3b36b04fc8bbfbd9c0d719a1d19b28), this will cause launch time delays
+[22Feb2025 23:13:49.326] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_5 is being run through DFU (hash 08a82d83e14337814c13ce70044c5ef08ac1966aa4ce42d426e9d961b2b23210), this will cause launch time delays
+[22Feb2025 23:13:49.375] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_8_special is being run through DFU (hash de0af29008128ee57af6875524435f9b4bafcdea6ecd3f9bde5a429899c31c4f), this will cause launch time delays
+[22Feb2025 23:13:49.512] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_3 is being run through DFU (hash d88e2e6b8e3fae929758b599eb063011114ad492c23e7527c822383dbc4e356d), this will cause launch time delays
+[22Feb2025 23:13:49.546] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_6 is being run through DFU (hash 9c4c8aed696712a7311b20bb525544796ec64ebd8e6bf7944c170faf45c6152c), this will cause launch time delays
+[22Feb2025 23:13:49.548] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_1 is being run through DFU (hash d48c81e7081f479b028f7439b692508014698d6ee9f9aeaac771525c5d4e6a12), this will cause launch time delays
+[22Feb2025 23:13:49.550] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_8 is being run through DFU (hash 5a2561c17e3d4d147dfaa31ac26787b2ce2907ecebde6575d30d5449e147934b), this will cause launch time delays
+[22Feb2025 23:13:49.557] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_3 is being run through DFU (hash c0bd74bd60fce480afbdae80d0768383a66b614b12292b96acc511b6dedf9536), this will cause launch time delays
+[22Feb2025 23:13:49.561] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_4 is being run through DFU (hash 158c0e8798618a01b9ae627fb9a61ba778fe15bcd2e57d43b6c1e329da2b8f04), this will cause launch time delays
+[22Feb2025 23:13:49.582] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_7 is being run through DFU (hash ff933f1c9b38aa5a39c7fbebc54af02f89d8b420375fe42eecc1f66b4212e2e6), this will cause launch time delays
+[22Feb2025 23:13:49.610] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_6 is being run through DFU (hash 84ac147a2b5dcff879b61a08ee125a970bdee175ee8463c5dd62d0d56c091f7c), this will cause launch time delays
+[22Feb2025 23:13:49.634] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_7 is being run through DFU (hash 96f9b66e12fb9893901c83547b06eebcc1b08a213c01482fe9e686ababf66b83), this will cause launch time delays
+[22Feb2025 23:13:49.638] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_0 is being run through DFU (hash f05a2a42d34d319df5f12de32e1579a6299ad72824f3596489ad761a075a0e87), this will cause launch time delays
+[22Feb2025 23:13:49.641] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_2 is being run through DFU (hash f3ecc8c2c88c3cfb50be52e035b300dd591cd51f0b39383ed44578984dfa9869), this will cause launch time delays
+[22Feb2025 23:13:49.644] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_4 is being run through DFU (hash c1387c4075acd2d90a97db3671ac5699d54e9895b4c2a22a9f1d46dae3742af1), this will cause launch time delays
+[22Feb2025 23:13:49.647] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_5 is being run through DFU (hash ff7db1cccfd62e9e2a0e2bf4c52306e2bc3f0b3332fd46f58d6d66d29e19f7ef), this will cause launch time delays
+[22Feb2025 23:13:49.652] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_9 is being run through DFU (hash f5f0c247a834a68bd513ae863bf3db1d9d7b7f4e85cc723021f62c01ff451ac1), this will cause launch time delays
+[22Feb2025 23:13:49.684] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_2 is being run through DFU (hash c996a6fed48ce7c3918f6f53bbf3086a26b665501dc80c59449719ed5d0209d7), this will cause launch time delays
+[22Feb2025 23:13:49.703] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[22Feb2025 23:13:49.720] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_5 is being run through DFU (hash f0342c897318ca8897ec9dbd67057612f1969e116050601cf1ea5df2566bb431), this will cause launch time delays
+[22Feb2025 23:13:49.781] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_3 is being run through DFU (hash 984efe6c0b6a0fe7f262246db3bb7f40727ad09a2d5269f0eae4102d4651d956), this will cause launch time delays
