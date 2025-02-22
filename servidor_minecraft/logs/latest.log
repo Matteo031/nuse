@@ -993,3 +993,7 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [22Feb2025 19:56:12.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1342, y=65, z=1362} BlockPos{x=-1341, y=64, z=1364}
 [22Feb2025 19:56:12.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1342, y=65, z=1362} BlockPos{x=-1341, y=64, z=1364}
 [22Feb2025 19:56:31.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Creative Mode]
+[22Feb2025 20:15:25.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: The difficulty has been set to Hard]
+[22Feb2025 20:17:45.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[22Feb2025 20:20:02.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Creative Mode]
+[22Feb2025 20:20:39.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
