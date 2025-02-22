@@ -962,3 +962,9 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [22Feb2025 19:08:44.128] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/73424, l='ServerLevel[world]', x=230.30, y=68.22, z=984.22] died: Desert Blaze was slain by RennSo
 [22Feb2025 19:09:08.328] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/73812, l='ServerLevel[world]', x=166.29, y=80.16, z=951.40] died: Desert Blaze was slain by RennSo
 [22Feb2025 19:09:32.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to 153.500000, 88.500000, 1024.500000]
+[22Feb2025 19:21:23.928] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[22Feb2025 19:24:59.428] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1293, y=64, z=1326} BlockPos{x=-1292, y=64, z=1326}
+[22Feb2025 19:26:00.278] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1269, y=65, z=1309} BlockPos{x=-1270, y=65, z=1309}
+[22Feb2025 19:26:00.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1269, y=65, z=1309} BlockPos{x=-1270, y=65, z=1309}
+[22Feb2025 19:30:14.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1263, y=69, z=1292} BlockPos{x=-1264, y=69, z=1292}
+[22Feb2025 19:30:15.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1262, y=69, z=1293} BlockPos{x=-1262, y=69, z=1292}
