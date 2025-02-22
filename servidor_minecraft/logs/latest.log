@@ -956,3 +956,9 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [22Feb2025 18:42:38.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
 [22Feb2025 18:44:11.382] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
 [22Feb2025 18:44:11.490] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[22Feb2025 19:03:39.942] [Server thread/INFO] [dev.ftb.mods.ftbultimine.FTBUltimine/]: Server config updated from client by player RennSo
+[22Feb2025 19:04:21.540] [Server thread/INFO] [dev.ftb.mods.ftbultimine.FTBUltimine/]: Server config updated from client by player RennSo
+[22Feb2025 19:06:46.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/72329, l='ServerLevel[world]', x=214.34, y=74.50, z=1025.04] died: Desert Blaze was slain by RennSo
+[22Feb2025 19:08:44.128] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/73424, l='ServerLevel[world]', x=230.30, y=68.22, z=984.22] died: Desert Blaze was slain by RennSo
+[22Feb2025 19:09:08.328] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/73812, l='ServerLevel[world]', x=166.29, y=80.16, z=951.40] died: Desert Blaze was slain by RennSo
+[22Feb2025 19:09:32.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to 153.500000, 88.500000, 1024.500000]
