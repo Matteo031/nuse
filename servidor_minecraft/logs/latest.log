@@ -1235,3 +1235,16 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [23Feb2025 17:40:30.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
 [23Feb2025 17:40:43.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Clash of the Titans]
 [23Feb2025 17:43:55.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
+[23Feb2025 17:49:50.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Creative Mode]
+[23Feb2025 17:49:55.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[23Feb2025 17:53:26.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to 222.500000, 97.500000, -1413.500000]
+[23Feb2025 17:54:09.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Spectator Mode]
+[23Feb2025 17:54:39.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[23Feb2025 17:54:41.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
+[23Feb2025 17:55:45.010] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 51ece634: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Feb2025 17:55:45.218] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 51ece634: RandomSpreadSearchWorker succeeded with 2580 radius, 43 samples
+[23Feb2025 17:55:56.296] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[23Feb2025 17:55:57.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Spectator Mode]
+[23Feb2025 17:55:58.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Creative Mode]
+[23Feb2025 17:56:03.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Spectator Mode]
+[23Feb2025 17:56:04.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
