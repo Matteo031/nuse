@@ -154,6 +154,7 @@
       "minecraft:sunflower_plains": "2025-02-18 00:25:57 +0000",
       "minecraft:cherry_grove": "2025-02-22 23:25:01 +0000",
       "minecraft:birch_forest": "2025-02-17 22:00:25 +0000",
+      "minecraft:windswept_hills": "2025-02-23 17:31:18 +0000",
       "minecraft:bamboo_jungle": "2025-02-18 02:29:50 +0000",
       "minecraft:savanna_plateau": "2025-02-18 00:32:51 +0000",
       "minecraft:beach": "2025-02-18 02:30:33 +0000",
@@ -1493,87 +1494,51 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "mowziesmobs:kill_umvuthi": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 00:31:41 +0000"
+      "barako": "2025-02-22 22:32:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "iceandfire:iceandfire/dragon_forge_brick": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 00:31:41 +0000"
+      "forge": "2025-02-22 22:43:52 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "iceandfire:iceandfire/dragon_forge_core": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 00:31:41 +0000"
+      "core": "2025-02-22 22:45:33 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "iceandfire:iceandfire/dragonsteel": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 00:31:41 +0000"
+      "steel": "2025-02-22 22:51:18 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "iceandfire:iceandfire/dragonsteel_weapon": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 00:31:41 +0000"
+      "sword": "2025-02-22 22:53:27 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "iceandfire:iceandfire/kill_siren": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 00:31:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 00:31:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 00:31:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 00:31:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 00:31:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 00:31:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 00:31:41 +0000"
-    },
-    "done": false
-  },
-  "alexscaves:alexscaves/discover_dinosaur": {
-    "criteria": {
-      "interact_vallumraptor": "2025-02-22 23:09:14 +0000"
+      "killed_fire_dragon": "2025-02-22 22:59:01 +0000"
     },
     "done": true
   },
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2025-02-22 23:08:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "interact_vallumraptor": "2025-02-22 23:09:14 +0000"
     },
     "done": true
   },
@@ -1592,42 +1557,6 @@
   "endrem:main/guardian_eye": {
     "criteria": {
       "guardian_eye": "2025-02-22 23:42:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonsteel": {
-    "criteria": {
-      "steel": "2025-02-22 22:51:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_forge_brick": {
-    "criteria": {
-      "forge": "2025-02-22 22:43:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_siren": {
-    "criteria": {
-      "killed_fire_dragon": "2025-02-22 22:59:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonsteel_weapon": {
-    "criteria": {
-      "sword": "2025-02-22 22:53:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_forge_core": {
-    "criteria": {
-      "core": "2025-02-22 22:45:33 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_umvuthi": {
-    "criteria": {
-      "barako": "2025-02-22 22:32:22 +0000"
     },
     "done": true
   },
