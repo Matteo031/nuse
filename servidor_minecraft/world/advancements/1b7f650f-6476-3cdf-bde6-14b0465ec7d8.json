@@ -1560,5 +1560,17 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-02-23 17:31:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-02-23 17:40:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
