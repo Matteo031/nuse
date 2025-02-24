@@ -955,3 +955,4 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [24Feb2025 04:02:43.873] [Server thread/INFO] [Jade/]: Syncing config to RennSo (1b7f650f-6476-3cdf-bde6-14b0465ec7d8)
 [24Feb2025 04:02:45.261] [Server thread/INFO] [ping-wheel/]: Channel update: RennSo -> default
 [24Feb2025 04:07:29.885] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=199, y=16, z=1026} BlockPos{x=199, y=17, z=1026}
+[24Feb2025 04:15:30.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to 153.500000, 88.500000, 1024.500000]
