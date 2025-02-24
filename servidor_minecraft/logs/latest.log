@@ -962,3 +962,21 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [24Feb2025 04:53:30.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Configure Everything]
 [24Feb2025 04:56:13.690] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/bobmowzie/mowziesmobs/client/sound/BossMusic for invalid dist DEDICATED_SERVER
 [24Feb2025 04:56:13.691] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.bobmowzie.mowziesmobs.server.entity.wroughtnaut.EntityWroughtnaut cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class com/bobmowzie/mowziesmobs/client/sound/BossMusic for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[24Feb2025 05:01:22.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RennSo> 48 naranja
+[24Feb2025 05:11:21.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RennSo> 70 fission reactor
+[24Feb2025 05:13:39.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
+[24Feb2025 05:14:49.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
+[24Feb2025 05:16:26.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
+[24Feb2025 05:17:04.710] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[24Feb2025 05:26:49.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo moved too quickly! -2.0656582755696036,-0.6551272198702516,9.911203145361924
+[24Feb2025 05:26:49.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2584ms or 51 ticks behind
+[24Feb2025 05:27:56.807] [Server thread/INFO] [dev.ftb.mods.ftbultimine.FTBUltimine/]: Server config updated from client by player RennSo
+[24Feb2025 05:28:40.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo moved too quickly! 1.5940752980590105,9.5,4.076804741197066
+[24Feb2025 05:28:40.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[24Feb2025 05:29:18.861] [Server thread/INFO] [dev.ftb.mods.ftbultimine.FTBUltimine/]: Server config updated from client by player RennSo
+[24Feb2025 05:36:14.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -819.500000, -15.500000, 3965.500000]
+[24Feb2025 05:36:17.671] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[24Feb2025 05:36:28.029] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Feb2025 05:36:28.031] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Feb2025 05:37:03.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -843.500000, -47.500000, 4188.500000]
+[24Feb2025 05:39:20.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
