@@ -995,3 +995,5 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [24Feb2025 06:05:28.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/342258, l='ServerLevel[world]', x=4914.47, y=62.51, z=-5996.59] died, message: 'Unemployed was slain by Siren'
 [24Feb2025 06:07:02.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
 [24Feb2025 06:07:10.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to 5096.500000, 94.500000, -5980.500000]
+[24Feb2025 06:13:39.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Killed 41 entities]
+[24Feb2025 06:14:02.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo moved too quickly! -4.343634699955146,4.222459652515717,8.333180801767412
