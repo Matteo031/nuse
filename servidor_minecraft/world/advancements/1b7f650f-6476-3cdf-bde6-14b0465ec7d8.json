@@ -1645,9 +1645,27 @@
     },
     "done": true
   },
+  "mekanism:plutonium": {
+    "criteria": {
+      "pellet_plutonium": "2025-02-24 19:17:11 +0000"
+    },
+    "done": true
+  },
   "mekanism:factory": {
     "criteria": {
       "factory": "2025-02-24 18:54:46 +0000"
+    },
+    "done": true
+  },
+  "mekanism:sna": {
+    "criteria": {
+      "solar_neutron_activator": "2025-02-24 19:20:22 +0000"
+    },
+    "done": true
+  },
+  "mekanism:waste_removal": {
+    "criteria": {
+      "radioactive_waste_barrel": "2025-02-24 19:12:13 +0000"
     },
     "done": true
   },

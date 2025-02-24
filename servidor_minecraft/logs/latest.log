@@ -967,3 +967,16 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [24Feb2025 19:08:31.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
 [24Feb2025 19:08:43.960] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
 [24Feb2025 19:09:13.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
+[24Feb2025 19:16:32.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[24Feb2025 19:17:05.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Killed 33 entities]
+[24Feb2025 19:17:11.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Plutonium, Not Polonium]
+[24Feb2025 19:20:10.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Creative Mode]
+[24Feb2025 19:20:41.522] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Dealer'/326, l='ServerLevel[world]', x=-1238.70, y=75.00, z=1348.70] died, message: 'Dealer was killed by radiation poisoning.'
+[24Feb2025 19:20:41.524] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Dealer'/326, l='ServerLevel[world]', x=-1238.70, y=75.00, z=1348.70] died: Dealer was killed by radiation poisoning.
+[24Feb2025 19:21:00.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
+[24Feb2025 19:21:43.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RennSo> mek radiation removeAll
+[24Feb2025 19:21:47.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Removed all radiation sources.]
+[24Feb2025 19:22:43.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Removed all radiation sources.]
+[24Feb2025 19:24:00.037] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[24Feb2025 19:24:29.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set the time to 1000]
+[24Feb2025 19:25:09.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
