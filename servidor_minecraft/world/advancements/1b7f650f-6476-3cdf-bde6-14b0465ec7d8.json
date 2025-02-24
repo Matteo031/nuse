@@ -1622,6 +1622,7 @@
   },
   "mekanism:chemical_crystallizer": {
     "criteria": {
+      "chemical_dissolution_chamber": "2025-02-24 18:51:39 +0000",
       "chemical_crystallizer": "2025-02-24 05:01:47 +0000"
     },
     "done": false
@@ -1635,6 +1636,18 @@
   "cataclysm:kill_leviathan": {
     "criteria": {
       "ignis": "2025-02-24 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-02-24 18:53:24 +0000"
+    },
+    "done": true
+  },
+  "mekanism:factory": {
+    "criteria": {
+      "factory": "2025-02-24 18:54:46 +0000"
     },
     "done": true
   },

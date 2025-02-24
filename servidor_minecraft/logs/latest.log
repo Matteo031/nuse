@@ -960,3 +960,5 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [24Feb2025 18:43:29.755] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
 [24Feb2025 18:53:24.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Glow and Behold!]
 [24Feb2025 18:54:46.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has reached the goal [The Factory Must Grow!]
+[24Feb2025 19:04:23.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[24Feb2025 19:04:38.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Creative Mode]
