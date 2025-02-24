@@ -15503,3 +15503,284 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [24Feb2025 02:06:39.779] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
 [24Feb2025 02:06:39.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Feb2025 02:06:39.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:gas
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[24Feb2025 02:11:39.773] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:pigment
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:infuse_type
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[24Feb2025 02:11:39.774] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[24Feb2025 02:11:39.775] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[24Feb2025 02:11:39.775] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: rats:rat_variant
+[24Feb2025 02:11:39.775] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[24Feb2025 02:11:39.775] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[24Feb2025 02:11:39.775] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:slurry
+[24Feb2025 02:11:39.775] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[24Feb2025 02:11:39.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 02:11:39.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 02:12:44.593] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1740363164586
+[24Feb2025 02:12:44.648] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.Network/]: Network at position BlockPos{x=-1234, y=75, z=1352} changed running state to false, causing an invalidation of the node graph
+[24Feb2025 02:12:44.692] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.diskdrive.DiskDriveNetworkNode/]: Connectivity state of disk drive at BlockPos{x=-1234, y=74, z=1352} changed to false due to REDSTONE_MODE_OR_NETWORK_ENERGY_CHANGE
+[24Feb2025 02:12:44.692] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-1234, y=75, z=1352} due to CONNECTED_STATE_CHANGED
+[24Feb2025 02:12:44.697] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.FluidStorageCache/]: Invalidating fluid storage cache of network at position BlockPos{x=-1234, y=75, z=1352} due to CONNECTED_STATE_CHANGED
+[24Feb2025 02:12:53.093] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[24Feb2025 02:15:27.605] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[24Feb2025 02:15:27.622] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/2x1_l2
+[24Feb2025 02:15:27.636] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_main
+[24Feb2025 02:15:27.678] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/courtyards/courtyard_2x1
+[24Feb2025 02:15:27.712] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/2x2_l2
+[24Feb2025 02:15:27.727] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x1/blacksmith
+[24Feb2025 02:15:27.737] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l3
+[24Feb2025 02:15:27.754] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/2x1_l3
+[24Feb2025 02:15:27.759] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/shock_troop
+[24Feb2025 02:15:27.767] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/courtyards/courtyard_1x1
+[24Feb2025 02:15:27.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/archer
+[24Feb2025 02:15:27.799] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/2x2_l3
+[24Feb2025 02:15:27.810] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/kitchen
+[24Feb2025 02:15:27.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/cell
+[24Feb2025 02:15:27.815] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/crossroads1
+[24Feb2025 02:15:27.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/dining
+[24Feb2025 02:15:27.822] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/trap_room
+[24Feb2025 02:15:27.826] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/corridors
+[24Feb2025 02:15:27.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/odd_treasure
+[24Feb2025 02:15:27.829] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/blacksmith
+[24Feb2025 02:15:27.829] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight_guard
+[24Feb2025 02:15:27.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_2x1_3
+[24Feb2025 02:15:27.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_corner
+[24Feb2025 02:15:27.839] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x1/lumber_c
+[24Feb2025 02:15:27.843] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_15_compat
+[24Feb2025 02:15:27.846] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_10
+[24Feb2025 02:15:27.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_15
+[24Feb2025 02:15:27.853] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_15w
+[24Feb2025 02:15:27.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_gate
+[24Feb2025 02:15:27.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/coolant_room
+[24Feb2025 02:15:27.862] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/strider_pen
+[24Feb2025 02:15:27.867] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x1/portal
+[24Feb2025 02:15:27.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/house_1x1
+[24Feb2025 02:15:27.871] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/crossroads/decor2
+[24Feb2025 02:15:27.871] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight_gold
+[24Feb2025 02:15:27.872] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table2
+[24Feb2025 02:15:27.873] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/brewing
+[24Feb2025 02:15:27.874] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table_small1
+[24Feb2025 02:15:27.874] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table_small3
+[24Feb2025 02:15:27.877] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_2
+[24Feb2025 02:15:27.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/corridor1
+[24Feb2025 02:15:27.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/corridor2
+[24Feb2025 02:15:27.880] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove5
+[24Feb2025 02:15:27.880] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove7
+[24Feb2025 02:15:27.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_5
+[24Feb2025 02:15:27.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove6
+[24Feb2025 02:15:27.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove13
+[24Feb2025 02:15:27.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove2
+[24Feb2025 02:15:27.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove1
+[24Feb2025 02:15:27.885] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table1
+[24Feb2025 02:15:27.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x2/sentry_lab
+[24Feb2025 02:15:27.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight
+[24Feb2025 02:15:27.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/lumber/c1
+[24Feb2025 02:15:27.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_2x1_special_farm
+[24Feb2025 02:15:27.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor1
+[24Feb2025 02:15:27.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_d1
+[24Feb2025 02:15:27.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_d2
+[24Feb2025 02:15:27.927] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor2
+[24Feb2025 02:15:27.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor6
+[24Feb2025 02:15:27.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_short2
+[24Feb2025 02:15:27.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor4
+[24Feb2025 02:15:27.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/strider/pool2
+[24Feb2025 02:15:27.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table_small2
+[24Feb2025 02:15:27.931] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor3
+[24Feb2025 02:15:27.934] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_2x1_1
+[24Feb2025 02:15:27.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/scout
+[24Feb2025 02:15:27.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand3
+[24Feb2025 02:15:27.937] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/farm1
+[24Feb2025 02:15:27.937] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand4
+[24Feb2025 02:15:27.938] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/table2
+[24Feb2025 02:15:27.938] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/alchemist
+[24Feb2025 02:15:27.938] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand6
+[24Feb2025 02:15:27.939] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_short1_hoglin
+[24Feb2025 02:15:27.940] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove3
+[24Feb2025 02:15:27.941] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove14
+[24Feb2025 02:15:27.941] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove10
+[24Feb2025 02:15:27.942] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove8
+[24Feb2025 02:15:27.942] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove12
+[24Feb2025 02:15:27.944] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_backup
+[24Feb2025 02:15:27.948] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_2x1_2
+[24Feb2025 02:15:27.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/lumber/barrel_small3
+[24Feb2025 02:15:27.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/lumber/barrel_big1
+[24Feb2025 02:15:27.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/lumber/barrel_small2
+[24Feb2025 02:15:27.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/lumber/c3
+[24Feb2025 02:15:27.952] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/pigstep
+[24Feb2025 02:15:27.954] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_base
+[24Feb2025 02:15:27.955] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/treasure_netherite
+[24Feb2025 02:15:27.956] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/crossroads/decor1
+[24Feb2025 02:15:27.958] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_6
+[24Feb2025 02:15:27.961] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_4
+[24Feb2025 02:15:27.963] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove11
+[24Feb2025 02:15:27.963] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/saplings_b
+[24Feb2025 02:15:27.963] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight_diamond
+[24Feb2025 02:15:27.964] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/saplings_big
+[24Feb2025 02:15:27.964] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/saplings_small
+[24Feb2025 02:15:27.964] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight_netherite
+[24Feb2025 02:15:27.966] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/brewing_w
+[24Feb2025 02:15:27.967] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/ocean_portal
+[24Feb2025 02:15:27.968] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove4
+[24Feb2025 02:15:27.969] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove9
+[24Feb2025 02:15:27.969] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/table2_w
+[24Feb2025 02:15:27.970] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/farm2_w
+[24Feb2025 02:15:27.970] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand2
+[24Feb2025 02:15:27.971] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand5
+[24Feb2025 02:15:27.974] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_8
+[24Feb2025 02:15:27.979] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/pig_ben
+[24Feb2025 02:15:27.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/archery_tower
+[24Feb2025 02:15:27.987] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_1
+[24Feb2025 02:15:27.990] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_3
+[24Feb2025 02:16:39.826] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:gas
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:pigment
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:infuse_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[24Feb2025 02:16:39.827] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[24Feb2025 02:16:39.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[24Feb2025 02:16:39.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[24Feb2025 02:16:39.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[24Feb2025 02:16:39.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[24Feb2025 02:16:39.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[24Feb2025 02:16:39.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[24Feb2025 02:16:39.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[24Feb2025 02:16:39.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[24Feb2025 02:16:39.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[24Feb2025 02:16:39.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[24Feb2025 02:16:39.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[24Feb2025 02:16:39.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[24Feb2025 02:16:39.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[24Feb2025 02:16:39.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[24Feb2025 02:16:39.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: rats:rat_variant
+[24Feb2025 02:16:39.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[24Feb2025 02:16:39.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[24Feb2025 02:16:39.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:slurry
+[24Feb2025 02:16:39.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[24Feb2025 02:16:39.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 02:16:39.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 02:17:18.548] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/protector
+[24Feb2025 02:17:18.548] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/inquisitor
+[24Feb2025 02:17:18.548] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/cultist
+[24Feb2025 02:17:18.549] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/apostle
+[24Feb2025 02:17:18.549] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/ritualist
+[24Feb2025 02:17:18.550] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/ravager
+[24Feb2025 02:17:18.550] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/illusionist
+[24Feb2025 02:17:18.598] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/guardian

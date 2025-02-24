@@ -1578,5 +1578,17 @@
     },
     "done": true
   },
+  "tconstruct:tools/part_builder": {
+    "criteria": {
+      "crafted_block": "2025-02-24 02:08:36 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_station": {
+    "criteria": {
+      "crafted_block": "2025-02-24 02:08:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
