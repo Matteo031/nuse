@@ -1006,3 +1006,7 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [24Feb2025 06:28:12.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Spectator Mode]
 [24Feb2025 06:29:17.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
 [24Feb2025 06:29:51.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Spectator Mode]
+[24Feb2025 06:30:53.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[24Feb2025 06:33:29.401] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/352391, l='ServerLevel[world]', x=4878.97, y=62.49, z=-5962.50] died, message: 'Fisherman was slain by Lionfish'
+[24Feb2025 06:33:57.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
+[24Feb2025 06:35:13.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to 5096.500000, 94.500000, -5980.500000]
