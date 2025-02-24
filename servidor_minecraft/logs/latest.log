@@ -980,3 +980,11 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [24Feb2025 19:24:00.037] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
 [24Feb2025 19:24:29.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set the time to 1000]
 [24Feb2025 19:25:09.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[24Feb2025 19:25:57.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Killed 69 entities]
+[24Feb2025 19:27:15.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Polonium, Not Plutonium]
+[24Feb2025 19:28:23.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Get Your Tweak On]
+[24Feb2025 19:30:09.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Creative Mode]
+[24Feb2025 19:30:15.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[24Feb2025 19:34:00.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Creative Mode]
+[24Feb2025 19:35:10.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[24Feb2025 19:35:12.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Creative Mode]

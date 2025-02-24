@@ -1639,6 +1639,12 @@
     },
     "done": true
   },
+  "mekanism:modification_station": {
+    "criteria": {
+      "modification_station": "2025-02-24 19:28:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/make_a_sign_glow": {
     "criteria": {
       "make_a_sign_glow": "2025-02-24 18:53:24 +0000"
@@ -1660,6 +1666,12 @@
   "mekanism:sna": {
     "criteria": {
       "solar_neutron_activator": "2025-02-24 19:20:22 +0000"
+    },
+    "done": true
+  },
+  "mekanism:polonium": {
+    "criteria": {
+      "pellet_polonium": "2025-02-24 19:27:15 +0000"
     },
     "done": true
   },
