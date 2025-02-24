@@ -964,3 +964,6 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [24Feb2025 01:56:05.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=191, y=92, z=1009} BlockPos{x=188, y=90, z=1009}
 [24Feb2025 01:56:26.846] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=193, y=88, z=1000} BlockPos{x=193, y=88, z=1002}
 [24Feb2025 02:00:10.190] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/34576, l='ServerLevel[world]', x=171.50, y=71.00, z=937.45] died: Desert Blaze was slain by Wither Skeleton
+[24Feb2025 02:00:29.420] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/34575, l='ServerLevel[world]', x=165.45, y=72.04, z=933.23] died: Desert Blaze was slain by RennSo
+[24Feb2025 02:04:25.906] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/36474, l='ServerLevel[world]', x=173.94, y=71.00, z=981.13] died: Desert Blaze was slain by RennSo
+[24Feb2025 02:06:32.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to 153.500000, 88.500000, 1024.500000]
