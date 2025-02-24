@@ -1590,5 +1590,17 @@
     },
     "done": true
   },
+  "mekanism:disassembler": {
+    "criteria": {
+      "atomic_disassembler": "2025-02-24 04:27:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/tinkers_anvil": {
+    "criteria": {
+      "crafted_nether": "2025-02-24 04:18:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
