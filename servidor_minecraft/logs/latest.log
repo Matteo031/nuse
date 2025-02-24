@@ -958,3 +958,5 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [24Feb2025 18:27:15.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
 [24Feb2025 18:29:56.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Creative Mode]
 [24Feb2025 18:43:29.755] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[24Feb2025 18:53:24.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Glow and Behold!]
+[24Feb2025 18:54:46.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has reached the goal [The Factory Must Grow!]
