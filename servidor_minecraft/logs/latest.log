@@ -997,3 +997,12 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [24Feb2025 06:07:10.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to 5096.500000, 94.500000, -5980.500000]
 [24Feb2025 06:13:39.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Killed 41 entities]
 [24Feb2025 06:14:02.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo moved too quickly! -4.343634699955146,4.222459652515717,8.333180801767412
+[24Feb2025 06:20:35.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to 5151.500000, 26.500000, -5970.500000]
+[24Feb2025 06:22:03.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to 4986.500000, 36.500000, -6017.500000]
+[24Feb2025 06:22:09.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to 4981.500000, 38.500000, -6024.500000]
+[24Feb2025 06:22:31.505] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/349741, l='ServerLevel[world]', x=4878.76, y=62.52, z=-5937.70] died, message: 'Nitwit was impaled by Drowned'
+[24Feb2025 06:22:33.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to 5036.500000, 22.500000, -6026.500000]
+[24Feb2025 06:22:49.854] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/349697, l='ServerLevel[world]', x=4887.85, y=62.53, z=-5925.49] died, message: 'Unemployed was impaled by Drowned'
+[24Feb2025 06:28:12.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Spectator Mode]
+[24Feb2025 06:29:17.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[24Feb2025 06:29:51.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Spectator Mode]
