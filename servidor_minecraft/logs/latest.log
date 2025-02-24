@@ -988,3 +988,7 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [24Feb2025 19:34:00.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Creative Mode]
 [24Feb2025 19:35:10.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
 [24Feb2025 19:35:12.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Creative Mode]
+[24Feb2025 19:40:36.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has reached the goal [Mekanist]
+[24Feb2025 19:42:45.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[24Feb2025 19:44:30.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
+[24Feb2025 19:44:58.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Killed 11 entities]

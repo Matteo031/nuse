@@ -1639,9 +1639,21 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-02-24 19:41:31 +0000"
+    },
+    "done": false
+  },
   "mekanism:modification_station": {
     "criteria": {
       "modification_station": "2025-02-24 19:28:23 +0000"
+    },
+    "done": true
+  },
+  "mekanism:mekasuit": {
+    "criteria": {
+      "full_set": "2025-02-24 19:40:36 +0000"
     },
     "done": true
   },
