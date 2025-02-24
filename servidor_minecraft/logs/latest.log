@@ -992,3 +992,57 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [24Feb2025 19:42:45.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
 [24Feb2025 19:44:30.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
 [24Feb2025 19:44:58.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Killed 11 entities]
+[24Feb2025 19:51:12.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Creative Mode]
+[24Feb2025 19:51:19.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[24Feb2025 19:52:22.235] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[24Feb2025 19:52:22.331] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[24Feb2025 19:52:22.777] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[24Feb2025 19:52:35.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
+[24Feb2025 19:53:21.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
+[24Feb2025 19:54:43.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo moved too quickly! -20.165353777723794,0.10575353925959519,-9.324912312822335
+[24Feb2025 19:59:10.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo lost connection: Disconnected
+[24Feb2025 19:59:10.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo left the game
+[24Feb2025 19:59:16.859] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RennSo[/127.48.55.234:32983] logged in with entity id 297897 at (-1279.7807848105188, 81.53425298551315, 1347.6713046805983)
+[24Feb2025 19:59:16.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo joined the game
+[24Feb2025 19:59:16.925] [Server thread/INFO] [Jade/]: Syncing config to RennSo (1b7f650f-6476-3cdf-bde6-14b0465ec7d8)
+[24Feb2025 19:59:17.345] [Server thread/INFO] [ping-wheel/]: Channel update: RennSo -> default
+[24Feb2025 20:06:14.269] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element betterstrongholds:stronghold took 26 ms
+[24Feb2025 20:06:17.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1087.500000, 74.000000, 1696.500000]
+[24Feb2025 20:06:21.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Spectator Mode]
+[24Feb2025 20:06:46.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Creative Mode]
+[24Feb2025 20:06:51.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Spectator Mode]
+[24Feb2025 20:06:54.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[24Feb2025 20:07:12.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Creative Mode]
+[24Feb2025 20:07:25.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [The Mirror Of The Soul]
+[24Feb2025 20:07:29.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Fallen Sorcerer]
+[24Feb2025 20:07:40.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Set own game mode to Survival Mode]
+[24Feb2025 20:07:41.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Cover Me In Emeralds]
+[24Feb2025 20:07:41.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Arghh, Where be Me Ship?]
+[24Feb2025 20:07:41.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Trick-or-Treat?]
+[24Feb2025 20:07:41.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [A Nice-y Look]
+[24Feb2025 20:07:41.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Fortune Seeker]
+[24Feb2025 20:07:41.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Welcome To The Jungle]
+[24Feb2025 20:07:41.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Where's Atlantis?]
+[24Feb2025 20:08:09.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Killed 41 entities]
+[24Feb2025 20:08:19.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [The End?]
+[24Feb2025 20:08:21.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5376ms or 107 ticks behind
+[24Feb2025 20:08:23.259] [Server thread/INFO] [betterendisland/]: Scanning for legacy world dragon fight...
+[24Feb2025 20:08:23.261] [Server thread/INFO] [betterendisland/]: Found that the dragon has not yet been killed in this world.
+[24Feb2025 20:08:24.027] [Server thread/INFO] [betterendisland/]: Portal location is null. Placing manually...
+[24Feb2025 20:08:24.028] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=65, z=0}
+[24Feb2025 20:08:28.719] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[24Feb2025 20:08:28.719] [Server thread/INFO] [betterendisland/]: Found all crystals, starting initial dragon spawn.
+[24Feb2025 20:08:58.878] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=65, z=0}
+[24Feb2025 20:10:01.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Free the End]
+[24Feb2025 20:10:16.871] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=65, z=0}
+[24Feb2025 20:10:47.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Remote Getaway]
+[24Feb2025 20:11:36.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [The City at the End of the Game]
+[24Feb2025 20:14:04.511] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=18, z=314}
+[24Feb2025 20:14:04.512] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=17, z=317}
+[24Feb2025 20:14:04.512] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=16, z=316}
+[24Feb2025 20:14:04.513] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1466, y=18, z=323}
+[24Feb2025 20:14:04.513] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1467, y=16, z=323}
+[24Feb2025 20:14:04.513] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1460, y=16, z=323}
+[24Feb2025 20:14:04.513] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=17, z=321}
+[24Feb2025 20:14:38.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo moved wrongly!
+[24Feb2025 20:15:17.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has reached the goal [Sky's the Limit]

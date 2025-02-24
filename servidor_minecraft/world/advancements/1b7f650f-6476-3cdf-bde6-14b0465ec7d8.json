@@ -246,6 +246,7 @@
       "minecraft:witch": "2025-02-19 19:09:05 +0000",
       "minecraft:wither_skeleton": "2025-02-19 17:15:55 +0000",
       "minecraft:husk": "2025-02-17 23:33:46 +0000",
+      "minecraft:ender_dragon": "2025-02-24 20:10:01 +0000",
       "minecraft:cave_spider": "2025-02-18 00:50:02 +0000",
       "quark:wraith": "2025-02-18 19:45:35 +0000",
       "minecraft:piglin": "2025-02-18 19:45:52 +0000",
@@ -1639,39 +1640,27 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-02-24 19:41:31 +0000"
-    },
-    "done": false
-  },
-  "mekanism:modification_station": {
-    "criteria": {
-      "modification_station": "2025-02-24 19:28:23 +0000"
-    },
-    "done": true
-  },
-  "mekanism:mekasuit": {
-    "criteria": {
-      "full_set": "2025-02-24 19:40:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/make_a_sign_glow": {
     "criteria": {
       "make_a_sign_glow": "2025-02-24 18:53:24 +0000"
     },
     "done": true
   },
-  "mekanism:plutonium": {
-    "criteria": {
-      "pellet_plutonium": "2025-02-24 19:17:11 +0000"
-    },
-    "done": true
-  },
   "mekanism:factory": {
     "criteria": {
       "factory": "2025-02-24 18:54:46 +0000"
+    },
+    "done": true
+  },
+  "mekanism:waste_removal": {
+    "criteria": {
+      "radioactive_waste_barrel": "2025-02-24 19:12:13 +0000"
+    },
+    "done": true
+  },
+  "mekanism:plutonium": {
+    "criteria": {
+      "pellet_plutonium": "2025-02-24 19:17:11 +0000"
     },
     "done": true
   },
@@ -1687,9 +1676,93 @@
     },
     "done": true
   },
-  "mekanism:waste_removal": {
+  "mekanism:modification_station": {
     "criteria": {
-      "radioactive_waste_barrel": "2025-02-24 19:12:13 +0000"
+      "modification_station": "2025-02-24 19:28:23 +0000"
+    },
+    "done": true
+  },
+  "mekanism:mekasuit": {
+    "criteria": {
+      "full_set": "2025-02-24 19:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-02-24 20:10:01 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-02-24 20:07:41 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2025-02-24 20:07:41 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/exotic_eye": {
+    "criteria": {
+      "exotic_eye": "2025-02-24 20:07:41 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-02-24 20:07:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-02-24 20:10:47 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2025-02-24 20:07:41 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-02-24 20:07:41 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2025-02-24 20:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-02-24 20:08:19 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/undead_eye": {
+    "criteria": {
+      "undead_eye": "2025-02-24 20:07:25 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/witch_eye": {
+    "criteria": {
+      "witch_eye": "2025-02-24 20:07:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-02-24 20:08:19 +0000"
     },
     "done": true
   },
