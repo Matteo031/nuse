@@ -980,3 +980,18 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [24Feb2025 05:36:28.031] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [24Feb2025 05:37:03.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -843.500000, -47.500000, 4188.500000]
 [24Feb2025 05:39:20.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
+[24Feb2025 05:52:17.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
+[24Feb2025 05:59:13.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1953.500000, 94.500000, 3951.500000]
+[24Feb2025 05:59:32.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -2356.500000, 72.500000, 4304.500000]
+[24Feb2025 06:00:58.736] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager bde18365: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[24Feb2025 06:01:00.643] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager bde18365: RandomSpreadSearchWorker failed with 10151 radius, 54 samples
+[24Feb2025 06:01:12.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
+[24Feb2025 06:01:24.001] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager bde18365: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[24Feb2025 06:01:25.418] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager bde18365: RandomSpreadSearchWorker succeeded with 9685 radius, 45 samples
+[24Feb2025 06:01:38.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2782ms or 55 ticks behind
+[24Feb2025 06:01:40.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RennSo has made the advancement [Sunken City]
+[24Feb2025 06:02:33.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
+[24Feb2025 06:02:56.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to 5096.500000, 94.500000, -5980.500000]
+[24Feb2025 06:05:28.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/342258, l='ServerLevel[world]', x=4914.47, y=62.51, z=-5996.59] died, message: 'Unemployed was slain by Siren'
+[24Feb2025 06:07:02.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to -1232.500000, 75.500000, 1345.500000]
+[24Feb2025 06:07:10.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RennSo: Teleported RennSo to 5096.500000, 94.500000, -5980.500000]

@@ -1608,6 +1608,12 @@
     },
     "done": true
   },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-02-24 06:01:40 +0000"
+    },
+    "done": true
+  },
   "mekanism:heat_transport": {
     "criteria": {
       "basic_thermodynamic_conductor": "2025-02-24 04:54:28 +0000"
