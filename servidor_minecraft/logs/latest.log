@@ -956,3 +956,11 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [24Feb2025 01:31:59.485] [Server thread/INFO] [ping-wheel/]: Channel update: RennSo -> default
 [24Feb2025 01:32:05.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
 [24Feb2025 01:33:06.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RennSo moved wrongly!
+[24Feb2025 01:43:49.396] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/23185, l='ServerLevel[world]', x=171.50, y=72.85, z=992.31] died: Desert Blaze was slain by RennSo
+[24Feb2025 01:46:47.596] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/23186, l='ServerLevel[world]', x=187.18, y=71.71, z=1023.40] died: Desert Blaze was slain by RennSo
+[24Feb2025 01:52:07.615] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/27525, l='ServerLevel[world]', x=177.15, y=71.71, z=985.14] died: Desert Blaze was slain by RennSo
+[24Feb2025 01:52:15.950] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/27523, l='ServerLevel[world]', x=174.33, y=73.07, z=993.44] died: Desert Blaze was slain by RennSo
+[24Feb2025 01:52:21.906] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/27524, l='ServerLevel[world]', x=190.86, y=71.00, z=980.45] died: Desert Blaze was slain by RennSo
+[24Feb2025 01:56:05.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=191, y=92, z=1009} BlockPos{x=188, y=90, z=1009}
+[24Feb2025 01:56:26.846] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=193, y=88, z=1000} BlockPos{x=193, y=88, z=1002}
+[24Feb2025 02:00:10.190] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/34576, l='ServerLevel[world]', x=171.50, y=71.00, z=937.45] died: Desert Blaze was slain by Wither Skeleton
